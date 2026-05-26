@@ -63,6 +63,9 @@
 		<meta id="collection-2" property="belongs-to-collection">Little Women</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
 		<meta property="group-position" refines="#collection-2">1</meta>
+		<meta id="collection-3" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
+		<meta property="group-position" refines="#collection-3">25</meta>
 		<dc:description id="description">The story of how four young sisters grow to adulthood.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Little Women&lt;/i&gt; is the classic coming-of-age tale of four sisters on their journey to adulthood. Though today it’s considered a classic, &lt;i&gt;Little Women&lt;/i&gt; almost wasn’t written: &lt;a href="https://standardebooks.org/ebooks/louisa-may-alcott"&gt;Alcott&lt;/a&gt; wanted to publish a collection of short stories instead, but her publisher and her father pressed her to write a book that would appeal to a wide audience of young girls.&lt;/p&gt;
