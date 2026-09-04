@@ -30,12 +30,12 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Little Women</dc:title>
 		<meta property="file-as" refines="#title">Little Women</meta>
-		<dc:subject id="subject-1">New England -- Fiction</dc:subject>
-		<dc:subject id="subject-2">March family (Fictitious characters) -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Sisters -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Family life -- New England -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Mothers and daughters -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-1">New England--Fiction</dc:subject>
+		<dc:subject id="subject-2">March family (Fictitious characters)--Fiction</dc:subject>
+		<dc:subject id="subject-3">Sisters--Fiction</dc:subject>
+		<dc:subject id="subject-4">Family life--New England--Fiction</dc:subject>
+		<dc:subject id="subject-5">Mothers and daughters--Fiction</dc:subject>
+		<dc:subject id="subject-6">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-7">Domestic fiction</dc:subject>
 		<dc:subject id="subject-8">Autobiographical fiction</dc:subject>
 		<dc:subject id="subject-9">Bildungsromans</dc:subject>
