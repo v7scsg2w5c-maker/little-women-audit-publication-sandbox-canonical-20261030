@@ -1,0 +1,18 @@
+diff --git a/src/epub/text/chapter-12.xhtml b/src/epub/text/chapter-12.xhtml
+index d357ca056b6502f278a729a362c45caa1d820a5e..97db1d5823a23471899e0b53155f706f31a8e518 100644
+--- a/src/epub/text/chapter-12.xhtml
++++ b/src/epub/text/chapter-12.xhtml
+@@ -199,11 +199,11 @@
+ 			<p>“I haven’t heard Frank laugh so much for ever so long,” said Grace to Amy, as they sat discussing dolls, and making tea-sets out of the acorn-cups.</p>
+ 			<p>“My sister Beth is a very <em>fastidious</em> girl, when she likes to be,” said Amy, well pleased at Beth’s success. She meant “fascinating,” but as Grace didn’t know the exact meaning of either word, “fastidious” sounded well, and made a good impression.</p>
+ 			<p>An impromptu circus, fox and geese, and an amicable game of croquet, finished the afternoon. At sunset the tent was struck, hampers packed, wickets pulled up, boats loaded, and the whole party floated down the river, singing at the tops of their voices. Ned, getting sentimental, warbled a serenade with the pensive refrain⁠—</p>
+-			<blockquote>
++			<blockquote epub:type="z3998:song">
+ 				<p>“Alone, alone, ah! woe, alone,”</p>
+ 			</blockquote>
+ 			<p class="continued">and at the lines⁠—</p>
+-			<blockquote epub:type="z3998:verse">
++			<blockquote epub:type="z3998:song">
+ 				<p>
+ 					<span>“We each are young, we each have a heart,</span>
+ 					<br/>

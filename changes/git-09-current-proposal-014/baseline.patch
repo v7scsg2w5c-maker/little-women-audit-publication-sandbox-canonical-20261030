@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-31.xhtml b/src/epub/text/chapter-31.xhtml
+index cf9a25fb782680fe0841e71878e13a7a0638984d..6d0f9dd439e12b5d01d9593eff6a492de918c66e 100644
+--- a/src/epub/text/chapter-31.xhtml
++++ b/src/epub/text/chapter-31.xhtml
+@@ -11,7 +11,7 @@
+ 				<h3 epub:type="z3998:ordinal z3998:roman">XXXI</h3>
+ 				<p epub:type="title">Our Foreign Correspondent</p>
+ 			</hgroup>
+-			<blockquote>
++			<blockquote epub:type="z3998:letter">
+ 				<p epub:type="se:letter.dateline">“London.</p>
+ 				<p epub:type="z3998:salutation">“Dearest People⁠—</p>
+ 				<p>“Here I really sit at a front window of the Bath Hotel, Piccadilly. It’s not a fashionable place, but uncle stopped here years ago, and won’t go anywhere else; however, we don’t mean to stay long, so it’s no great matter. Oh, I can’t begin to tell you how I enjoy it all! I never can, so I’ll only give you bits out of my notebook, for I’ve done nothing but sketch and scribble since I started.</p>

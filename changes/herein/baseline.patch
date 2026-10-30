@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-33.xhtml b/src/epub/text/chapter-33.xhtml
+index 6330f921905ec2485d5096cce1b33e5591f74147..31e53ededef2c7ef4bc884ba08680439e420a657 100644
+--- a/src/epub/text/chapter-33.xhtml
++++ b/src/epub/text/chapter-33.xhtml
+@@ -33,7 +33,7 @@
+ 					<p>‘<i xml:lang="de">Kennst du das land</i>,’</p>
+ 				</blockquote>
+ 				<p class="continued">like a big bumblebee. It was dreadfully improper, I know, but I couldn’t resist the temptation; and lifting one end of the curtain before the glass door, I peeped in. Professor Bhaer was there; and while he arranged his books, I took a good look at him. A regular German⁠—rather stout, with brown hair tumbled all over his head, a bushy beard, good nose, the kindest eyes I ever saw, and a splendid big voice that does one’s ears good, after our sharp or slipshod American gabble. His clothes were rusty, his hands were large, and he hadn’t a really handsome feature in his face, except his beautiful teeth; yet I liked him, for he had a fine head; his linen was very nice, and he looked like a gentleman, though two buttons were off his coat, and there was a patch on one shoe. He looked sober in spite of his humming, till he went to the window to turn the hyacinth bulbs toward the sun, and stroke the cat, who received him like an old friend. Then he smiled; and when a tap came at the door, called out in a loud, brisk tone⁠—</p>
+-				<p>“ ‘Herein!’</p>
++				<p>“ ‘<i xml:lang="de">Herein!</i>’</p>
+ 				<p>“I was just going to run, when I caught sight of a morsel of a child carrying a big book, and stopped to see what was going on.</p>
+ 				<p>“ ‘Me wants my Bhaer,’ said the mite, slamming down her book, and running to meet him.</p>
+ 				<p>“ ‘Thou shalt haf thy Bhaer; come, then, and take a goot hug from him, my Tina,’ said the Professor, catching her up, with a laugh, and holding her so high over his head that she had to stoop her little face to kiss him.</p>

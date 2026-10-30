@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-21.xhtml b/src/epub/text/chapter-21.xhtml
+index fb0199fd3256f4e4ced950e8df9d350ccf4d2236..dfcae460b8369b49efc8203e2436af153c0688b3 100644
+--- a/src/epub/text/chapter-21.xhtml
++++ b/src/epub/text/chapter-21.xhtml
+@@ -108,7 +108,7 @@
+ 			<p>“He did do wrong, but we forgave him, and all promised not to say a word to anyone,” began Jo reluctantly.</p>
+ 			<p>“That won’t do; he shall not shelter himself behind a promise from you softhearted girls. If he’s done anything amiss, he shall confess, beg pardon, and be punished. Out with it, Jo, I won’t be kept in the dark.”</p>
+ 			<p><abbr epub:type="z3998:name-title">Mr.</abbr> Laurence looked so alarming and spoke so sharply that Jo would have gladly run away, if she could, but she was perched aloft on the steps, and he stood at the foot, a lion in the path, so she had to stay and brave it out.</p>
+-			<p>“Indeed, sir, I cannot tell; mother forbade it. Laurie has confessed, asked pardon, and been punished quite enough. We don’t keep silence to shield him, but someone else, and it will make more trouble if you interfere. Please don’t; it was partly my fault, but it’s all right now; so let’s forget it, and talk about the <i epub:type="se:name.publication.magazine">Rambler</i>, or something pleasant.”</p>
++			<p>“Indeed, sir, I cannot tell; Mother forbade it. Laurie has confessed, asked pardon, and been punished quite enough. We don’t keep silence to shield him, but someone else, and it will make more trouble if you interfere. Please don’t; it was partly my fault, but it’s all right now; so let’s forget it, and talk about the <i epub:type="se:name.publication.magazine">Rambler</i>, or something pleasant.”</p>
+ 			<p>“Hang the <i epub:type="se:name.publication.magazine">Rambler</i>! come down and give me your word that this harum-scarum boy of mine hasn’t done anything ungrateful or impertinent. If he has, after all your kindness to him, I’ll thrash him with my own hands.”</p>
+ 			<p>The threat sounded awful, but did not alarm Jo, for she knew the irascible old gentleman would never lift a finger against his grandson, whatever he might say to the contrary. She obediently descended, and made as light of the prank as she could without betraying Meg or forgetting the truth.</p>
+ 			<p>“Hum⁠—ha⁠—well, if the boy held his tongue because he promised, and not from obstinacy, I’ll forgive him. He’s a stubborn fellow, and hard to manage,” said <abbr epub:type="z3998:name-title">Mr.</abbr> Laurence, rubbing up his hair till it looked as if he had been out in a gale, and smoothing the frown from his brow with an air of relief.</p>

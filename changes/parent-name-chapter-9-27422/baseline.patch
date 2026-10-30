@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-9.xhtml b/src/epub/text/chapter-9.xhtml
+index a7250df49a45e628539106f96c257dc05203ce96..a5fc6d6c9c2f7ba6ed96bda2a7e35046e3c7e3e7 100644
+--- a/src/epub/text/chapter-9.xhtml
++++ b/src/epub/text/chapter-9.xhtml
+@@ -116,7 +116,7 @@
+ 			<p>“Won’t I!” said Laurie, with alacrity.</p>
+ 			<p>“Please don’t tell them at home about my dress tonight. They won’t understand the joke, and it will worry mother.”</p>
+ 			<p>“Then why did you do it?” said Laurie’s eyes, so plainly that Meg hastily added⁠—</p>
+-			<p>“I shall tell them, myself, all about it, and ’fess to mother how silly I’ve been. But I’d rather do it myself; so you’ll not tell, will you?”</p>
++			<p>“I shall tell them, myself, all about it, and ’fess to Mother how silly I’ve been. But I’d rather do it myself; so you’ll not tell, will you?”</p>
+ 			<p>“I give you my word I won’t; only what shall I say when they ask me?”</p>
+ 			<p>“Just say I looked pretty well, and was having a good time.”</p>
+ 			<p>“I’ll say the first, with all my heart; but how about the other? You don’t look as if you were having a good time; are you?” and Laurie looked at her with an expression which made her answer, in a whisper⁠—</p>

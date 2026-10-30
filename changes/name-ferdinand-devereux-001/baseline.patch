@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-10.xhtml b/src/epub/text/chapter-10.xhtml
+index 7941a3598cdbf104fb92a5e705aaa2b54f23d4b7..76590211bbc3d4ca9d1bc1af7d705cd9c0d4505e 100644
+--- a/src/epub/text/chapter-10.xhtml
++++ b/src/epub/text/chapter-10.xhtml
+@@ -137,7 +137,7 @@
+ 					<p>“Gladly would I give it if I could; but I only know that it was the whim of my timid Viola, and I yielded to it. Now, my children, let the play end. Unmask, and receive my blessing.”</p>
+ 					<p>But neither bent the knee; for the young bridegroom replied, in a tone that startled all listeners, as the mask fell, disclosing the noble face of Ferdinand Devereux, the artist lover; and, leaning on the breast where now flashed the star of an English earl, was the lovely Viola, radiant with joy and beauty.</p>
+ 					<p>“My lord, you scornfully bade me claim your daughter when I could boast as high a name and vast a fortune as the Count Antonio. I can do more; for even your ambitious soul cannot refuse the Earl of Devereux and De Vere, when he gives his ancient name and boundless wealth in return for the beloved hand of this fair lady, now my wife.”</p>
+-					<p>The count stood like one changed to stone; and, turning to the bewildered crowd, Ferdinand added, with a gay smile of triumph, “To you, my gallant friends, I can only wish that your wooing may prosper as mine has done; and that you may all win as fair a bride as I have, by this masked marriage.”</p>
++					<p>The count stood like one changed to stone; and, turning to the bewildered crowd, <span epub:type="z3998:personal-name">Ferdinand</span> added, with a gay smile of triumph, “To you, my gallant friends, I can only wish that your wooing may prosper as mine has done; and that you may all win as fair a bride as I have, by this masked marriage.”</p>
+ 					<footer role="presentation">
+ 						<p epub:type="z3998:signature"><abbr epub:type="z3998:given-name">S.</abbr> Pickwick</p>
+ 					</footer>

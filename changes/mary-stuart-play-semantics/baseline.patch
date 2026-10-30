@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-12.xhtml b/src/epub/text/chapter-12.xhtml
+index d357ca056b6502f278a729a362c45caa1d820a5e..1fd35339dd8488f11ec263df69eb535cad99eda1 100644
+--- a/src/epub/text/chapter-12.xhtml
++++ b/src/epub/text/chapter-12.xhtml
+@@ -157,7 +157,7 @@
+ 			<p>“Oh, yes! it was very sweet, and I’m much obliged to whoever translated it for me;” and Meg’s downcast face brightened as she spoke.</p>
+ 			<p>“Don’t you read German?” asked Miss Kate, with a look of surprise.</p>
+ 			<p>“Not very well. My father, who taught me, is away, and I don’t get on very fast alone, for I’ve no one to correct my pronunciation.”</p>
+-			<p>“Try a little now; here is Schiller’s <i epub:type="se:name.publication.book">Mary Stuart</i>, and a tutor who loves to teach,” and <abbr epub:type="z3998:name-title">Mr.</abbr> Brooke laid his book on her lap, with an inviting smile.</p>
++			<p>“Try a little now; here is Schiller’s <i epub:type="se:name.publication.play">Mary Stuart</i>, and a tutor who loves to teach,” and <abbr epub:type="z3998:name-title">Mr.</abbr> Brooke laid his book on her lap, with an inviting smile.</p>
+ 			<p>“It’s so hard I’m afraid to try,” said Meg, grateful, but bashful in the presence of the accomplished young lady beside her.</p>
+ 			<p>“I’ll read a bit to encourage you;” and Miss Kate read one of the most beautiful passages, in a perfectly correct but perfectly expressionless manner.</p>
+ 			<p><abbr epub:type="z3998:name-title">Mr.</abbr> Brooke made no comment, as she returned the book to Meg, who said innocently⁠—</p>

@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-3.xhtml b/src/epub/text/chapter-3.xhtml
+index ed35e8942f1be0c4eb901048313119f8147d79f3..6cd5c35cb0e3ed2731bacfb2b6ba34bc362be82a 100644
+--- a/src/epub/text/chapter-3.xhtml
++++ b/src/epub/text/chapter-3.xhtml
+@@ -117,7 +117,7 @@
+ 			<p>“Mercy, no! Don’t ask or tell anyone. Get me my rubbers, and put these slippers with our things. I can’t dance any more; but as soon as supper is over, watch for Hannah, and tell me the minute she comes.”</p>
+ 			<p>“They are going out to supper now. I’ll stay with you; I’d rather.”</p>
+ 			<p>“No, dear, run along, and bring me some coffee. I’m so tired, I can’t stir!”</p>
+-			<p>So Meg reclined, with rubbers well hidden, and Jo went blundering away to the dining-room, which she found after going into a china-closet, and opening the door of a room where old <abbr epub:type="z3998:name-title">Mr.</abbr> Gardiner was taking a little private refreshment. Making a dart at the table, she secured the coffee, which she immediately spilt, thereby making the front of her dress as bad as the back.</p>
++			<p>So Meg reclined, with rubbers well hidden, and Jo went blundering away to the dining-room, which she found after going into a china-closet, and opening the door of a room where old <abbr epub:type="z3998:name-title">Mr.</abbr> <span epub:type="z3998:personal-name">Gardiner</span> was taking a little private refreshment. Making a dart at the table, she secured the coffee, which she immediately spilt, thereby making the front of her dress as bad as the back.</p>
+ 			<p>“Oh, dear, what a blunderbuss I am!” exclaimed Jo, finishing Meg’s glove by scrubbing her gown with it.</p>
+ 			<p>“Can I help you?” said a friendly voice; and there was Laurie, with a full cup in one hand and a plate of ice in the other.</p>
+ 			<p>“I was trying to get something for Meg, who is very tired, and someone shook me; and here I am, in a nice state,” answered Jo, glancing dismally from the stained skirt to the coffee-colored glove.</p>

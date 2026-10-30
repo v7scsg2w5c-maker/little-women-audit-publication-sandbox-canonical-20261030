@@ -1,0 +1,51 @@
+# All semantic
+
+| Proposal | Description | Selected / full changes | Git files / + / − | Characteristics |
+| --- | --- | ---: | ---: | --- |
+| Normal-case letter datelines | Keep letter datelines in normal case by adding font-variant: normal to the existing se:letter.dateline selector; retain right alignment. | 1 / 1 | 1 / 1 / 0 | technical_recommendation; prerequisite |
+| quoted song line structure | Wrap each quoted song line in a span inside its stanza paragraph: the chapter 12 serenade refrain and the chapter 33 hummed German line. | 1 / 2 | 1 / 3 / 1 | technical_error; prerequisite |
+| Amy Curtis March — optional personal-name annotations | Add optional name annotations at 667 occurrences, grouped into 9 subject/surface commits. | 9 / 9 | 44 / 553 / 553 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Annie Moffat — optional personal-name annotations | Add optional name annotations at 18 occurrences, grouped into 2 subject/surface commits. | 2 / 2 | 4 / 17 / 17 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Belle Moffat — optional personal-name annotations | Add optional name annotations at 17 occurrences, grouped into 2 subject/surface commits. | 2 / 2 | 2 / 16 / 16 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Elizabeth “Beth” March — optional personal-name annotations | Add optional name annotations at 480 occurrences, grouped into 8 subject/surface commits. | 8 / 8 | 44 / 400 / 400 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Aunt Carrol — optional personal-name annotations | Add optional name annotations at 17 occurrences, grouped into 2 subject/surface commits. | 2 / 2 | 7 / 16 / 16 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Daisy Brooke — optional personal-name annotations | Add optional name annotations at 25 occurrences, grouped into 3 subject/surface commits. | 3 / 3 | 6 / 21 / 21 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| John Laurence Brooke (“Demi”) — optional personal-name annotations | Add optional name annotations at 57 occurrences, grouped into 5 subject/surface commits. | 5 / 5 | 6 / 50 / 50 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Florence “Flo” Carrol — optional personal-name annotations | Add optional name annotations at 22 occurrences, grouped into 2 subject/surface commits. | 2 / 2 | 7 / 18 / 18 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Frank Vaughn — optional personal-name annotations | Add optional name annotations at 18 occurrences, grouped into 2 subject/surface commits. | 2 / 2 | 2 / 15 / 15 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Fred Vaughn — optional personal-name annotations | Add optional name annotations at 53 occurrences, grouped into 3 subject/surface commits. | 3 / 3 | 5 / 37 / 37 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Friedrich Bhaer — optional personal-name annotations | Add optional name annotations at 95 occurrences, grouped into 8 subject/surface commits. | 8 / 8 | 8 / 80 / 80 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Hannah — optional personal-name annotations | Add optional name annotations at 124 occurrences, grouped into 1 subject/surface commits. | 1 / 1 | 33 / 112 / 112 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| James Laurence — optional personal-name annotations | Add optional name annotations at 81 occurrences, grouped into 2 subject/surface commits. | 2 / 2 | 22 / 77 / 77 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Josephine “Jo” March — optional personal-name annotations | Add optional name annotations at 1395 occurrences, grouped into 11 subject/surface commits. | 11 / 11 | 47 / 1176 / 1176 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| John Brooke — optional personal-name annotations | Add optional name annotations at 251 occurrences, grouped into 5 subject/surface commits. | 5 / 5 | 22 / 213 / 213 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Kate Vaughn — optional personal-name annotations | Add optional name annotations at 29 occurrences, grouped into 2 subject/surface commits. | 2 / 2 | 2 / 26 / 26 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Theodore “Laurie” Laurence — optional personal-name annotations | Add optional name annotations at 691 occurrences, grouped into 11 subject/surface commits. | 11 / 11 | 41 / 622 / 622 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Marmee | Add optional name annotations at 49 occurrences, grouped into 1 subject/surface commits. | 1 / 1 | 23 / 49 / 49 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Margaret “Meg” March Brooke — optional personal-name annotations | Add optional name annotations at 737 occurrences, grouped into 12 subject/surface commits. | 12 / 12 | 42 / 638 / 638 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Ned Moffat — optional personal-name annotations | Add optional name annotations at 24 occurrences, grouped into 2 subject/surface commits. | 2 / 2 | 7 / 24 / 24 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Other people and roles; allusive names | Add optional name annotations at 431 occurrences, grouped into 173 subject/surface commits. | 173 / 173 | 40 / 294 / 294 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| Sallie Gardiner / Moffat — optional personal-name annotations | Add optional name annotations at 55 occurrences, grouped into 6 subject/surface commits. | 6 / 6 | 11 / 46 / 46 | semantic_recommendation, component:tree-patterns, facet:untyped-proper-noun-surface |
+| actual foreign language | Mark Bhaer’s reply Herein as German with and add xml:lang="fr" to the existing Route de Roi italic carrier. | 2 / 2 | 2 / 2 / 2 | semantic_error |
+| artwork title semantics | Add se:name.visual-art to the two existing Dolce far niente italic title carriers in chapter 39. | 2 / 2 | 1 / 2 / 2 | semantic_recommendation |
+| attempted latin language enrichment | In Amy’s testament, wrap Anni Domino in and leave 1861 outside. | 1 / 1 | 1 / 1 / 1 | semantic_recommendation |
+| explicit hymn inflection | Identify the explicitly named hymns in chapters 22 and 43 with z3998:hymn. | 2 / 2 | 3 / 6 / 2 | semantic_error |
+| initial name subtype | Correct the semantic subtype of sixteen existing name abbreviations under Manual §8.10.4. | 16 / 16 | 5 / 12 / 12 | semantic_error, component:ir-within-work-transition-surprise, facet:within-work-child-transition-surprise |
+| letter closing compound restructuring | Group Laurie’s chapter 12 closing in a and one valediction paragraph, retaining its three lines with and marking the signature inline. | 1 / 1 | 1 / 5 / 3 | semantic_error |
+| letter postbody containment | Wrap the fifteen selected letter endings in , retaining their existing signatures, valedictions and postscript. | 15 / 15 | 7 / 50 / 20 | semantic_error |
+| letter prebody containment | Wrap the nine selected leading dateline and salutation groups in . | 9 / 9 | 2 / 32 / 14 | semantic_error |
+| letter recipient outside salutation | Add epub:type="z3998:recipient" to the existing Miss March address in chapter 6. | 1 / 1 | 1 / 1 / 1 | semantic_error |
+| letter semantic inflection | Add z3998:letter to the six selected correspondence blockquotes in chapters 31 and 33. | 6 / 6 | 2 / 6 / 6 | semantic_error |
+| mixed language salutation extent | In Amy’s chapter 16 salutation, wrap only Ma Chere in . | 1 / 1 | 1 / 1 / 1 | semantic_recommendation |
+| mouchoirs language | Add a French language span around the quoted word mouchoirs in chapter 33, without adding italics. | 1 / 1 | 1 / 1 / 1 | semantic_recommendation |
+| ordinary proper name language removal | Render the quoted Jungfrau appellation in plain roman without a language carrier. | 1 / 1 | 1 / 1 / 1 | semantic_error, component:parallel-occurrences, facet:singleton-bare-italic-context-free-observer |
+| parti language correction | Replace xml:lang="x-onglish" with xml:lang="fr" on parti in chapter 32. | 1 / 1 | 1 / 1 / 1 | semantic_recommendation |
+| quoted song inflection | Identify the Crinkle lullaby, both serenade fragments and the hummed Kennst du das land excerpt as z3998:song. | 3 / 3 | 3 / 7 / 5 | semantic_error, component:ir-within-work-transition-surprise, facet:within-work-child-transition-surprise |
+| represented english language carrier | Remove the private language overrides from deggerredation, dollanity, dewote, parley vooing and went, allowing them to inherit English while retaining their spellings and italics. | 5 / 5 | 4 / 5 / 5 | semantic_recommendation, component:parallel-occurrences, facet:singleton-bare-italic-context-free-observer |
+| vertu carrier and language | Use plain roman vertu in “an article of vertu” in chapter 33. | 1 / 1 | 1 / 1 / 1 | semantic_error |
+| vivan language removal | Remove xml:lang="es" from the italic vivan fragment in chapter 1. | 1 / 1 | 1 / 1 / 1 | semantic_error |
+| work subtype correction | Change Sartor Resartus from se:name.publication.magazine to se:name.publication.book in chapter 34. | 1 / 1 | 1 / 1 / 1 | semantic_error, component:git-change-policy, facet:git-change-policy-mechanical |
+| work subtype specificity | Use the play subtype for Schiller’s Mary Stuart and Death of Wallenstein, and recommend book for The Sea-Lion. | 3 / 3 | 2 / 3 / 3 | semantic_recommendation, component:git-change-policy, facet:git-change-policy-mechanical |
+| Language pronunciation in selected work titles | Add French language metadata to the existing Héloïse book-title carrier and only to Pathétique within Sonata Pathétique. | 2 / 2 | 2 / 2 / 2 | semantic_recommendation |
+
+349 changes included.

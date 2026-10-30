@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-10.xhtml b/src/epub/text/chapter-10.xhtml
+index 7941a3598cdbf104fb92a5e705aaa2b54f23d4b7..a273b90a32cc26c28335e978520523a7a0f7af4e 100644
+--- a/src/epub/text/chapter-10.xhtml
++++ b/src/epub/text/chapter-10.xhtml
+@@ -249,7 +249,7 @@
+ 					</p>
+ 					<footer role="presentation">
+ 						<p epub:type="z3998:signature">
+-							<abbr epub:type="z3998:given-name">A. S.</abbr>
++							<abbr epub:type="z3998:personal-name">A. S.</abbr>
+ 						</p>
+ 					</footer>
+ 				</blockquote>

@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-2.xhtml b/src/epub/text/chapter-2.xhtml
+index 66878f1db042a942d23b330581f4213268d3c83c..d7e52074fa90a1a51c1ae556c564619d42e9e21a 100644
+--- a/src/epub/text/chapter-2.xhtml
++++ b/src/epub/text/chapter-2.xhtml
+@@ -46,7 +46,7 @@
+ 			<p>“<i xml:lang="de">Ach, mein Gott!</i> it is good angels come to us!” said the poor woman, crying for joy.</p>
+ 			<p>“Funny angels in hoods and mittens,” said Jo, and set them laughing.</p>
+ 			<p>In a few minutes it really did seem as if kind spirits had been at work there. Hannah, who had carried wood, made a fire, and stopped up the broken panes with old hats and her own cloak. <abbr epub:type="z3998:name-title">Mrs.</abbr> March gave the mother tea and gruel, and comforted her with promises of help, while she dressed the little baby as tenderly as if it had been her own. The girls, meantime, spread the table, set the children round the fire, and fed them like so many hungry birds⁠—laughing, talking, and trying to understand the funny broken English.</p>
+-			<p>“<i xml:lang="de">Das ist gut!</i>” “<i xml:lang="de">Die Engel-kinder!</i>” cried the poor things, as they ate, and warmed their purple hands at the comfortable blaze.</p>
++			<p>“<i xml:lang="de">Das ist gut!</i>” “<i xml:lang="de">Die Engel-Kinder!</i>” cried the poor things, as they ate, and warmed their purple hands at the comfortable blaze.</p>
+ 			<p>The girls had never been called angel children before, and thought it very agreeable, especially Jo, who had been considered a “Sancho” ever since she was born. That was a very happy breakfast, though they didn’t get any of it; and when they went away, leaving comfort behind, I think there were not in all the city four merrier people than the hungry little girls who gave away their breakfasts and contented themselves with bread and milk on Christmas morning.</p>
+ 			<p>“That’s loving our neighbor better than ourselves, and I like it,” said Meg, as they set out their presents, while their mother was upstairs collecting clothes for the poor Hummels.</p>
+ 			<p>Not a very splendid show, but there was a great deal of love done up in the few little bundles; and the tall vase of red roses, white chrysanthemums, and trailing vines, which stood in the middle, gave quite an elegant air to the table.</p>

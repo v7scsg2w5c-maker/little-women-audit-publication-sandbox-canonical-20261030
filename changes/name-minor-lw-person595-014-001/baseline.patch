@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-1.xhtml b/src/epub/text/chapter-1.xhtml
+index 99a3196e0457428ff24f89d8e277638d6adbf830..e9ab97b15b91514edbd7e31f4cb15256a5d40a14 100644
+--- a/src/epub/text/chapter-1.xhtml
++++ b/src/epub/text/chapter-1.xhtml
+@@ -71,7 +71,7 @@
+ 			<p>Then things went smoothly, for Don Pedro defied the world in a speech of two pages without a single break; Hagar, the witch, chanted an awful incantation over her kettleful of simmering toads, with weird effect; Roderigo rent his chains asunder manfully, and Hugo died in agonies of remorse and arsenic, with a wild “Ha! ha!”</p>
+ 			<p>“It’s the best we’ve had yet,” said Meg, as the dead villain sat up and rubbed his elbows.</p>
+ 			<p>“I don’t see how you can write and act such splendid things, Jo. You’re a regular Shakespeare!” exclaimed Beth, who firmly believed that her sisters were gifted with wonderful genius in all things.</p>
+-			<p>“Not quite,” replied Jo modestly. “I do think <i epub:type="se:name.publication.play">The Witch’s Curse, an Operatic Tragedy</i>, is rather a nice thing; but I’d like to try <i epub:type="se:name.publication.play">Macbeth</i>, if we only had a trapdoor for Banquo. I always wanted to do the killing part. ‘Is that a dagger that I see before me?’ ” muttered Jo, rolling her eyes and clutching at the air, as she had seen a famous tragedian do.</p>
++			<p>“Not quite,” replied Jo modestly. “I do think <i epub:type="se:name.publication.play">The Witch’s Curse, an Operatic Tragedy</i>, is rather a nice thing; but I’d like to try <i epub:type="se:name.publication.play">Macbeth</i>, if we only had a trapdoor for <span epub:type="z3998:personal-name">Banquo</span>. I always wanted to do the killing part. ‘Is that a dagger that I see before me?’ ” muttered Jo, rolling her eyes and clutching at the air, as she had seen a famous tragedian do.</p>
+ 			<p>“No, it’s the toasting fork, with mother’s shoe on it instead of the bread. Beth’s stage-struck!” cried Meg, and the rehearsal ended in a general burst of laughter.</p>
+ 			<p>“Glad to find you so merry, my girls,” said a cheery voice at the door, and actors and audience turned to welcome a tall, motherly lady, with a “can-I-help-you” look about her which was truly delightful. She was not elegantly dressed, but a noble-looking woman, and the girls thought the gray cloak and unfashionable bonnet covered the most splendid mother in the world.</p>
+ 			<p>“Well, dearies, how have you got on today? There was so much to do, getting the boxes ready to go tomorrow, that I didn’t come home to dinner. Has anyone called, Beth? How is your cold, Meg? Jo, you look tired to death. Come and kiss me, baby.”</p>

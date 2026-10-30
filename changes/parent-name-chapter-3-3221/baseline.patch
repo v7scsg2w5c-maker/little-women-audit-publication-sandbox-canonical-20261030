@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-3.xhtml b/src/epub/text/chapter-3.xhtml
+index ed35e8942f1be0c4eb901048313119f8147d79f3..44aac74f50f7f34c6f4d5c9b9e1440df9e45c1bd 100644
+--- a/src/epub/text/chapter-3.xhtml
++++ b/src/epub/text/chapter-3.xhtml
+@@ -22,7 +22,7 @@
+ 			<p>“Mine are spoilt with lemonade, and I can’t get any new ones, so I shall have to go without,” said Jo, who never troubled herself much about dress.</p>
+ 			<p>“You <em>must</em> have gloves, or I won’t go,” cried Meg decidedly. “Gloves are more important than anything else; you can’t dance without them, and if you don’t I should be <em>so</em> mortified.”</p>
+ 			<p>“Then I’ll stay still. I don’t care much for company dancing; it’s no fun to go sailing round; I like to fly about and cut capers.”</p>
+-			<p>“You can’t ask mother for new ones, they are so expensive, and you are so careless. She said, when you spoilt the others, that she shouldn’t get you any more this winter. Can’t you make them do?” asked Meg anxiously.</p>
++			<p>“You can’t ask Mother for new ones, they are so expensive, and you are so careless. She said, when you spoilt the others, that she shouldn’t get you any more this winter. Can’t you make them do?” asked Meg anxiously.</p>
+ 			<p>“I can hold them crumpled up in my hand, so no one will know how stained they are: that’s all I can do. No! I’ll tell you how we can manage⁠—each wear one good one and carry a bad one; don’t you see?”</p>
+ 			<p>“Your hands are bigger than mine, and you will stretch my glove dreadfully,” began Meg, whose gloves were a tender point with her.</p>
+ 			<p>“Then I’ll go without. I don’t care what people say!” cried Jo, taking up her book.</p>

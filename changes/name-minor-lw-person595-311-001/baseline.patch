@@ -1,0 +1,22 @@
+diff --git a/src/epub/text/chapter-31.xhtml b/src/epub/text/chapter-31.xhtml
+index cf9a25fb782680fe0841e71878e13a7a0638984d..222f04e744996c98f19c12c56c38c7090c850d00 100644
+--- a/src/epub/text/chapter-31.xhtml
++++ b/src/epub/text/chapter-31.xhtml
+@@ -21,7 +21,7 @@
+ 				<p>“At Queenstown one of my new acquaintances left us⁠—<abbr epub:type="z3998:name-title">Mr.</abbr> Lennox⁠—and when I said something about the Lakes of Killarney, he sighed and sung, with a look at me⁠—</p>
+ 				<blockquote epub:type="z3998:song">
+ 					<p>
+-						<span class="i1">‘Oh, have you e’er heard of Kate Kearney?</span>
++						<span class="i1">‘Oh, have you e’er heard of <span epub:type="z3998:personal-name">Kate Kearney</span>?</span>
+ 						<br/>
+ 						<span class="i1">She lives on the banks of Killarney;</span>
+ 						<br/>
+@@ -29,7 +29,7 @@
+ 						<br/>
+ 						<span class="i1">Shun danger and fly,</span>
+ 						<br/>
+-						<span class="i1">For fatal’s the glance of Kate Kearney.’</span>
++						<span class="i1">For fatal’s the glance of <span epub:type="z3998:personal-name">Kate Kearney</span>.’</span>
+ 					</p>
+ 				</blockquote>
+ 				<p>“Wasn’t that nonsensical?</p>

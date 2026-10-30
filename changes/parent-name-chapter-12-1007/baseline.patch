@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-12.xhtml b/src/epub/text/chapter-12.xhtml
+index d357ca056b6502f278a729a362c45caa1d820a5e..665ac569e8f221a28b0bf8af4a552124adb91baa 100644
+--- a/src/epub/text/chapter-12.xhtml
++++ b/src/epub/text/chapter-12.xhtml
+@@ -12,7 +12,7 @@
+ 				<p epub:type="title">Camp Laurence</p>
+ 			</hgroup>
+ 			<p>Beth was postmistress, for, being most at home, she could attend to it regularly, and dearly liked the daily task of unlocking the little door and distributing the mail. One July day she came in with her hands full, and went about the house leaving letters and parcels, like the penny post.</p>
+-			<p>“Here’s your posy, mother! Laurie never forgets that,” she said, putting the fresh nosegay in the vase that stood in “Marmee’s corner,” and was kept supplied by the affectionate boy.</p>
++			<p>“Here’s your posy, Mother! Laurie never forgets that,” she said, putting the fresh nosegay in the vase that stood in “Marmee’s corner,” and was kept supplied by the affectionate boy.</p>
+ 			<p>“Miss Meg March, one letter and a glove,” continued Beth, delivering the articles to her sister, who sat near her mother, stitching wristbands.</p>
+ 			<p>“Why, I left a pair over there, and here is only one,” said Meg, looking at the gray cotton glove.</p>
+ 			<p>“Didn’t you drop the other in the garden?”</p>

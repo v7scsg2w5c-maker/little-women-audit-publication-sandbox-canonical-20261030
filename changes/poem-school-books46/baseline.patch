@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-46.xhtml b/src/epub/text/chapter-46.xhtml
+index ec63fd49cf344eda83cd16f6d09f0fdfc22e08b3..9ced025775d47b4ecffdd8492202f233f758cb10 100644
+--- a/src/epub/text/chapter-46.xhtml
++++ b/src/epub/text/chapter-46.xhtml
+@@ -179,7 +179,7 @@
+ 					<br/>
+ 					<span class="i1">And within a motley store</span>
+ 					<br/>
+-					<span>Of headless dolls, of schoolbooks torn,</span>
++					<span>Of headless dolls, of school-books torn,</span>
+ 					<br/>
+ 					<span class="i1">Birds and beasts that speak no more;</span>
+ 					<br/>

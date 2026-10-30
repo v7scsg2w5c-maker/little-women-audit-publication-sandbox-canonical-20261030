@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-27.xhtml b/src/epub/text/chapter-27.xhtml
+index c952795375699335b9dcb21a603f6fa8c524aace..74d016a4c4b72849fcb1ef34f3e66db38f4a0d88 100644
+--- a/src/epub/text/chapter-27.xhtml
++++ b/src/epub/text/chapter-27.xhtml
+@@ -42,7 +42,7 @@
+ 			<p>“It seems to me that Jo will profit more by making the trial than by waiting,” said <abbr epub:type="z3998:name-title">Mrs.</abbr> March. “Criticism is the best test of such work, for it will show her both unsuspected merits and faults, and help her to do better next time. We are too partial; but the praise and blame of outsiders will prove useful, even if she gets but little money.”</p>
+ 			<p>“Yes,” said Jo, knitting her brows, “that’s just it; I’ve been fussing over the thing so long, I really don’t know whether it’s good, bad, or indifferent. It will be a great help to have cool, impartial persons take a look at it, and tell me what they think of it.”</p>
+ 			<p>“I wouldn’t leave out a word of it; you’ll spoil it if you do, for the interest of the story is more in the minds than in the actions of the people, and it will be all a muddle if you don’t explain as you go on,” said Meg, who firmly believed that this book was the most remarkable novel ever written.</p>
+-			<p>“But <abbr epub:type="z3998:name-title">Mr.</abbr> Allen says, ‘Leave out the explanations, make it brief and dramatic, and let the characters tell the story,’ ” interrupted Jo, turning to the publisher’s note.</p>
++			<p>“But <abbr epub:type="z3998:name-title">Mr.</abbr> <span epub:type="z3998:personal-name">Allen</span> says, ‘Leave out the explanations, make it brief and dramatic, and let the characters tell the story,’ ” interrupted Jo, turning to the publisher’s note.</p>
+ 			<p>“Do as he tells you; he knows what will sell, and we don’t. Make a good, popular book, and get as much money as you can. By and by, when, you’ve got a name, you can afford to digress, and have philosophical and metaphysical people in your novels,” said Amy, who took a strictly practical view of the subject.</p>
+ 			<p>“Well,” said Jo, laughing, “if my people <em>are</em> ‘philosophical and metaphysical,’ it isn’t my fault, for I know nothing about such things, except what I hear father say, sometimes. If I’ve got some of his wise ideas jumbled up with my romance, so much the better for me. Now, Beth, what do you say?”</p>
+ 			<p>“I should so like to see it printed <em>soon</em>,” was all Beth said, and smiled in saying it; but there was an unconscious emphasis on the last word, and a wistful look in the eyes that never lost their childlike candor, which chilled Jo’s heart, for a minute, with a foreboding fear, and decided her to make her little venture “soon.”</p>

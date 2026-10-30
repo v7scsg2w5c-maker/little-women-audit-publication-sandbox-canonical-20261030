@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-32.xhtml b/src/epub/text/chapter-32.xhtml
+index bc1c5f97d57f50bc30d4ef7fc19bbbb107a04c59..cf067ba4f1be83be1c0eda8125724afc00d393b8 100644
+--- a/src/epub/text/chapter-32.xhtml
++++ b/src/epub/text/chapter-32.xhtml
+@@ -66,7 +66,7 @@
+ 					<span class="i2">Bold-faced jig!’ ”</span>
+ 				</p>
+ 			</blockquote>
+-			<p>It was impossible to help laughing at the funny conflict between Laurie’s chivalrous reluctance to speak ill of womankind, and his very natural dislike of the unfeminine folly of which fashionable society showed him many samples. Jo knew that “young Laurence” was regarded as a most eligible <i xml:lang="x-onglish">parti</i> by worldly mammas, was much smiled upon by their daughters, and flattered enough by ladies of all ages to make a coxcomb of him; so she watched him rather jealously, fearing he would be spoilt, and rejoiced more than she confessed to find that he still believed in modest girls. Returning suddenly to her admonitory tone, she said, dropping her voice, “If you <em>must</em> have a ‘went,’ Teddy, go and devote yourself to one of the ‘pretty, modest girls’ whom you do respect, and not waste your time with the silly ones.”</p>
++			<p>It was impossible to help laughing at the funny conflict between Laurie’s chivalrous reluctance to speak ill of womankind, and his very natural dislike of the unfeminine folly of which fashionable society showed him many samples. Jo knew that “young Laurence” was regarded as a most eligible <i xml:lang="fr">parti</i> by worldly mammas, was much smiled upon by their daughters, and flattered enough by ladies of all ages to make a coxcomb of him; so she watched him rather jealously, fearing he would be spoilt, and rejoiced more than she confessed to find that he still believed in modest girls. Returning suddenly to her admonitory tone, she said, dropping her voice, “If you <em>must</em> have a ‘went,’ Teddy, go and devote yourself to one of the ‘pretty, modest girls’ whom you do respect, and not waste your time with the silly ones.”</p>
+ 			<p>“You really advise it?” and Laurie looked at her with an odd mixture of anxiety and merriment in his face.</p>
+ 			<p>“Yes, I do; but you’d better wait till you are through college, on the whole, and be fitting yourself for the place meantime. You’re not half good enough for⁠—well, whoever the modest girl may be,” and Jo looked a little queer likewise, for a name had almost escaped her.</p>
+ 			<p>“That I’m not!” acquiesced Laurie, with an expression of humility quite new to him, as he dropped his eyes, and absently wound Jo’s apron-tassel round his finger.</p>

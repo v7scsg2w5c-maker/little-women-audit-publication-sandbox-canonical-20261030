@@ -1,0 +1,9 @@
+# John Laurence Brooke (“Demi”) — optional personal-name annotations
+
+| Change | Proposed commit subject | Exact changes | Commit | Patch | Message |
+| --- | --- | ---: | --- | --- | --- |
+| `name-demi-001` | Mark “Brooke” as a personal name | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/efb138071fb2cd88ff6088ee577752cfe6a86b6e) | [Patch](../../changes/name-demi-001/baseline.patch) | [Message](../../changes/name-demi-001/commit-message.txt) |
+| `name-demi-002` | Mark “Demi” as a personal name | 53 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/e90cb893722c95de73047dc3a9af02643a6fd545) | [Patch](../../changes/name-demi-002/baseline.patch) | [Message](../../changes/name-demi-002/commit-message.txt) |
+| `name-demi-003` | Mark “Demijohn” as a personal name | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/37b4f7fc608ebfee9fba5a7fe26bc1294c4a4034) | [Patch](../../changes/name-demi-003/baseline.patch) | [Message](../../changes/name-demi-003/commit-message.txt) |
+| `name-demi-004` | Mark “Jack” as a personal name | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/5e0f63cb17b1fd1f9300e54b8631e6d2fcf60902) | [Patch](../../changes/name-demi-004/baseline.patch) | [Message](../../changes/name-demi-004/commit-message.txt) |
+| `name-demi-005` | Mark “John Laurence” as a personal name | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/8c11fb9e61871a1d6215ceb05e22e115cc0280a4) | [Patch](../../changes/name-demi-005/baseline.patch) | [Message](../../changes/name-demi-005/commit-message.txt) |

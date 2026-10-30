@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-8.xhtml b/src/epub/text/chapter-8.xhtml
+index 957af3a01d805c77c291b07dbbbc795d5514669a..060736e03f0977fb29e5467084ee34bcf9bc8acc 100644
+--- a/src/epub/text/chapter-8.xhtml
++++ b/src/epub/text/chapter-8.xhtml
+@@ -21,7 +21,7 @@
+ 			<p>“I know! I know! you’re going to the theatre to see the <i epub:type="se:name.publication.play">Seven Castles</i>!” she cried; adding resolutely, “and I <em>shall</em> go, for mother said I might see it; and I’ve got my rag-money, and it was mean not to tell me in time.”</p>
+ 			<p>“Just listen to me a minute, and be a good child,” said Meg soothingly. “Mother doesn’t wish you to go this week, because your eyes are not well enough yet to bear the light of this fairy piece. Next week you can go with Beth and Hannah, and have a nice time.”</p>
+ 			<p>“I don’t like that half as well as going with you and Laurie. Please let me; I’ve been sick with this cold so long, and shut up, I’m dying for some fun. Do, Meg! I’ll be ever so good,” pleaded Amy, looking as pathetic as she could.</p>
+-			<p>“Suppose we take her. I don’t believe mother would mind, if we bundle her up well,” began Meg.</p>
++			<p>“Suppose we take her. I don’t believe Mother would mind, if we bundle her up well,” began Meg.</p>
+ 			<p>“If <em>she</em> goes <em>I</em> shan’t; and if I don’t, Laurie won’t like it; and it will be very rude, after he invited only us, to go and drag in Amy. I should think she’d hate to poke herself where she isn’t wanted,” said Jo crossly, for she disliked the trouble of overseeing a fidgety child, when she wanted to enjoy herself.</p>
+ 			<p>Her tone and manner angered Amy, who began to put her boots on, saying, in her most aggravating way, “I <em>shall</em> go; Meg says I may; and if I pay for myself, Laurie hasn’t anything to do with it.”</p>
+ 			<p>“You can’t sit with us, for our seats are reserved, and you mustn’t sit alone; so Laurie will give you his place, and that will spoil our pleasure; or he’ll get another seat for you, and that isn’t proper, when you weren’t asked. You shan’t stir a step; so you may just stay where you are,” scolded Jo, crosser than ever, having just pricked her finger in her hurry.</p>

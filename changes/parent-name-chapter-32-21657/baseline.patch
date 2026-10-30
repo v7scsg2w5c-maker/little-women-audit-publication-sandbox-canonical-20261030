@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-32.xhtml b/src/epub/text/chapter-32.xhtml
+index bc1c5f97d57f50bc30d4ef7fc19bbbb107a04c59..09661a497da6508b402670b0d55cfd15620b042b 100644
+--- a/src/epub/text/chapter-32.xhtml
++++ b/src/epub/text/chapter-32.xhtml
+@@ -105,7 +105,7 @@
+ 			<p>“Nor I; but your writing?”</p>
+ 			<p>“All the better for the change. I shall see and hear new things, get new ideas, and, even if I haven’t much time there, I shall bring home quantities of material for my rubbish.”</p>
+ 			<p>“I have no doubt of it; but are these your only reasons for this sudden fancy?”</p>
+-			<p>“No, mother.”</p>
++			<p>“No, Mother.”</p>
+ 			<p>“May I know the others?”</p>
+ 			<p>Jo looked up and Jo looked down, then said slowly, with sudden color in her cheeks, “It may be vain and wrong to say it, but⁠—I’m afraid⁠—Laurie is getting too fond of me.”</p>
+ 			<p>“Then you don’t care for him in the way it is evident he begins to care for you?” and <abbr epub:type="z3998:name-title">Mrs.</abbr> March looked anxious as she put the question.</p>

@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-3.xhtml b/src/epub/text/chapter-3.xhtml
+index ed35e8942f1be0c4eb901048313119f8147d79f3..4825d7a45ec4df27ebbcadd2875574b58c162b37 100644
+--- a/src/epub/text/chapter-3.xhtml
++++ b/src/epub/text/chapter-3.xhtml
+@@ -67,7 +67,7 @@
+ 			<p>“Nicely, thank you, <abbr epub:type="z3998:name-title">Mr.</abbr> Laurence; but I am not Miss March, I’m only Jo,” returned the young lady.</p>
+ 			<p>“I’m not <abbr epub:type="z3998:name-title">Mr.</abbr> Laurence, I’m only Laurie.”</p>
+ 			<p>“Laurie Laurence⁠—what an odd name!”</p>
+-			<p>“My first name is Theodore, but I don’t like it, for the fellows called me Dora, so I made them say Laurie instead.”</p>
++			<p>“My first name is <span epub:type="z3998:personal-name">Theodore</span>, but I don’t like it, for the fellows called me Dora, so I made them say Laurie instead.”</p>
+ 			<p>“I hate my name, too⁠—so sentimental! I wish everyone would say Jo, instead of Josephine. How did you make the boys stop calling you Dora?”</p>
+ 			<p>“I thrashed ’em.”</p>
+ 			<p>“I can’t thrash Aunt March, so I suppose I shall have to bear it”; and Jo resigned herself with a sigh.</p>

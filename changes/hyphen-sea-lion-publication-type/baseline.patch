@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-12.xhtml b/src/epub/text/chapter-12.xhtml
+index d357ca056b6502f278a729a362c45caa1d820a5e..d70f0fc0978545e342954701e40a03f1d9eef522 100644
+--- a/src/epub/text/chapter-12.xhtml
++++ b/src/epub/text/chapter-12.xhtml
+@@ -131,7 +131,7 @@
+ 			<p>“Let’s give it to him,” whispered Laurie to Jo, who nodded, and asked at once⁠—</p>
+ 			<p>“Didn’t you cheat at croquet?”</p>
+ 			<p>“Well, yes, a little bit.”</p>
+-			<p>“Good! Didn’t you take your story out of <i epub:type="se:name.publication.magazine">The Sea-Lion</i>?” said Laurie.</p>
++			<p>“Good! Didn’t you take your story out of <i epub:type="se:name.publication.book">The Sea-Lion</i>?” said Laurie.</p>
+ 			<p>“Rather.”</p>
+ 			<p>“Don’t you think the English nation perfect in every respect?” asked Sallie.</p>
+ 			<p>“I should be ashamed of myself if I didn’t.”</p>

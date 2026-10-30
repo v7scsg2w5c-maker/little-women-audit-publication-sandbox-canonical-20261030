@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-2.xhtml b/src/epub/text/chapter-2.xhtml
+index 66878f1db042a942d23b330581f4213268d3c83c..46c72ed89068b0b116c5c816e535d2f62a643070 100644
+--- a/src/epub/text/chapter-2.xhtml
++++ b/src/epub/text/chapter-2.xhtml
+@@ -118,7 +118,7 @@
+ 			<p>“It’s a mercy you didn’t, mother!” laughed Jo, looking at her boots. “But we’ll have another play, some time, that he <em>can</em> see. Perhaps he’ll help act; wouldn’t that be jolly?”</p>
+ 			<p>“I never had such a fine bouquet before! How pretty it is!” And Meg examined her flowers with great interest.</p>
+ 			<p>“They <em>are</em> lovely! But Beth’s roses are sweeter to me,” said <abbr epub:type="z3998:name-title">Mrs.</abbr> March, smelling the half-dead posy in her belt.</p>
+-			<p>Beth nestled up to her, and whispered softly, “I wish I could send my bunch to father. I’m afraid he isn’t having such a merry Christmas as we are.”</p>
++			<p>Beth nestled up to her, and whispered softly, “I wish I could send my bunch to Father. I’m afraid he isn’t having such a merry Christmas as we are.”</p>
+ 		</section>
+ 	</body>
+ </html>

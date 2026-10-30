@@ -1,0 +1,48 @@
+diff --git a/src/epub/css/local.css b/src/epub/css/local.css
+index 658b439297ed8033027f44a36c3f8934feab162a..0cf00b25afd5fba642a34bbc6bc55f05185d9f2a 100644
+--- a/src/epub/css/local.css
++++ b/src/epub/css/local.css
+@@ -49,6 +49,7 @@ p[epub|type~="z3998:signature"] + p[epub|type~="z3998:signature"]{
+ 	margin-top: 0;
+ }
+ 
++[epub|type~="z3998:hymn"] p,
+ [epub|type~="z3998:poem"] p,
+ [epub|type~="z3998:song"] p,
+ [epub|type~="z3998:verse"] p{
+@@ -56,6 +57,7 @@ p[epub|type~="z3998:signature"] + p[epub|type~="z3998:signature"]{
+ 	text-indent: 0;
+ }
+ 
++[epub|type~="z3998:hymn"] p > span,
+ [epub|type~="z3998:poem"] p > span,
+ [epub|type~="z3998:song"] p > span,
+ [epub|type~="z3998:verse"] p > span{
+@@ -64,12 +66,14 @@ p[epub|type~="z3998:signature"] + p[epub|type~="z3998:signature"]{
+ 	text-indent: -1em;
+ }
+ 
++[epub|type~="z3998:hymn"] p > span + br,
+ [epub|type~="z3998:poem"] p > span + br,
+ [epub|type~="z3998:song"] p > span + br,
+ [epub|type~="z3998:verse"] p > span + br{
+ 	display: none;
+ }
+ 
++[epub|type~="z3998:hymn"] p + p,
+ [epub|type~="z3998:poem"] p + p{
+ 	margin-top: 1em;
+ }
+diff --git a/src/epub/text/chapter-22.xhtml b/src/epub/text/chapter-22.xhtml
+index 04b8d76c0ab340c26038f935bf4be9c861790f60..c8bf861c1d480fe1bd7b60f888d7a4d14eacac15 100644
+--- a/src/epub/text/chapter-22.xhtml
++++ b/src/epub/text/chapter-22.xhtml
+@@ -98,7 +98,7 @@
+ 			<p>“What are you thinking of, Beth?” asked Jo, when Amy had thanked her father and told about her ring.</p>
+ 			<p>“I read in <i epub:type="se:name.publication.book">Pilgrim’s Progress</i> today, how, after many troubles, Christian and Hopeful came to a pleasant green meadow, where lilies bloomed all the year round, and there they rested happily, as we do now, before they went on to their journey’s end,” answered Beth; adding, as she slipped out of her father’s arms, and went slowly to the instrument, “It’s singing time now, and I want to be in my old place. I’ll try to sing the song of the shepherd-boy which the Pilgrims heard. I made the music for father, because he likes the verses.”</p>
+ 			<p>So, sitting at the dear little piano, Beth softly touched the keys, and, in the sweet voice they had never thought to hear again, sung to her own accompaniment the quaint hymn, which was a singularly fitting song for her:⁠—</p>
+-			<blockquote epub:type="z3998:poem">
++			<blockquote epub:type="z3998:hymn">
+ 				<p>
+ 					<span>“He that is down need fear no fall,</span>
+ 					<br/>

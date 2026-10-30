@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-22.xhtml b/src/epub/text/chapter-22.xhtml
+index 04b8d76c0ab340c26038f935bf4be9c861790f60..0e2a493e41b1f2dc0060ab6d0bd63ea134ccd421 100644
+--- a/src/epub/text/chapter-22.xhtml
++++ b/src/epub/text/chapter-22.xhtml
+@@ -65,7 +65,7 @@
+ 				</p>
+ 			</blockquote>
+ 			<p>How Beth laughed when she saw it, how Laurie ran up and down to bring in the gifts, and what ridiculous speeches Jo made as she presented them!</p>
+-			<p>“I’m so full of happiness, that, if father was only here, I couldn’t hold one drop more,” said Beth, quite sighing with contentment as Jo carried her off to the study to rest after the excitement, and to refresh herself with some of the delicious grapes the “<i xml:lang="de">Jungfrau</i>” had sent her.</p>
++			<p>“I’m so full of happiness, that, if Father was only here, I couldn’t hold one drop more,” said Beth, quite sighing with contentment as Jo carried her off to the study to rest after the excitement, and to refresh herself with some of the delicious grapes the “<i xml:lang="de">Jungfrau</i>” had sent her.</p>
+ 			<p>“So am I,” added Jo, slapping the pocket wherein reposed the long-desired <i epub:type="se:name.publication.book">Undine and Sintram</i>.</p>
+ 			<p>“I’m sure I am,” echoed Amy, poring over the engraved copy of the Madonna and Child, which her mother had given her, in a pretty frame.</p>
+ 			<p>“Of course I am!” cried Meg, smoothing the silvery folds of her first silk dress; for <abbr epub:type="z3998:name-title">Mr.</abbr> Laurence had insisted on giving it.</p>

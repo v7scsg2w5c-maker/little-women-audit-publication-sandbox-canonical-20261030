@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-30.xhtml b/src/epub/text/chapter-30.xhtml
+index 0adad85319adb5b1524675e456586eff548b0374..dc29651c0914d5f0a630eb8486d3ae3408245d71 100644
+--- a/src/epub/text/chapter-30.xhtml
++++ b/src/epub/text/chapter-30.xhtml
+@@ -64,7 +64,7 @@
+ 			<p>“Everything of Amy’s sold long ago; I took care that the right people saw them, and they made a nice little sum of money for us,” returned May, who had overcome sundry small temptations, as well as Amy, that day.</p>
+ 			<p>Much gratified, Jo rushed back to tell the good news; and Amy looked both touched and surprised by the report of May’s words and manner.</p>
+ 			<p>“Now, gentlemen, I want you to go and do your duty by the other tables as generously as you have by mine⁠—especially the art-table,” she said, ordering out “Teddy’s Own,” as the girls called the college friends.</p>
+-			<p>“ ‘Charge, Chester, charge!’ is the motto for that table; but do your duty like men, and you’ll get your money’s worth of <em>art</em> in every sense of the word,” said the irrepressible Jo, as the devoted phalanx prepared to take the field.</p>
++			<p>“ ‘Charge, <span epub:type="z3998:personal-name">Chester</span>, charge!’ is the motto for that table; but do your duty like men, and you’ll get your money’s worth of <em>art</em> in every sense of the word,” said the irrepressible Jo, as the devoted phalanx prepared to take the field.</p>
+ 			<p>“To hear is to obey, but March is fairer far than May,” said little Parker, making a frantic effort to be both witty and tender, and getting promptly quenched by Laurie, who said, “Very well, my son, for a small boy!” and walked him off, with a paternal pat on the head.</p>
+ 			<p>“Buy the vases,” whispered Amy to Laurie, as a final heaping of coals of fire on her enemy’s head.</p>
+ 			<p>To May’s great delight, <abbr epub:type="z3998:name-title">Mr.</abbr> Laurence not only bought the vases, but pervaded the hall with one under each arm. The other gentlemen speculated with equal rashness in all sorts of frail trifles, and wandered helplessly about afterward, burdened with wax flowers, painted fans, filigree portfolios, and other useful and appropriate purchases.</p>

@@ -1,0 +1,26 @@
+diff --git a/src/epub/text/chapter-27.xhtml b/src/epub/text/chapter-27.xhtml
+index c952795375699335b9dcb21a603f6fa8c524aace..5a74914ee881f8a876f2c5aa73eb4deca255da97 100644
+--- a/src/epub/text/chapter-27.xhtml
++++ b/src/epub/text/chapter-27.xhtml
+@@ -20,7 +20,7 @@
+ 			<p>Jo accepted it with a smile, for she had never outgrown her liking for lads, and soon found herself involved in the usual labyrinth of love, mystery, and murder, for the story belonged to that class of light literature in which the passions have a holiday, and when the author’s invention fails, a grand catastrophe clears the stage of one half the dramatis personæ, leaving the other half to exult over their downfall.</p>
+ 			<p>“Prime, isn’t it?” asked the boy, as her eye went down the last paragraph of her portion.</p>
+ 			<p>“I think you and I could do as well as that if we tried,” returned Jo, amused at his admiration of the trash.</p>
+-			<p>“I should think I was a pretty lucky chap if I could. She makes a good living out of such stories, they say;” and he pointed to the name of <abbr epub:type="z3998:name-title">Mrs.</abbr> <abbr epub:type="z3998:given-name">S. L. A. N. G.</abbr> Northbury, under the title of the tale.</p>
++			<p>“I should think I was a pretty lucky chap if I could. She makes a good living out of such stories, they say;” and he pointed to the name of <abbr epub:type="z3998:name-title">Mrs.</abbr> <abbr epub:type="z3998:given-name">S. L. A. N. G.</abbr> <span epub:type="z3998:personal-name">Northbury</span>, under the title of the tale.</p>
+ 			<p>“Do you know her?” asked Jo, with sudden interest.</p>
+ 			<p>“No; but I read all her pieces, and I know a fellow who works in the office where this paper is printed.”</p>
+ 			<p>“Do you say she makes a good living out of stories like this?” and Jo looked more respectfully at the agitated group and thickly-sprinkled exclamation-points that adorned the page.</p>
+diff --git a/src/epub/text/chapter-34.xhtml b/src/epub/text/chapter-34.xhtml
+index 1195c5f12314a5ee38b93876385a3af71cc6ccce..c2e3d81a7c44d20c7773565a2e00d163c16255d9 100644
+--- a/src/epub/text/chapter-34.xhtml
++++ b/src/epub/text/chapter-34.xhtml
+@@ -40,7 +40,7 @@
+ 			<p>“Just as she likes, of course. The tale will be out next week; will you call for the money, or shall I send it?” asked <abbr epub:type="z3998:name-title">Mr.</abbr> Dashwood, who felt a natural desire to know who his new contributor might be.</p>
+ 			<p>“I’ll call. Good morning, sir.”</p>
+ 			<p>As she departed, <abbr epub:type="z3998:name-title">Mr.</abbr> Dashwood put up his feet, with the graceful remark, “Poor and proud, as usual, but she’ll do.”</p>
+-			<p>Following <abbr epub:type="z3998:name-title">Mr.</abbr> Dashwood’s directions, and making <abbr epub:type="z3998:name-title">Mrs.</abbr> Northbury her model, Jo rashly took a plunge into the frothy sea of sensational literature; but, thanks to the life-preserver thrown her by a friend, she came up again, not much the worse for her ducking.</p>
++			<p>Following <abbr epub:type="z3998:name-title">Mr.</abbr> Dashwood’s directions, and making <abbr epub:type="z3998:name-title">Mrs.</abbr> <span epub:type="z3998:personal-name">Northbury</span> her model, Jo rashly took a plunge into the frothy sea of sensational literature; but, thanks to the life-preserver thrown her by a friend, she came up again, not much the worse for her ducking.</p>
+ 			<p>Like most young scribblers, she went abroad for her characters and scenery; and banditti, counts, gypsies, nuns, and duchesses appeared upon her stage, and played their parts with as much accuracy and spirit as could be expected. Her readers were not particular about such trifles as grammar, punctuation, and probability, and <abbr epub:type="z3998:name-title">Mr.</abbr> Dashwood graciously permitted her to fill his columns at the lowest prices, not thinking it necessary to tell her that the real cause of his hospitality was the fact that one of his hacks, on being offered higher wages, had basely left him in the lurch.</p>
+ 			<p>She soon became interested in her work, for her emaciated purse grew stout, and the little hoard she was making to take Beth to the mountains next summer grew slowly but surely as the weeks passed. One thing disturbed her satisfaction, and that was that she did not tell them at home. She had a feeling that father and mother would not approve, and preferred to have her own way first, and beg pardon afterward. It was easy to keep her secret, for no name appeared with her stories; <abbr epub:type="z3998:name-title">Mr.</abbr> Dashwood had, of course, found it out very soon, but promised to be dumb; and, for a wonder, kept his word.</p>
+ 			<p>She thought it would do her no harm, for she sincerely meant to write nothing of which she should be ashamed, and quieted all pricks of conscience by anticipations of the happy minute when she should show her earnings and laugh over her well-kept secret.</p>

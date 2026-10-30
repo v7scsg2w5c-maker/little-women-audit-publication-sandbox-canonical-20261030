@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-22.xhtml b/src/epub/text/chapter-22.xhtml
+index 04b8d76c0ab340c26038f935bf4be9c861790f60..5116bf3c9037a33248dcab2e820be34620f8e632 100644
+--- a/src/epub/text/chapter-22.xhtml
++++ b/src/epub/text/chapter-22.xhtml
+@@ -82,7 +82,7 @@
+ 			<p>“I think it’s been a pretty hard one,” observed Amy, watching the light shine on her ring, with thoughtful eyes.</p>
+ 			<p>“I’m glad it’s over, because we’ve got you back,” whispered Beth, who sat on her father’s knee.</p>
+ 			<p>“Rather a rough road for you to travel, my little pilgrims, especially the latter part of it. But you have got on bravely; and I think the burdens are in a fair way to tumble off very soon,” said <abbr epub:type="z3998:name-title">Mr.</abbr> March, looking with fatherly satisfaction at the four young faces gathered round him.</p>
+-			<p>“How do you know? Did mother tell you?” asked Jo.</p>
++			<p>“How do you know? Did Mother tell you?” asked Jo.</p>
+ 			<p>“Not much; straws show which way the wind blows, and I’ve made several discoveries today.”</p>
+ 			<p>“Oh, tell us what they are!” cried Meg, who sat beside him.</p>
+ 			<p>“Here is one;” and taking up the hand which lay on the arm of his chair, he pointed to the roughened forefinger, a burn on the back, and two or three little hard spots on the palm. “I remember a time when this hand was white and smooth, and your first care was to keep it so. It was very pretty then, but to me it is much prettier now⁠—for in these seeming blemishes I read a little history. A burnt-offering has been made of vanity; this hardened palm has earned something better than blisters; and I’m sure the sewing done by these pricked fingers will last a long time, so much goodwill went into the stitches. Meg, my dear, I value the womanly skill which keeps home happy more than white hands or fashionable accomplishments. I’m proud to shake this good, industrious little hand, and hope I shall not soon be asked to give it away.”</p>

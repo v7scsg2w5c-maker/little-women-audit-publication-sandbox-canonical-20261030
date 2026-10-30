@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-29.xhtml b/src/epub/text/chapter-29.xhtml
+index 144cab8447c78b88f5fcf10b5b23f4ea29a73ac6..4d75547e62461e20ca7e2f2fcc9753bbd4a0c007 100644
+--- a/src/epub/text/chapter-29.xhtml
++++ b/src/epub/text/chapter-29.xhtml
+@@ -47,7 +47,7 @@
+ 			<p>“Of course she did, and had a capital time. I expected to see her brought home in fragments, but she managed him perfectly, and was the life of the party.”</p>
+ 			<p>“Well, I call that plucky!” and young <abbr epub:type="z3998:name-title">Mr.</abbr> Lamb turned an approving glance upon Amy, wondering what his mother could be saying to make the girl look so red and uncomfortable.</p>
+ 			<p>She was still redder and more uncomfortable a moment after, when a sudden turn in the conversation introduced the subject of dress. One of the young ladies asked Jo where she got the pretty drab hat she wore to the picnic; and stupid Jo, instead of mentioning the place where it was bought two years ago, must needs answer, with unnecessary frankness, “Oh, Amy painted it; you can’t buy those soft shades, so we paint ours any color we like. It’s a great comfort to have an artistic sister.”</p>
+-			<p>“Isn’t that an original idea?” cried Miss Lamb, who found Jo great fun.</p>
++			<p>“Isn’t that an original idea?” cried Miss <span epub:type="z3998:personal-name">Lamb</span>, who found Jo great fun.</p>
+ 			<p>“That’s nothing compared to some of her brilliant performances. There’s nothing the child can’t do. Why, she wanted a pair of blue boots for Sallie’s party, so she just painted her soiled white ones the loveliest shade of sky-blue you ever saw, and they looked exactly like satin,” added Jo, with an air of pride in her sister’s accomplishments that exasperated Amy till she felt that it would be a relief to throw her card-case at her.</p>
+ 			<p>“We read a story of yours the other day, and enjoyed it very much,” observed the elder Miss Lamb, wishing to compliment the literary lady, who did not look the character just then, it must be confessed.</p>
+ 			<p>Any mention of her “works” always had a bad effect upon Jo, who either grew rigid and looked offended, or changed the subject with a brusque remark, as now. “Sorry you could find nothing better to read. I write that rubbish because it sells, and ordinary people like it. Are you going to New York this winter?”</p>

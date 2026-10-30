@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-3.xhtml b/src/epub/text/chapter-3.xhtml
+index ed35e8942f1be0c4eb901048313119f8147d79f3..05b54fed349a2049efb58b2c2efebf3c3d8db9dd 100644
+--- a/src/epub/text/chapter-3.xhtml
++++ b/src/epub/text/chapter-3.xhtml
+@@ -66,7 +66,7 @@
+ 			<p>“How is your cat, Miss March?” asked the boy, trying to look sober, while his black eyes shone with fun.</p>
+ 			<p>“Nicely, thank you, <abbr epub:type="z3998:name-title">Mr.</abbr> Laurence; but I am not Miss March, I’m only Jo,” returned the young lady.</p>
+ 			<p>“I’m not <abbr epub:type="z3998:name-title">Mr.</abbr> Laurence, I’m only Laurie.”</p>
+-			<p>“Laurie Laurence⁠—what an odd name!”</p>
++			<p>“<span epub:type="z3998:personal-name">Laurie Laurence</span>⁠—what an odd name!”</p>
+ 			<p>“My first name is Theodore, but I don’t like it, for the fellows called me Dora, so I made them say Laurie instead.”</p>
+ 			<p>“I hate my name, too⁠—so sentimental! I wish everyone would say Jo, instead of Josephine. How did you make the boys stop calling you Dora?”</p>
+ 			<p>“I thrashed ’em.”</p>

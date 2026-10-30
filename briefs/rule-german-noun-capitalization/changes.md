@@ -1,0 +1,10 @@
+# German noun capitalization
+
+| Change | Proposed commit subject | Exact changes | Commit | Patch | Message |
+| --- | --- | ---: | --- | --- | --- |
+| `v4-group-77` | [Editorial] Capitalize “Land” (chapter 33, line 33) | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/558bb13325d3e6d1a09762036bd61b5ab3ff081a) | [Patch](../../changes/v4-group-77/baseline.patch) | [Message](../../changes/v4-group-77/commit-message.txt) |
+| `bubchen` | [Editorial] Capitalize “Bübchen” (chapter 45, line 53) | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/c8a8c80ec55a5c23fd778be471deaeec07c12f5a) | [Patch](../../changes/bubchen/baseline.patch) | [Message](../../changes/bubchen/commit-message.txt) |
+| `engel-kinder` | [Editorial] Adjust capitalization of “Engel-Kinder” (chapter 2, line 49) | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/32ea89110486cff55e3bebf7032cea9026efc409) | [Patch](../../changes/engel-kinder/baseline.patch) | [Message](../../changes/engel-kinder/commit-message.txt) |
+| `heimweh` | [Editorial] Capitalize “Heimweh” (chapter 34, line 101) | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/bddd84fa2c59f13d55541350026637524a844958) | [Patch](../../changes/heimweh/baseline.patch) | [Message](../../changes/heimweh/commit-message.txt) |
+| `mannling` | [Editorial] Capitalize “Mannling” (chapter 45, line 61) | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/32ec73e825dd97b455f9dea142851ecbb6474dff) | [Patch](../../changes/mannling/baseline.patch) | [Message](../../changes/mannling/commit-message.txt) |
+| `das-land-chapter43` | [Editorial] Capitalize “Land” (chapter 43, line 147) | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/93300af16b48a9b0784dffce45311dc00c89fa80) | [Patch](../../changes/das-land-chapter43/baseline.patch) | [Message](../../changes/das-land-chapter43/commit-message.txt) |

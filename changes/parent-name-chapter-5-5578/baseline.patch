@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-5.xhtml b/src/epub/text/chapter-5.xhtml
+index 6c82f39e47ca500743ebb83215182d9eb24f32df..d70f77dfab4d3d0a378a6a69f9c5f2e0efcbea69 100644
+--- a/src/epub/text/chapter-5.xhtml
++++ b/src/epub/text/chapter-5.xhtml
+@@ -36,7 +36,7 @@
+ 			<p>“Don’t know any.”</p>
+ 			<p>“You know us,” began Jo, then laughed, and stopped.</p>
+ 			<p>“So I do! Will you come, please?” cried Laurie.</p>
+-			<p>“I’m not quiet and nice; but I’ll come, if mother will let me. I’ll go ask her. Shut that window, like a good boy, and wait till I come.”</p>
++			<p>“I’m not quiet and nice; but I’ll come, if Mother will let me. I’ll go ask her. Shut that window, like a good boy, and wait till I come.”</p>
+ 			<p>With that, Jo shouldered her broom and marched into the house, wondering what they would all say to her. Laurie was in a flutter of excitement at the idea of having company, and flew about to get ready; for, as <abbr epub:type="z3998:name-title">Mrs.</abbr> March said, he was “a little gentleman,” and did honor to the coming guest by brushing his curly pate, putting on a fresh collar, and trying to tidy up the room, which, in spite of half a dozen servants, was anything but neat. Presently there came a loud ring, then a decided voice, asking for “<abbr epub:type="z3998:name-title">Mr.</abbr> Laurie,” and a surprised-looking servant came running up to announce a young lady.</p>
+ 			<p>“All right, show her up, it’s Miss Jo,” said Laurie, going to the door of his little parlor to meet Jo, who appeared, looking rosy and kind and quite at her ease, with a covered dish in one hand and Beth’s three kittens in the other.</p>
+ 			<p>“Here I am, bag and baggage,” she said briskly. “Mother sent her love, and was glad if I could do anything for you. Meg wanted me to bring some of her blancmange; she makes it very nicely, and Beth thought her cats would be comforting. I knew you’d laugh at them, but I couldn’t refuse, she was so anxious to do something.”</p>

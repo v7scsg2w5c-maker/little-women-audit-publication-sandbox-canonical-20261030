@@ -1,0 +1,39 @@
+diff --git a/src/epub/text/chapter-34.xhtml b/src/epub/text/chapter-34.xhtml
+index 1195c5f12314a5ee38b93876385a3af71cc6ccce..c93a4b1cdf434bd8aba387630ea3acb973374175 100644
+--- a/src/epub/text/chapter-34.xhtml
++++ b/src/epub/text/chapter-34.xhtml
+@@ -61,7 +61,7 @@
+ 			<p>This belief strengthened daily. She valued his esteem, she coveted his respect, she wanted to be worthy of his friendship; and, just when the wish was sincerest, she came near losing everything. It all grew out of a cocked hat; for one evening the Professor came in to give Jo her lesson, with a paper soldier-cap on his head, which Tina had put there, and he had forgotten to take off.</p>
+ 			<p>“It’s evident he doesn’t look in his glass before coming down,” thought Jo, with a smile, as he said “Goot efening,” and sat soberly down, quite unconscious of the ludicrous contrast between his subject and his headgear, for he was going to read her the <i epub:type="se:name.publication.book">Death of Wallenstein</i>.</p>
+ 			<p>She said nothing at first, for she liked to hear him laugh out his big, hearty laugh, when anything funny happened, so she left him to discover it for himself, and presently forgot all about it; for to hear a German read Schiller is rather an absorbing occupation. After the reading came the lesson, which was a lively one, for Jo was in a gay mood that night, and the cocked-hat kept her eyes dancing with merriment. The Professor didn’t know what to make of her, and stopped at last, to ask, with an air of mild surprise that was irresistible⁠—</p>
+-			<p>“Mees Marsch, for what do you laugh in your master’s face? Haf you no respect for me, that you go on so bad?”</p>
++			<p>“Mees <span epub:type="z3998:personal-name">Marsch</span>, for what do you laugh in your master’s face? Haf you no respect for me, that you go on so bad?”</p>
+ 			<p>“How can I be respectful, sir, when you forget to take your hat off?” said Jo.</p>
+ 			<p>Lifting his hand to his head, the absentminded Professor gravely felt and removed the little cocked-hat, looked at it a minute, and then threw back his head, and laughed like a merry bass-viol.</p>
+ 			<p>“Ah! I see him now; it is that imp Tina who makes me a fool with my cap. Well, it is nothing; but see you, if this lesson goes not well, you too shall wear him.”</p>
+diff --git a/src/epub/text/chapter-43.xhtml b/src/epub/text/chapter-43.xhtml
+index c024c2d3531937fc3f62e285e8e96a54149d498c..68954a22a871d43154de3a0cc79b5e2bc6bd3981 100644
+--- a/src/epub/text/chapter-43.xhtml
++++ b/src/epub/text/chapter-43.xhtml
+@@ -108,7 +108,7 @@
+ 			<p>“I don’t care;” and Jo shut the door, feeling that food was an uncongenial topic just then. She stood a minute looking at the party vanishing above, and, as Demi’s short plaid legs toiled up the last stair, a sudden sense of loneliness came over her so strongly that she looked about her with dim eyes, as if to find something to lean upon, for even Teddy had deserted her. If she had known what birthday gift was coming every minute nearer and nearer, she would not have said to herself, “I’ll weep a little weep when I go to bed; it won’t do to be dismal now.” Then she drew her hand over her eyes⁠—for one of her boyish habits was never to know where her handkerchief was⁠—and had just managed to call up a smile when there came a knock at the porch-door.</p>
+ 			<p>She opened it with hospitable haste, and started as if another ghost had come to surprise her; for there stood a tall, bearded gentleman, beaming on her from the darkness like a midnight sun.</p>
+ 			<p>“O <abbr epub:type="z3998:name-title">Mr.</abbr> Bhaer, I <em>am</em> so glad to see you!” cried Jo, with a clutch, as if she feared the night would swallow him up before she could get him in.</p>
+-			<p>“And I to see Miss Marsch⁠—but no, you haf a party⁠—” and the Professor paused as the sound of voices and the tap of dancing feet came down to them.</p>
++			<p>“And I to see Miss <span epub:type="z3998:personal-name">Marsch</span>⁠—but no, you haf a party⁠—” and the Professor paused as the sound of voices and the tap of dancing feet came down to them.</p>
+ 			<p>“No, we haven’t, only the family. My sister and friends have just come home, and we are all very happy. Come in, and make one of us.”</p>
+ 			<p>Though a very social man, I think <abbr epub:type="z3998:name-title">Mr.</abbr> Bhaer would have gone decorously away, and come again another day; but how could he, when Jo shut the door behind him, and bereft him of his hat? Perhaps her face had something to do with it, for she forgot to hide her joy at seeing him, and showed it with a frankness that proved irresistible to the solitary man, whose welcome far exceeded his boldest hopes.</p>
+ 			<p>“If I shall not be Monsieur de Trop, I will so gladly see them all. You haf been ill, my friend?”</p>
+diff --git a/src/epub/text/chapter-46.xhtml b/src/epub/text/chapter-46.xhtml
+index ec63fd49cf344eda83cd16f6d09f0fdfc22e08b3..1ebe525314d42347adf6e20bddb17c84edb0f824 100644
+--- a/src/epub/text/chapter-46.xhtml
++++ b/src/epub/text/chapter-46.xhtml
+@@ -62,7 +62,7 @@
+ 			<p>“Like a squirrel.”</p>
+ 			<p>“Hamburg grapes; yes, we shall surely drink to the Fatherland in those?”</p>
+ 			<p>Jo frowned upon that piece of extravagance, and asked why he didn’t buy a frail of dates, a cask of raisins, and a bag of almonds, and done with it? Whereat <abbr epub:type="z3998:name-title">Mr.</abbr> Bhaer confiscated her purse, produced his own, and finished the marketing by buying several pounds of grapes, a pot of rosy daisies, and a pretty jar of honey, to be regarded in the light of a demijohn. Then, distorting his pockets with the knobby bundles, and giving her the flowers to hold, he put up the old umbrella, and they travelled on again.</p>
+-			<p>“Miss Marsch, I haf a great favor to ask of you,” began the Professor, after a moist promenade of half a block.</p>
++			<p>“Miss <span epub:type="z3998:personal-name">Marsch</span>, I haf a great favor to ask of you,” began the Professor, after a moist promenade of half a block.</p>
+ 			<p>“Yes, sir;” and Jo’s heart began to beat so hard she was afraid he would hear it.</p>
+ 			<p>“I am bold to say it in spite of the rain, because so short a time remains to me.”</p>
+ 			<p>“Yes, sir;” and Jo nearly crushed the small flowerpot with the sudden squeeze she gave it.</p>

@@ -1,0 +1,1 @@
+[Editorial] Change “head first” to “headfirst” (chapter 12, line 93)

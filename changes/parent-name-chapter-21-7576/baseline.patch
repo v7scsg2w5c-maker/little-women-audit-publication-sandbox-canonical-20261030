@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-21.xhtml b/src/epub/text/chapter-21.xhtml
+index fb0199fd3256f4e4ced950e8df9d350ccf4d2236..7f38e93ab0da79f1349055867964d339894ef855 100644
+--- a/src/epub/text/chapter-21.xhtml
++++ b/src/epub/text/chapter-21.xhtml
+@@ -39,7 +39,7 @@
+ 			<p>“Hush! let me manage this, for it is worse than I thought. Margaret, tell me the whole story,” commanded <abbr epub:type="z3998:name-title">Mrs.</abbr> March, sitting down by Meg, yet keeping hold of Jo, lest she should fly off.</p>
+ 			<p>“I received the first letter from Laurie, who didn’t look as if he knew anything about it,” began Meg, without looking up. “I was worried at first, and meant to tell you; then I remembered how you liked <abbr epub:type="z3998:name-title">Mr.</abbr> Brooke, so I thought you wouldn’t mind if I kept my little secret for a few days. I’m so silly that I liked to think no one knew; and, while I was deciding what to say, I felt like the girls in books, who have such things to do. Forgive me, mother, I’m paid for my silliness now; I never can look him in the face again.”</p>
+ 			<p>“What did you say to him?” asked <abbr epub:type="z3998:name-title">Mrs.</abbr> March.</p>
+-			<p>“I only said I was too young to do anything about it yet; that I didn’t wish to have secrets from you, and he must speak to father. I was very grateful for his kindness, and would be his friend, but nothing more, for a long while.”</p>
++			<p>“I only said I was too young to do anything about it yet; that I didn’t wish to have secrets from you, and he must speak to Father. I was very grateful for his kindness, and would be his friend, but nothing more, for a long while.”</p>
+ 			<p><abbr epub:type="z3998:name-title">Mrs.</abbr> March smiled, as if well pleased, and Jo clapped her hands, exclaiming, with a laugh⁠—</p>
+ 			<p>“You are almost equal to Caroline Percy, who was a pattern of prudence! Tell on, Meg. What did he say to that?”</p>
+ 			<p>“He writes in a different way entirely, telling me that he never sent any love-letter at all, and is very sorry that my roguish sister, Jo, should take such liberties with our names. It’s very kind and respectful, but think how dreadful for me!”</p>

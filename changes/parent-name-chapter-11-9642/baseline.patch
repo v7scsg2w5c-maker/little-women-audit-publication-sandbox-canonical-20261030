@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-11.xhtml b/src/epub/text/chapter-11.xhtml
+index 7e863e927a208bb65c105d6890ca9b00381f0fb2..9ed14dc52d3b42d7af078bb945efa79769571e1d 100644
+--- a/src/epub/text/chapter-11.xhtml
++++ b/src/epub/text/chapter-11.xhtml
+@@ -36,7 +36,7 @@
+ 			<p>“Mother isn’t sick, only very tired, and she says she is going to stay quietly in her room all day, and let us do the best we can. It’s a very queer thing for her to do, she doesn’t act a bit like herself; but she says it has been a hard week for her, so we mustn’t grumble, but take care of ourselves.”</p>
+ 			<p>“That’s easy enough, and I like the idea; I’m aching for something to do⁠—that is, some new amusement, you know,” added Jo quickly.</p>
+ 			<p>In fact it <em>was</em> an immense relief to them all to have a little work, and they took hold with a will, but soon realized the truth of Hannah’s saying, “Housekeeping ain’t no joke.” There was plenty of food in the larder, and, while Beth and Amy set the table, Meg and Jo got breakfast, wondering, as they did so, why servants ever talked about hard work.</p>
+-			<p>“I shall take some up to mother, though she said we were not to think of her, for she’d take care of herself,” said Meg, who presided, and felt quite matronly behind the teapot.</p>
++			<p>“I shall take some up to Mother, though she said we were not to think of her, for she’d take care of herself,” said Meg, who presided, and felt quite matronly behind the teapot.</p>
+ 			<p>So a tray was fitted out before anyone began, and taken up, with the cook’s compliments. The boiled tea was very bitter, the omelette scorched, and the biscuits speckled with saleratus; but <abbr epub:type="z3998:name-title">Mrs.</abbr> March received her repast with thanks, and laughed heartily over it after Jo was gone.</p>
+ 			<p>“Poor little souls, they will have a hard time, I’m afraid; but they won’t suffer, and it will do them good,” she said, producing the more palatable viands with which she had provided herself, and disposing of the bad breakfast, so that their feelings might not be hurt⁠—a motherly little deception, for which they were grateful.</p>
+ 			<p>Many were the complaints below, and great the chagrin of the head cook at her failures. “Never mind, I’ll get the dinner, and be servant; you be mistress, keep your hands nice, see company, and give orders,” said Jo, who knew still less than Meg about culinary affairs.</p>

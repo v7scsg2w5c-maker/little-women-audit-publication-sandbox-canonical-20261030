@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-39.xhtml b/src/epub/text/chapter-39.xhtml
+index b3e7c68e5182a1bd380c583a5f8661d42a4f994a..4e1fd5aefc0dc2c237001fabd08b20f678e373c9 100644
+--- a/src/epub/text/chapter-39.xhtml
++++ b/src/epub/text/chapter-39.xhtml
+@@ -108,7 +108,7 @@
+ 			<p>“Yes, very selfish,” continued Amy, in a calm, cool voice, twice as effective, just then, as an angry one. “I’ll show you how, for I’ve studied you while we have been frolicking, and I’m not at all satisfied with you. Here you have been abroad nearly six months, and done nothing but waste time and money and disappoint your friends.”</p>
+ 			<p>“Isn’t a fellow to have any pleasure after a four-years grind?”</p>
+ 			<p>“You don’t look as if you’d had much; at any rate, you are none the better for it, as far as I can see. I said, when we first met, that you had improved. Now I take it all back, for I don’t think you half so nice as when I left you at home. You have grown abominably lazy; you like gossip, and waste time on frivolous things; you are contented to be petted and admired by silly people, instead of being loved and respected by wise ones. With money, talent, position, health, and beauty⁠—ah, you like that, Old Vanity! but it’s the truth, so I can’t help saying it⁠—with all these splendid things to use and enjoy, you can find nothing to do but dawdle; and, instead of being the man you might and ought to be, you are only⁠—” There she stopped, with a look that had both pain and pity in it.</p>
+-			<p>“Saint Laurence on a gridiron,” added Laurie, blandly finishing the sentence. But the lecture began to take effect, for there was a wide-awake sparkle in his eyes now, and a half-angry, half-injured expression replaced the former indifference.</p>
++			<p>“Saint <span epub:type="z3998:personal-name">Laurence</span> on a gridiron,” added Laurie, blandly finishing the sentence. But the lecture began to take effect, for there was a wide-awake sparkle in his eyes now, and a half-angry, half-injured expression replaced the former indifference.</p>
+ 			<p>“I supposed you’d take it so. You men tell us we are angels, and say we can make you what we will; but the instant we honestly try to do you good, you laugh at us, and won’t listen, which proves how much your flattery is worth.” Amy spoke bitterly, and turned her back on the exasperating martyr at her feet.</p>
+ 			<p>In a minute a hand came down over the page, so that she could not draw, and Laurie’s voice said, with a droll imitation of a penitent child⁠—</p>
+ 			<p>“I will be good, oh, I will be good!”</p>

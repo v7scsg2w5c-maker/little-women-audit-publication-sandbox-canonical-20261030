@@ -1,0 +1,12 @@
+diff --git a/src/epub/css/local.css b/src/epub/css/local.css
+index 658b439297ed8033027f44a36c3f8934feab162a..2a0a3df0f29cf7b5d834071d0e55b0d1c2f07917 100644
+--- a/src/epub/css/local.css
++++ b/src/epub/css/local.css
+@@ -10,6 +10,7 @@ table span{
+ }
+ 
+ [epub|type~="se:letter.dateline"]{
++	font-variant: normal;
+ 	text-align: right;
+ }
+ 

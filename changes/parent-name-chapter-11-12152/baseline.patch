@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-11.xhtml b/src/epub/text/chapter-11.xhtml
+index 7e863e927a208bb65c105d6890ca9b00381f0fb2..cac5e0cf4230e90702e6e533628eb84cb903a830 100644
+--- a/src/epub/text/chapter-11.xhtml
++++ b/src/epub/text/chapter-11.xhtml
+@@ -45,7 +45,7 @@
+ 			<p>“Oh, there’s corned beef and plenty of potatoes; and I shall get some asparagus, and a lobster, ‘for a relish,’ as Hannah says. We’ll have lettuce, and make a salad. I don’t know how, but the book tells. I’ll have blancmange and strawberries for dessert; and coffee, too, if you want to be elegant.”</p>
+ 			<p>“Don’t try too many messes, Jo, for you can’t make anything but gingerbread and molasses candy, fit to eat. I wash my hands of the dinner-party; and, since you have asked Laurie on your own responsibility, you may just take care of him.”</p>
+ 			<p>“I don’t want you to do anything but be civil to him, and help to the pudding. You’ll give me your advice if I get in a muddle, won’t you?” asked Jo, rather hurt.</p>
+-			<p>“Yes; but I don’t know much, except about bread, and a few trifles. You had better ask mother’s leave before you order anything,” returned Meg prudently.</p>
++			<p>“Yes; but I don’t know much, except about bread, and a few trifles. You had better ask Mother’s leave before you order anything,” returned Meg prudently.</p>
+ 			<p>“Of course I shall; I’m not a fool,” and Jo went off in a huff at the doubts expressed of her powers.</p>
+ 			<p>“Get what you like, and don’t disturb me; I’m going out to dinner, and can’t worry about things at home,” said <abbr epub:type="z3998:name-title">Mrs.</abbr> March, when Jo spoke to her. “I never enjoyed housekeeping, and I’m going to take a vacation today, and read, write, go visiting, and amuse myself.”</p>
+ 			<p>The unusual spectacle of her busy mother rocking comfortably, and reading, early in the morning, made Jo feel as if some natural phenomenon had occurred, for an eclipse, an earthquake, or a volcanic eruption would hardly have seemed stranger.</p>

@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-1.xhtml b/src/epub/text/chapter-1.xhtml
+index 99a3196e0457428ff24f89d8e277638d6adbf830..5532325f223d6c33a3630dd5e4c53d4bc5596428 100644
+--- a/src/epub/text/chapter-1.xhtml
++++ b/src/epub/text/chapter-1.xhtml
+@@ -14,7 +14,7 @@
+ 			<p>“Christmas won’t be Christmas without any presents,” grumbled Jo, lying on the rug.</p>
+ 			<p>“It’s so dreadful to be poor!” sighed Meg, looking down at her old dress.</p>
+ 			<p>“I don’t think it’s fair for some girls to have plenty of pretty things, and other girls nothing at all,” added little Amy, with an injured sniff.</p>
+-			<p>“We’ve got father and mother and each other,” said Beth contentedly, from her corner.</p>
++			<p>“We’ve got Father and mother and each other,” said Beth contentedly, from her corner.</p>
+ 			<p>The four young faces on which the firelight shone brightened at the cheerful words, but darkened again as Jo said sadly⁠—</p>
+ 			<p>“We haven’t got father, and shall not have him for a long time.” She didn’t say “perhaps never,” but each silently added it, thinking of father far away, where the fighting was.</p>
+ 			<p>Nobody spoke for a minute; then Meg said in an altered tone⁠—</p>

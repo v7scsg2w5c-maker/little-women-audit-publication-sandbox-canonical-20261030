@@ -1,0 +1,22 @@
+# Standalone work title presentation
+
+Italicize the six listed standalone work-title occurrences: Evelina, Vicar, both Hamlet references, Ariadne, and The Flirtations of Capt. Cavendish. The local contexts identify a book being read, a play being performed, or a named sculpture. Remove superseded title quotation marks where present and retain the appropriate work-type tokens. The governing correction is required title typography (high confidence); these sites do not establish a complete work-title survey.
+
+| Location | Current → proposed | Exact patch |
+| --- | --- | --- |
+| [chapter 14, line 139](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-14.xhtml#L139) | <code>“Evelina”</code> → <code>&lt;i epub:type="se:name.publication.book"&gt;Evelina&lt;/i&gt;</code> | [Patch](../../changes/evelina-title-treatment/baseline.patch) |
+| [chapter 4, line 60](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-4.xhtml#L60) | <code>Vicar</code> → <code>&lt;i epub:type="se:name.publication.book"&gt;Vicar&lt;/i&gt;</code> | [Patch](../../changes/vicar-short-title/baseline.patch) |
+| [chapter 14, line 36](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-14.xhtml#L36) | <code>Hamlet,</code> → <code>&lt;i epub:type="se:name.publication.play"&gt;Hamlet&lt;/i&gt;,</code> | [Patch](../../changes/hamlet-title-1/baseline.patch) |
+| [chapter 14, line 38](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-14.xhtml#L38) | <code>Hamlet</code> → <code>&lt;i epub:type="se:name.publication.play"&gt;Hamlet&lt;/i&gt;</code> | [Patch](../../changes/hamlet-title-2/baseline.patch) |
+| [chapter 31, line 72](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-31.xhtml#L72) | <code>‘&lt;span epub:type="se:name.visual-art.sculpture"&gt;Ariadne&lt;/span&gt;.’</code> → <code>&lt;i epub:type="se:name.visual-art.sculpture"&gt;Ariadne&lt;/i&gt;.</code> | [Patch](../../changes/ariadne-title-italics/baseline.patch) |
+| [chapter 31, line 38](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-31.xhtml#L38) | <code>&lt;span epub:type="se:name.publication.book"&gt;The Flirtations of &lt;abbr epub:type="z3998:name-title"&gt;Capt.&lt;/abbr&gt; Cavendish&lt;/span&gt;</code> → <code>&lt;i epub:type="se:name.publication.book"&gt;The Flirtations of &lt;abbr epub:type="z3998:name-title"&gt;Capt.&lt;/abbr&gt; Cavendish&lt;/i&gt;</code> | [Patch](../../changes/git-10-current-cavendish-title-italics/baseline.patch) |
+
+[Complete changes and proposed messages](appendix.md).
+
+![Standard Ebooks digital text — Ebook context render — chapter 14 — crop](../../assets/image-0196.png)
+
+[Standard Ebooks digital text — Ebook context render — chapter 14 — full context render](../../assets/image-0197.png).
+
+![Standard Ebooks digital text — Ebook context render — chapter 14 — crop](../../assets/image-0198.png)
+
+[Standard Ebooks digital text — Ebook context render — chapter 14 — full context render](../../assets/image-0199.png).

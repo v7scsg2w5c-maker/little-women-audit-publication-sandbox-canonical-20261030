@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-1.xhtml b/src/epub/text/chapter-1.xhtml
+index 99a3196e0457428ff24f89d8e277638d6adbf830..c5360098890bd6be3cdbf8918ce28db6431f75c1 100644
+--- a/src/epub/text/chapter-1.xhtml
++++ b/src/epub/text/chapter-1.xhtml
+@@ -99,7 +99,7 @@
+ 			<p>“My favorite part was when we came out on the flat roof where our flowers and arbors and pretty things were, and all stood and sung for joy up there in the sunshine,” said Beth, smiling, as if that pleasant moment had come back to her.</p>
+ 			<p>“I don’t remember much about it, except that I was afraid of the cellar and the dark entry, and always liked the cake and milk we had up at the top. If I wasn’t too old for such things, I’d rather like to play it over again,” said Amy, who began to talk of renouncing childish things at the mature age of twelve.</p>
+ 			<p>“We never are too old for this, my dear, because it is a play we are playing all the time in one way or another. Our burdens are here, our road is before us, and the longing for goodness and happiness is the guide that leads us through many troubles and mistakes to the peace which is a true Celestial City. Now, my little pilgrims, suppose you begin again, not in play, but in earnest, and see how far on you can get before father comes home.”</p>
+-			<p>“Really, mother? Where are our bundles?” asked Amy, who was a very literal young lady.</p>
++			<p>“Really, Mother? Where are our bundles?” asked Amy, who was a very literal young lady.</p>
+ 			<p>“Each of you told what your burden was just now, except Beth; I rather think she hasn’t got any,” said her mother.</p>
+ 			<p>“Yes, I have; mine is dishes and dusters, and envying girls with nice pianos, and being afraid of people.”</p>
+ 			<p>Beth’s bundle was such a funny one that everybody wanted to laugh; but nobody did, for it would have hurt her feelings very much.</p>

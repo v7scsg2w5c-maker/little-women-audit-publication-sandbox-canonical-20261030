@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-24.xhtml b/src/epub/text/chapter-24.xhtml
+index 318e58bbb7c9d1785c4b71802c4cb83ccba6ccf9..97a6cd11a623eb83ef14ff98d93592461b38824a 100644
+--- a/src/epub/text/chapter-24.xhtml
++++ b/src/epub/text/chapter-24.xhtml
+@@ -31,7 +31,7 @@
+ 			<p>In vain Meg begged him to stop. John laughed at him, and Jo called him “<abbr epub:type="z3998:name-title">Mr.</abbr> Toodles.” He was possessed with a mania for patronizing Yankee ingenuity, and seeing his friends fitly furnished forth. So each week beheld some fresh absurdity.</p>
+ 			<p>Everything was done at last, even to Amy’s arranging different colored soaps to match the different colored rooms, and Beth’s setting the table for the first meal.</p>
+ 			<p>“Are you satisfied? Does it seem like home, and do you feel as if you should be happy here?” asked <abbr epub:type="z3998:name-title">Mrs.</abbr> March, as she and her daughter went through the new kingdom, arm-in-arm; for just then they seemed to cling together more tenderly than ever.</p>
+-			<p>“Yes, mother, perfectly satisfied, thanks to you all, and <em>so</em> happy that I can’t talk about it,” answered Meg, with a look that was better than words.</p>
++			<p>“Yes, Mother, perfectly satisfied, thanks to you all, and <em>so</em> happy that I can’t talk about it,” answered Meg, with a look that was better than words.</p>
+ 			<p>“If she only had a servant or two it would be all right,” said Amy, coming out of the parlor, where she had been trying to decide whether the bronze Mercury looked best on the whatnot or the mantelpiece.</p>
+ 			<p>“Mother and I have talked that over, and I have made up my mind to try her way first. There will be so little to do, that, with Lotty to run my errands and help me here and there, I shall only have enough work to keep me from getting lazy or homesick,” answered Meg tranquilly.</p>
+ 			<p>“Sallie Moffat has four,” began Amy.</p>

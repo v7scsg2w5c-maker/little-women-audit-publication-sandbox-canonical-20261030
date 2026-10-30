@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-18.xhtml b/src/epub/text/chapter-18.xhtml
+index e4648d274306c7016c2ad44ba678950ff5078dd2..3fae900f18bafc489908bbf0776367affb8cef94 100644
+--- a/src/epub/text/chapter-18.xhtml
++++ b/src/epub/text/chapter-18.xhtml
+@@ -18,7 +18,7 @@
+ 			<p>“If <abbr epub:type="z3998:name-title">Mrs.</abbr> March <em>can</em> leave her husband, she’d better be sent for.”</p>
+ 			<p>Hannah nodded without speaking, for her lips twitched nervously; Meg dropped down into a chair as the strength seemed to go out of her limbs at the sound of those words; and Jo, after standing with a pale face for a minute, ran to the parlor, snatched up the telegram, and, throwing on her things, rushed out into the storm. She was soon back, and, while noiselessly taking off her cloak, Laurie came in with a letter, saying that <abbr epub:type="z3998:name-title">Mr.</abbr> March was mending again. Jo read it thankfully, but the heavy weight did not seem lifted off her heart, and her face was so full of misery that Laurie asked quickly⁠—</p>
+ 			<p>“What is it? is Beth worse?”</p>
+-			<p>“I’ve sent for mother,” said Jo, tugging at her rubber boots with a tragical expression.</p>
++			<p>“I’ve sent for Mother,” said Jo, tugging at her rubber boots with a tragical expression.</p>
+ 			<p>“Good for you, Jo! Did you do it on your own responsibility?” asked Laurie, as he seated her in the hall chair, and took off the rebellious boots, seeing how her hands shook.</p>
+ 			<p>“No, the doctor told us to.”</p>
+ 			<p>“O Jo, it’s not so bad as that?” cried Laurie, with a startled face.</p>

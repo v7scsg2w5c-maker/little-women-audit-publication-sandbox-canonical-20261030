@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-46.xhtml b/src/epub/text/chapter-46.xhtml
+index ec63fd49cf344eda83cd16f6d09f0fdfc22e08b3..6bba18f6c0583f4e3dd3f042d806a70cc08c1b80 100644
+--- a/src/epub/text/chapter-46.xhtml
++++ b/src/epub/text/chapter-46.xhtml
+@@ -307,7 +307,7 @@
+ 					<span class="i1">In the long sunshine after rain.</span>
+ 				</p>
+ 				<footer role="presentation">
+-					<p epub:type="z3998:signature">“<abbr epub:type="z3998:given-name">J. M.</abbr>”</p>
++					<p epub:type="z3998:signature">“<abbr epub:type="z3998:personal-name">J. M.</abbr>”</p>
+ 				</footer>
+ 			</blockquote>
+ 			<p>“It’s very bad poetry, but I felt it when I wrote it, one day when I was very lonely, and had a good cry on a ragbag. I never thought it would go where it could tell tales,” said Jo, tearing up the verses the Professor had treasured so long.</p>

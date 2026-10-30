@@ -1,0 +1,15 @@
+diff --git a/src/epub/text/chapter-31.xhtml b/src/epub/text/chapter-31.xhtml
+index cf9a25fb782680fe0841e71878e13a7a0638984d..cbe86560ec4cc5e23e18a7fb82c09370978952e6 100644
+--- a/src/epub/text/chapter-31.xhtml
++++ b/src/epub/text/chapter-31.xhtml
+@@ -47,7 +47,9 @@
+ 				<p epub:type="se:letter.dateline">“Midnight.</p>
+ 				<p>“It’s very late, but I can’t let my letter go in the morning without telling you what happened last evening. Who do you think came in, as we were at tea? Laurie’s English friends, Fred and Frank Vaughn! I was <em>so</em> surprised, for I shouldn’t have known them but for the cards. Both are tall fellows, with whiskers; Fred handsome in the English style, and Frank much better, for he only limps slightly, and uses no crutches. They had heard from Laurie where we were to be, and came to ask us to their house; but uncle won’t go, so we shall return the call, and see them as we can. They went to the theatre with us, and we did have <em>such</em> a good time, for Frank devoted himself to Flo, and Fred and I talked over past, present, and future fun as if we had known each other all our days. Tell Beth Frank asked for her, and was sorry to hear of her ill health. Fred laughed when I spoke of Jo, and sent his ‘respectful compliments to the big hat.’ Neither of them had forgotten Camp Laurence, or the fun we had there. What ages ago it seems, doesn’t it?</p>
+ 				<p>“Aunt is tapping on the wall for the third time, so I <em>must</em> stop. I really feel like a dissipated London fine lady, writing here so late, with my room full of pretty things, and my head a jumble of parks, theatres, new gowns, and gallant creatures who say ‘Ah!’ and twirl their blond mustaches with the true English lordliness. I long to see you all, and in spite of my nonsense am, as ever, your loving</p>
+-				<p epub:type="z3998:signature">Amy.”</p>
++				<footer role="presentation">
++					<p epub:type="z3998:signature">Amy.”</p>
++				</footer>
+ 			</blockquote>
+ 			<blockquote>
+ 				<p epub:type="se:letter.dateline">“Paris.</p>

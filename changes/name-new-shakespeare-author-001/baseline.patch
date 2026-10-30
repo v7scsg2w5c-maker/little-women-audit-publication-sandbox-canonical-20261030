@@ -1,0 +1,26 @@
+diff --git a/src/epub/text/chapter-10.xhtml b/src/epub/text/chapter-10.xhtml
+index 7941a3598cdbf104fb92a5e705aaa2b54f23d4b7..20f5d56256da714b55898580a447b5f6cd327fc4 100644
+--- a/src/epub/text/chapter-10.xhtml
++++ b/src/epub/text/chapter-10.xhtml
+@@ -328,7 +328,7 @@
+ 			<p>“Go on, go on!” added Winkle and Tupman, while the President bowed benignly.</p>
+ 			<p>“I merely wish to say, that as a slight token of my gratitude for the honor done me, and as a means of promoting friendly relations between adjoining nations, I have set up a post-office in the hedge in the lower corner of the garden; a fine, spacious building, with padlocks on the doors, and every convenience for the mails⁠—also the females, if I may be allowed the expression. It’s the old martin-house; but I’ve stopped up the door, and made the roof open, so it will hold all sorts of things, and save our valuable time. Letters, manuscripts, books, and bundles can be passed in there; and, as each nation has a key, it will be uncommonly nice, I fancy. Allow me to present the club key; and, with many thanks for your favor, take my seat.”</p>
+ 			<p>Great applause as <abbr epub:type="z3998:name-title">Mr.</abbr> Weller deposited a little key on the table, and subsided; the warming-pan clashed and waved wildly, and it was some time before order could be restored. A long discussion followed, and everyone came out surprising, for everyone did her best; so it was an unusually lively meeting, and did not adjourn till a late hour, when it broke up with three shrill cheers for the new member.</p>
+-			<p>No one ever regretted the admittance of Sam Weller, for a more devoted, well-behaved, and jovial member no club could have. He certainly did add “spirit” to the meetings, and “a tone” to the paper; for his orations convulsed his hearers, and his contributions were excellent, being patriotic, classical, comical, or dramatic, but never sentimental. Jo regarded them as worthy of Bacon, Milton, or Shakespeare; and remodelled her own works with good effect, she thought.</p>
++			<p>No one ever regretted the admittance of Sam Weller, for a more devoted, well-behaved, and jovial member no club could have. He certainly did add “spirit” to the meetings, and “a tone” to the paper; for his orations convulsed his hearers, and his contributions were excellent, being patriotic, classical, comical, or dramatic, but never sentimental. Jo regarded them as worthy of Bacon, Milton, or <span epub:type="z3998:personal-name">Shakespeare</span>; and remodelled her own works with good effect, she thought.</p>
+ 			<p>The <abbr epub:type="z3998:initialism">P.O.</abbr> was a capital little institution, and flourished wonderfully, for nearly as many queer things passed through it as through the real office. Tragedies and cravats, poetry and pickles, garden-seeds and long letters, music and gingerbread, rubbers, invitations, scoldings and puppies. The old gentleman liked the fun, and amused himself by sending odd bundles, mysterious messages, and funny telegrams; and his gardener, who was smitten with Hannah’s charms, actually sent a love-letter to Jo’s care. How they laughed when the secret came out, never dreaming how many love-letters that little post-office would hold in the years to come!</p>
+ 		</section>
+ 	</body>
+diff --git a/src/epub/text/chapter-14.xhtml b/src/epub/text/chapter-14.xhtml
+index f85381c3e7ea87d901ae204032c8dbc64ad30d30..89d1e591e8055c08ac89c19aec6881bf7e53affe 100644
+--- a/src/epub/text/chapter-14.xhtml
++++ b/src/epub/text/chapter-14.xhtml
+@@ -72,7 +72,7 @@
+ 			<p>“Well, I’ve left two stories with a newspaper man, and he’s to give his answer next week,” whispered Jo, in her confidant’s ear.</p>
+ 			<p>“Hurrah for Miss March, the celebrated American authoress!” cried Laurie, throwing up his hat and catching it again, to the great delight of two ducks, four cats, five hens, and half a dozen Irish children; for they were out of the city now.</p>
+ 			<p>“Hush! It won’t come to anything, I dare say; but I couldn’t rest till I had tried, and I said nothing about it, because I didn’t want anyone else to be disappointed.”</p>
+-			<p>“It won’t fail. Why, Jo, your stories are works of Shakespeare, compared to half the rubbish that is published every day. Won’t it be fun to see them in print; and shan’t we feel proud of our authoress?”</p>
++			<p>“It won’t fail. Why, Jo, your stories are works of <span epub:type="z3998:personal-name">Shakespeare</span>, compared to half the rubbish that is published every day. Won’t it be fun to see them in print; and shan’t we feel proud of our authoress?”</p>
+ 			<p>Jo’s eyes sparkled, for it is always pleasant to be believed in; and a friend’s praise is always sweeter than a dozen newspaper puffs.</p>
+ 			<p>“Where’s <em>your</em> secret? Play fair, Teddy, or I’ll never believe you again,” she said, trying to extinguish the brilliant hopes that blazed up at a word of encouragement.</p>
+ 			<p>“I may get into a scrape for telling; but I didn’t promise not to, so I will, for I never feel easy in my mind till I’ve told you any plummy bit of news I get. I know where Meg’s glove is.”</p>

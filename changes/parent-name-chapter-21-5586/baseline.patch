@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-21.xhtml b/src/epub/text/chapter-21.xhtml
+index fb0199fd3256f4e4ced950e8df9d350ccf4d2236..9c645ca0897dcb9e6ce950e7d18d8bec0ef4624e 100644
+--- a/src/epub/text/chapter-21.xhtml
++++ b/src/epub/text/chapter-21.xhtml
+@@ -31,7 +31,7 @@
+ 			</blockquote>
+ 			<p>“Oh, the little villain! that’s the way he meant to pay me for keeping my word to mother. I’ll give him a hearty scolding, and bring him over to beg pardon,” cried Jo, burning to execute immediate justice. But her mother held her back, saying, with a look she seldom wore⁠—</p>
+ 			<p>“Stop, Jo, you must clear yourself first. You have played so many pranks, that I am afraid you have had a hand in this.”</p>
+-			<p>“On my word, mother, I haven’t! I never saw that note before, and don’t know anything about it, as true as I live!” said Jo, so earnestly that they believed her. “If I <em>had</em> taken a part in it I’d have done it better than this, and have written a sensible note. I should think you’d have known <abbr epub:type="z3998:name-title">Mr.</abbr> Brooke wouldn’t write such stuff as that,” she added, scornfully tossing down the paper.</p>
++			<p>“On my word, Mother, I haven’t! I never saw that note before, and don’t know anything about it, as true as I live!” said Jo, so earnestly that they believed her. “If I <em>had</em> taken a part in it I’d have done it better than this, and have written a sensible note. I should think you’d have known <abbr epub:type="z3998:name-title">Mr.</abbr> Brooke wouldn’t write such stuff as that,” she added, scornfully tossing down the paper.</p>
+ 			<p>“It’s like his writing,” faltered Meg, comparing it with the note in her hand.</p>
+ 			<p>“O Meg, you didn’t answer it?” cried <abbr epub:type="z3998:name-title">Mrs.</abbr> March quickly.</p>
+ 			<p>“Yes, I did!” and Meg hid her face again, overcome with shame.</p>
