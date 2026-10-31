@@ -156,3 +156,7 @@ section[epub|type~="epigraph"] > *{
 	}
 }
 /* End full-page epigraphs */
+
+.telegram{
+	font-variant: all-small-caps;
+}
