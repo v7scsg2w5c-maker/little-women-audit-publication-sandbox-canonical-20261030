@@ -2,13 +2,13 @@
 
 ## name-jo-001
 
-Source: [chapter-10.xhtml:15:1122](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-10.xhtml#L15).
+Source: [chapter-10.xhtml:15:1122](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-10.xhtml#L15).
 
 Occurrences: 1.
 
 <code>Augustus Snodgrass;</code> → <code>&lt;span epub:type="z3998:persona"&gt;Augustus Snodgrass&lt;/span&gt;;</code>.
 
-[Exact patch](../../changes/name-jo-001/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-jo-001/baseline.patch).
 
 Proposed commit:
 
@@ -18,13 +18,13 @@ Mark “Augustus Snodgrass” as an assumed role
 
 ## name-jo-002
 
-Source: [chapter-47.xhtml:44:628](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-47.xhtml#L44).
+Source: [chapter-47.xhtml:44:628](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-47.xhtml#L44).
 
 Occurrences: 4.
 
 <code>Bhaer.”</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Bhaer&lt;/span&gt;.”</code>.
 
-[Exact patch](../../changes/name-jo-002/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-jo-002/baseline.patch).
 
 Proposed commit:
 
@@ -34,13 +34,13 @@ Mark “Bhaer” as a personal name
 
 ## name-jo-003
 
-Source: [chapter-43.xhtml:104:604](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-43.xhtml#L104).
+Source: [chapter-43.xhtml:104:604](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-43.xhtml#L104).
 
 Occurrences: 5.
 
 <code>Dodo’s</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Dodo&lt;/span&gt;’s</code>.
 
-[Exact patch](../../changes/name-jo-003/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-jo-003/baseline.patch).
 
 Proposed commit:
 
@@ -50,13 +50,13 @@ Mark “Dodo” as a nickname
 
 ## name-jo-004
 
-Source: [chapter-1.xhtml:14:69](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-1.xhtml#L14).
+Source: [chapter-1.xhtml:14:69](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-1.xhtml#L14).
 
 Occurrences: 1362.
 
 <code>Jo,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Jo&lt;/span&gt;,</code>.
 
-[Exact patch](../../changes/name-jo-004/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-jo-004/baseline.patch).
 
 Proposed commit:
 
@@ -66,13 +66,13 @@ Mark “Jo” as a personal name
 
 ## name-jo-005
 
-Source: [chapter-29.xhtml:38:321](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-29.xhtml#L38).
+Source: [chapter-29.xhtml:38:321](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-29.xhtml#L38).
 
 Occurrences: 3.
 
 <code>Jo March</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Jo March&lt;/span&gt;</code>.
 
-[Exact patch](../../changes/name-jo-005/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-jo-005/baseline.patch).
 
 Proposed commit:
 
@@ -82,13 +82,13 @@ Mark “Jo March” as a personal name
 
 ## name-jo-006
 
-Source: [chapter-1.xhtml:41:183](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-1.xhtml#L41).
+Source: [chapter-1.xhtml:41:183](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-1.xhtml#L41).
 
 Occurrences: 3.
 
 <code>Josephine.</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Josephine&lt;/span&gt;.</code>.
 
-[Exact patch](../../changes/name-jo-006/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-jo-006/baseline.patch).
 
 Proposed commit:
 
@@ -98,13 +98,13 @@ Mark “Josephine” as a personal name
 
 ## name-jo-007
 
-Source: [chapter-14.xhtml:137:115](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-14.xhtml#L137).
+Source: [chapter-14.xhtml:137:115](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-14.xhtml#L137).
 
 Occurrences: 1.
 
 <code>Josephine March,”</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Josephine March&lt;/span&gt;,”</code>.
 
-[Exact patch](../../changes/name-jo-007/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-jo-007/baseline.patch).
 
 Proposed commit:
 
@@ -114,13 +114,13 @@ Mark “Josephine March” as a personal name
 
 ## name-jo-008
 
-Source: [chapter-33.xhtml:106:329](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-33.xhtml#L106).
+Source: [chapter-33.xhtml:106:329](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-33.xhtml#L106).
 
 Occurrences: 1.
 
 <code>Malaprop,</code> → <code>&lt;span epub:type="z3998:persona"&gt;Malaprop&lt;/span&gt;,</code>.
 
-[Exact patch](../../changes/name-jo-008/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-jo-008/baseline.patch).
 
 Proposed commit:
 
@@ -130,13 +130,13 @@ Mark “Malaprop” as an assumed role
 
 ## name-jo-009
 
-Source: [chapter-34.xhtml:64:13](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-34.xhtml#L64).
+Source: [chapter-34.xhtml:64:13](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-34.xhtml#L64).
 
 Occurrences: 3.
 
 <code>Marsch,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Marsch&lt;/span&gt;,</code>.
 
-[Exact patch](../../changes/name-jo-009/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-jo-009/baseline.patch).
 
 Proposed commit:
 
@@ -146,13 +146,13 @@ Mark “Marsch” as a personal name
 
 ## name-jo-010
 
-Source: [chapter-33.xhtml:61:61](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-33.xhtml#L61).
+Source: [chapter-33.xhtml:61:61](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-33.xhtml#L61).
 
 Occurrences: 2.
 
 <code>Mees Marsch.</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Mees Marsch&lt;/span&gt;.</code>.
 
-[Exact patch](../../changes/name-jo-010/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-jo-010/baseline.patch).
 
 Proposed commit:
 
@@ -162,13 +162,13 @@ Mark “Mees Marsch” as a personal name
 
 ## name-jo-011
 
-Source: [chapter-10.xhtml:16:232](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-10.xhtml#L16).
+Source: [chapter-10.xhtml:16:232](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-10.xhtml#L16).
 
 Occurrences: 10.
 
 <code>Snodgrass,</code> → <code>&lt;span epub:type="z3998:persona"&gt;Snodgrass&lt;/span&gt;,</code>.
 
-[Exact patch](../../changes/name-jo-011/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-jo-011/baseline.patch).
 
 Proposed commit:
 

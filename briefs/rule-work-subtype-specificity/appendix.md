@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>&lt;i epub:type="se:name.publication.book"&gt;Mary Stuart&lt;/i&gt;</code> → <code>&lt;i epub:type="se:name.publication.play"&gt;Mary Stuart&lt;/i&gt;</code>.
 
-[Exact patch](../../changes/mary-stuart-play-semantics/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/mary-stuart-play-semantics/baseline.patch).
 
 Proposed commit:
 
@@ -24,7 +24,7 @@ Occurrences: 1.
 
 <code>&lt;i epub:type="se:name.publication.magazine"&gt;The Sea-Lion&lt;/i&gt;</code> → <code>&lt;i epub:type="se:name.publication.book"&gt;The Sea-Lion&lt;/i&gt;</code>.
 
-[Exact patch](../../changes/hyphen-sea-lion-publication-type/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/hyphen-sea-lion-publication-type/baseline.patch).
 
 Proposed commit:
 
@@ -40,7 +40,7 @@ Occurrences: 1.
 
 <code>&lt;i epub:type="se:name.publication.book"&gt;Death of Wallenstein&lt;/i&gt;</code> → <code>&lt;i epub:type="se:name.publication.play"&gt;Death of Wallenstein&lt;/i&gt;</code>.
 
-[Exact patch](../../changes/death-of-wallenstein/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/death-of-wallenstein/baseline.patch).
 
 Proposed commit:
 

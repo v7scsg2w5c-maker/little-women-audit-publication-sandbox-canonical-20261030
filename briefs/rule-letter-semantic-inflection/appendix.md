@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>&lt;blockquote&gt;</code> → <code>&lt;blockquote epub:type="z3998:letter"&gt;</code>.
 
-[Exact patch](../../changes/december-letter-semantics/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/december-letter-semantics/baseline.patch).
 
 Proposed commit:
 
@@ -24,7 +24,7 @@ Occurrences: 1.
 
 <code>&lt;blockquote&gt;</code> → <code>&lt;blockquote epub:type="z3998:letter"&gt;</code>.
 
-[Exact patch](../../changes/git-09-current-proposal-014/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/git-09-current-proposal-014/baseline.patch).
 
 Proposed commit:
 
@@ -40,7 +40,7 @@ Occurrences: 1.
 
 <code>&lt;blockquote&gt;</code> → <code>&lt;blockquote epub:type="z3998:letter"&gt;</code>.
 
-[Exact patch](../../changes/git-09-current-proposal-017/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/git-09-current-proposal-017/baseline.patch).
 
 Proposed commit:
 
@@ -56,7 +56,7 @@ Occurrences: 1.
 
 <code>&lt;blockquote&gt;</code> → <code>&lt;blockquote epub:type="z3998:letter"&gt;</code>.
 
-[Exact patch](../../changes/git-09-current-proposal-019/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/git-09-current-proposal-019/baseline.patch).
 
 Proposed commit:
 
@@ -72,7 +72,7 @@ Occurrences: 1.
 
 <code>&lt;blockquote&gt;</code> → <code>&lt;blockquote epub:type="z3998:letter"&gt;</code>.
 
-[Exact patch](../../changes/git-09-current-proposal-021/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/git-09-current-proposal-021/baseline.patch).
 
 Proposed commit:
 
@@ -88,7 +88,7 @@ Occurrences: 1.
 
 <code>&lt;blockquote&gt;</code> → <code>&lt;blockquote epub:type="z3998:letter"&gt;</code>.
 
-[Exact patch](../../changes/git-09-current-proposal-023/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/git-09-current-proposal-023/baseline.patch).
 
 Proposed commit:
 
@@ -96,14 +96,14 @@ Proposed commit:
 Letter semantic inflection (chapter 31, line 76)
 ```
 
-![Standard Ebooks digital text — Ebook context render — chapter 31 — crop](../../assets/image-0154.png)
+![Standard Ebooks digital text — Ebook context render — chapter 31 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0154.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 31 — full context render](../../assets/image-0155.png).
+[Standard Ebooks digital text — Ebook context render — chapter 31 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0155.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 31 — crop](../../assets/image-0158.png)
+![Standard Ebooks digital text — Ebook context render — chapter 31 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0158.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 31 — full context render](../../assets/image-0159.png).
+[Standard Ebooks digital text — Ebook context render — chapter 31 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0159.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 31 — crop](../../assets/image-0160.png)
+![Standard Ebooks digital text — Ebook context render — chapter 31 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0160.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 31 — full context render](../../assets/image-0161.png).
+[Standard Ebooks digital text — Ebook context render — chapter 31 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0161.png).

@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>&lt;p epub:type="z3998:salutation"&gt;“Ma Chere</code> → <code>&lt;p epub:type="z3998:salutation"&gt;“&lt;span xml:lang="fr"&gt;Ma Chere&lt;/span&gt;</code>.
 
-[Exact patch](../../changes/ma-chere-mamma/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/ma-chere-mamma/baseline.patch).
 
 Proposed commit:
 

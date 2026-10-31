@@ -2,13 +2,13 @@
 
 ## name-belle-moffat-001
 
-Source: [chapter-9.xhtml:35:525](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-9.xhtml#L35).
+Source: [chapter-9.xhtml:35:525](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-9.xhtml#L35).
 
 Occurrences: 16.
 
 <code>Belle,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Belle&lt;/span&gt;,</code>.
 
-[Exact patch](../../changes/name-belle-moffat-001/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-belle-moffat-001/baseline.patch).
 
 Proposed commit:
 
@@ -18,13 +18,13 @@ Mark “Belle” as a personal name
 
 ## name-belle-moffat-002
 
-Source: [chapter-14.xhtml:111:68](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-14.xhtml#L111).
+Source: [chapter-14.xhtml:111:68](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-14.xhtml#L111).
 
 Occurrences: 1.
 
 <code>Belle Moffat’s</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Belle Moffat&lt;/span&gt;’s</code>.
 
-[Exact patch](../../changes/name-belle-moffat-002/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-belle-moffat-002/baseline.patch).
 
 Proposed commit:
 

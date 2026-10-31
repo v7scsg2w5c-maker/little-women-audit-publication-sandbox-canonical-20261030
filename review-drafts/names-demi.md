@@ -2,17 +2,17 @@
 
 Add optional name annotations at 57 occurrences, grouped into 5 subject/surface commits. These local personal designations use &lt;span epub:type="z3998:personal-name"&gt;.
 
-Laurie addresses the baby boy as young Brooke: “Now then, young Brooke, pitch into a man of your own size, will you?” [Context](../briefs/names-demi/appendix.md#naming-context-name-demi-001).
+Laurie addresses the baby boy as young Brooke: “Now then, young Brooke, pitch into a man of your own size, will you?” [Context](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/audit-evidence/account-copy-v1/briefs/names-demi/appendix.md#naming-context-name-demi-001).
 
 These selected local designations change no wording or language and establish neither further biographical identity nor a comprehensive name survey.
 
 | Naming function | Occurrences | Current → proposed | Exact patch |
 | --- | ---: | --- | --- |
-| ordinary name | 1 | <code>Brooke,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Brooke&lt;/span&gt;,</code> | [Patch](../changes/name-demi-001/baseline.patch) |
-| ordinary name | 53 | <code>Demi’s</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Demi&lt;/span&gt;’s</code> | [Patch](../changes/name-demi-002/baseline.patch) |
-| ordinary name | 1 | <code>Demijohn,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Demijohn&lt;/span&gt;,</code> | [Patch](../changes/name-demi-003/baseline.patch) |
-| ordinary name | 1 | <code>Jack,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Jack&lt;/span&gt;,</code> | [Patch](../changes/name-demi-004/baseline.patch) |
-| ordinary name | 1 | <code>John Laurence,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;John Laurence&lt;/span&gt;,</code> | [Patch](../changes/name-demi-005/baseline.patch) |
+| ordinary name | 1 | <code>Brooke,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Brooke&lt;/span&gt;,</code> | [Patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-demi-001/baseline.patch) |
+| ordinary name | 53 | <code>Demi’s</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Demi&lt;/span&gt;’s</code> | [Patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-demi-002/baseline.patch) |
+| ordinary name | 1 | <code>Demijohn,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Demijohn&lt;/span&gt;,</code> | [Patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-demi-003/baseline.patch) |
+| ordinary name | 1 | <code>Jack,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Jack&lt;/span&gt;,</code> | [Patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-demi-004/baseline.patch) |
+| ordinary name | 1 | <code>John Laurence,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;John Laurence&lt;/span&gt;,</code> | [Patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-demi-005/baseline.patch) |
 
-[Complete changes and proposed messages](../briefs/names-demi/appendix.md).
+[Complete changes and proposed messages](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/audit-evidence/account-copy-v1/briefs/names-demi/appendix.md).
 

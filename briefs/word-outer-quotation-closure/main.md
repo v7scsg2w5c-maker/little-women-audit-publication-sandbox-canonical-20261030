@@ -4,15 +4,15 @@ Add the missing outer closing double quotation mark after “spider.” in Amy�
 
 | Location | Current → proposed | Exact patch |
 | --- | --- | --- |
-| [chapter 33, line 107](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-33.xhtml#L107) | <code>&lt;/p&gt;</code> → <code>”&lt;/p&gt;</code> | [Patch](../../changes/v4-group-69/baseline.patch) |
-| [chapter 19, line 39](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-19.xhtml#L39) | <code>&lt;/p&gt;</code> → <code>”&lt;/p&gt;</code> | [Patch](../../changes/amy-closing-quote/baseline.patch) |
+| [chapter 33, line 107](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-33.xhtml#L107) | <code>&lt;/p&gt;</code> → <code>”&lt;/p&gt;</code> | [Patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/v4-group-69/baseline.patch) |
+| [chapter 19, line 39](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-19.xhtml#L39) | <code>&lt;/p&gt;</code> → <code>”&lt;/p&gt;</code> | [Patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/amy-closing-quote/baseline.patch) |
 
-[Complete changes and proposed messages](appendix.md).
+[Complete changes and proposed messages](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/audit-evidence/account-copy-v1/briefs/word-outer-quotation-closure/appendix.md).
 
-![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — crop](../../assets/image-0325.png)
+![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0325.png)
 
-[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — full page](../../assets/image-0326.png).
+[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — full page](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0326.png).
 
-![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — crop](../../assets/image-0005.png)
+![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0005.png)
 
-[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — full page](../../assets/image-0006.png).
+[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — full page](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0006.png).

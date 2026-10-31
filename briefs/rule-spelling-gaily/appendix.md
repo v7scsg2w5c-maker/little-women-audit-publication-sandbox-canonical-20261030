@@ -10,7 +10,7 @@ Occurrences: 1.
 
 <code>gayly</code> → <code>gaily</code>.
 
-[Exact patch](../../changes/batch0011-gaily38-arrival/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/batch0011-gaily38-arrival/baseline.patch).
 
 Proposed commit:
 
@@ -28,7 +28,7 @@ Occurrences: 1.
 
 <code>gayly</code> → <code>gaily</code>.
 
-[Exact patch](../../changes/batch0011-gaily38-curls/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/batch0011-gaily38-curls/baseline.patch).
 
 Proposed commit:
 
@@ -46,7 +46,7 @@ Occurrences: 1.
 
 <code>gayly</code> → <code>gaily</code>.
 
-[Exact patch](../../changes/transcription-source-gaily10/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/transcription-source-gaily10/baseline.patch).
 
 Proposed commit:
 
@@ -64,7 +64,7 @@ Occurrences: 1.
 
 <code>gayly</code> → <code>gaily</code>.
 
-[Exact patch](../../changes/transcription-source-gaily27/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/transcription-source-gaily27/baseline.patch).
 
 Proposed commit:
 
@@ -82,7 +82,7 @@ Occurrences: 1.
 
 <code>gayly</code> → <code>gaily</code>.
 
-[Exact patch](../../changes/transcription-source-gaily28/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/transcription-source-gaily28/baseline.patch).
 
 Proposed commit:
 
@@ -100,7 +100,7 @@ Occurrences: 1.
 
 <code>gayly,</code> → <code>gaily,</code>.
 
-[Exact patch](../../changes/spelling-gaily-chapter-11-byte-19910/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/spelling-gaily-chapter-11-byte-19910/baseline.patch).
 
 Proposed commit:
 
@@ -118,7 +118,7 @@ Occurrences: 1.
 
 <code>gayly</code> → <code>gaily</code>.
 
-[Exact patch](../../changes/spelling-gaily-chapter-26-byte-21519/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/spelling-gaily-chapter-26-byte-21519/baseline.patch).
 
 Proposed commit:
 
@@ -136,7 +136,7 @@ Occurrences: 1.
 
 <code>gayly,</code> → <code>gaily,</code>.
 
-[Exact patch](../../changes/spelling-gaily-chapter-37-byte-17424/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/spelling-gaily-chapter-37-byte-17424/baseline.patch).
 
 Proposed commit:
 
@@ -154,7 +154,7 @@ Occurrences: 1.
 
 <code>gayly,</code> → <code>gaily,</code>.
 
-[Exact patch](../../changes/spelling-gaily-chapter-9-byte-30897/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/spelling-gaily-chapter-9-byte-30897/baseline.patch).
 
 Proposed commit:
 
@@ -162,14 +162,14 @@ Proposed commit:
 [Editorial] Change “gayly” to “gaily” (chapter 9)
 ```
 
-![Standard Ebooks digital text — Ebook context render — chapter 10 — crop](../../assets/image-0291.png)
+![Standard Ebooks digital text — Ebook context render — chapter 10 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0291.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 10 — full context render](../../assets/image-0292.png).
+[Standard Ebooks digital text — Ebook context render — chapter 10 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0292.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 27 — crop](../../assets/image-0293.png)
+![Standard Ebooks digital text — Ebook context render — chapter 27 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0293.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 27 — full context render](../../assets/image-0294.png).
+[Standard Ebooks digital text — Ebook context render — chapter 27 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0294.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 28 — crop](../../assets/image-0295.png)
+![Standard Ebooks digital text — Ebook context render — chapter 28 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0295.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 28 — full context render](../../assets/image-0296.png).
+[Standard Ebooks digital text — Ebook context render — chapter 28 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0296.png).

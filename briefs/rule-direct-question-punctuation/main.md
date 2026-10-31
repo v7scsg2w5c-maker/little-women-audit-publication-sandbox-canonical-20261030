@@ -4,6 +4,6 @@ In chapter 24, change the end of Meg’s question from “the servants laugh at 
 
 | Location | Current → proposed | Exact patch |
 | --- | --- | --- |
-| [chapter 24, line 40](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-24.xhtml#L40) | <code>her,”</code> → <code>her?”</code> | [Patch](../../changes/editorial-meg-question-mark/baseline.patch) |
+| [chapter 24, line 40](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-24.xhtml#L40) | <code>her,”</code> → <code>her?”</code> | [Patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/editorial-meg-question-mark/baseline.patch) |
 
-[Complete changes and proposed messages](appendix.md).
+[Complete changes and proposed messages](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/audit-evidence/account-copy-v1/briefs/rule-direct-question-punctuation/appendix.md).

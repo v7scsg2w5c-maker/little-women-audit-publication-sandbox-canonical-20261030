@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>tonight.&lt;/span&gt;</code> → <code>to-night.&lt;/span&gt;</code>.
 
-[Exact patch](../../changes/hyphen-ode-to-night/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/hyphen-ode-to-night/baseline.patch).
 
 Proposed commit:
 
@@ -24,7 +24,7 @@ Occurrences: 1.
 
 <code>schoolbooks</code> → <code>school-books</code>.
 
-[Exact patch](../../changes/poem-school-books46/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/poem-school-books46/baseline.patch).
 
 Proposed commit:
 

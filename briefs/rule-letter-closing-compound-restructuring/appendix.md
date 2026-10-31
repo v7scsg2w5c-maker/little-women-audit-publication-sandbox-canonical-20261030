@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>&lt;p epub:type="z3998:valediction"&gt;“In a tearing hurry,&lt;/p&gt;&#10;				&lt;p epub:type="z3998:valediction"&gt;“Yours ever,&lt;/p&gt;&#10;				&lt;p epub:type="z3998:signature"&gt;“Laurie.”&lt;/p&gt;</code> → <code>&lt;footer role="presentation"&gt;&#10;					&lt;p epub:type="z3998:valediction"&gt;“In a tearing hurry,&lt;br/&gt;&#10;					Yours ever,&lt;br/&gt;&#10;					&lt;span epub:type="z3998:signature"&gt;Laurie.&lt;/span&gt;”&lt;/p&gt;&#10;				&lt;/footer&gt;</code>.
 
-[Exact patch](../../changes/current-laurie-closing-footer-and-single-clause/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/current-laurie-closing-footer-and-single-clause/baseline.patch).
 
 Proposed commit:
 

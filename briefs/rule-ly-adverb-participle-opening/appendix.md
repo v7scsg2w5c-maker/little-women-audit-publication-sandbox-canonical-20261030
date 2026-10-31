@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>honestly-earned</code> → <code>honestly earned</code>.
 
-[Exact patch](../../changes/generic-ch24-honestly-earned-style/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/generic-ch24-honestly-earned-style/baseline.patch).
 
 Proposed commit:
 
@@ -24,7 +24,7 @@ Occurrences: 1.
 
 <code>freshly-cut</code> → <code>freshly cut</code>.
 
-[Exact patch](../../changes/generic-ch39-open-freshly-cut/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/generic-ch39-open-freshly-cut/baseline.patch).
 
 Proposed commit:
 

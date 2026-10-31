@@ -8,7 +8,7 @@ Occurrences: 2.
 
 <code>&lt;blockquote&gt;</code> → <code>&lt;blockquote epub:type="z3998:song"&gt;</code>.
 
-[Exact patch](../../changes/crinkle-song-markup/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/crinkle-song-markup/baseline.patch).
 
 Proposed commit:
 
@@ -24,7 +24,7 @@ Occurrences: 1.
 
 <code>&lt;blockquote&gt;</code> → <code>&lt;blockquote epub:type="z3998:song"&gt;</code>.
 
-[Exact patch](../../changes/git-09-current-proposal-003/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/git-09-current-proposal-003/baseline.patch).
 
 Proposed commit:
 
@@ -40,7 +40,7 @@ Occurrences: 1.
 
 <code>&lt;blockquote&gt;&#10;				&lt;p&gt;“Alone, alone, ah! woe, alone,”&lt;/p&gt;&#10;			&lt;/blockquote&gt;&#10;			&lt;p class="continued"&gt;and at the lines⁠—&lt;/p&gt;&#10;			&lt;blockquote epub:type="z3998:verse"&gt;</code> → <code>&lt;blockquote epub:type="z3998:song"&gt;&#10;				&lt;p&gt;“Alone, alone, ah! woe, alone,”&lt;/p&gt;&#10;			&lt;/blockquote&gt;&#10;			&lt;p class="continued"&gt;and at the lines⁠—&lt;/p&gt;&#10;			&lt;blockquote epub:type="z3998:song"&gt;</code>.
 
-[Exact patch](../../changes/ir51-serenade-semantics/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/ir51-serenade-semantics/baseline.patch).
 
 Proposed commit:
 
@@ -48,6 +48,6 @@ Proposed commit:
 Update ““Alone, alone, ah! woe, alone,” and at the lines⁠—” markup (chapter 12, line 202)
 ```
 
-![Standard Ebooks digital text — Ebook context render — chapter 12 — crop](../../assets/image-0214.png)
+![Standard Ebooks digital text — Ebook context render — chapter 12 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0214.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 12 — full context render](../../assets/image-0215.png).
+[Standard Ebooks digital text — Ebook context render — chapter 12 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0215.png).

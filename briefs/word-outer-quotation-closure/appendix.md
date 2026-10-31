@@ -10,7 +10,7 @@ Occurrences: 1.
 
 <code>&lt;/p&gt;</code> → <code>”&lt;/p&gt;</code>.
 
-[Exact patch](../../changes/v4-group-69/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/v4-group-69/baseline.patch).
 
 Proposed commit:
 
@@ -28,7 +28,7 @@ Occurrences: 1.
 
 <code>&lt;/p&gt;</code> → <code>”&lt;/p&gt;</code>.
 
-[Exact patch](../../changes/amy-closing-quote/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/amy-closing-quote/baseline.patch).
 
 Proposed commit:
 

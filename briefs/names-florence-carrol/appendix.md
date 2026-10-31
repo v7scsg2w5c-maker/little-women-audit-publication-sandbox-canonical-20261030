@@ -2,13 +2,13 @@
 
 ## name-florence-carrol-001
 
-Source: [chapter-30.xhtml:85:384](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-30.xhtml#L85).
+Source: [chapter-30.xhtml:85:384](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-30.xhtml#L85).
 
 Occurrences: 20.
 
 <code>Flo,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Flo&lt;/span&gt;,</code>.
 
-[Exact patch](../../changes/name-florence-carrol-001/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-florence-carrol-001/baseline.patch).
 
 Proposed commit:
 
@@ -18,13 +18,13 @@ Mark “Flo” as a personal name
 
 ## name-florence-carrol-002
 
-Source: [chapter-24.xhtml:43:566](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-24.xhtml#L43).
+Source: [chapter-24.xhtml:43:566](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-24.xhtml#L43).
 
 Occurrences: 2.
 
 <code>Florence’s</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Florence&lt;/span&gt;’s</code>.
 
-[Exact patch](../../changes/name-florence-carrol-002/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-florence-carrol-002/baseline.patch).
 
 Proposed commit:
 

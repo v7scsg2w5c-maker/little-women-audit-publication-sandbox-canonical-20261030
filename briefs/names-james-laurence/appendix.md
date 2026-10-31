@@ -2,13 +2,13 @@
 
 ## name-james-laurence-001
 
-Source: [chapter-6.xhtml:60:31](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-6.xhtml#L60).
+Source: [chapter-6.xhtml:60:31](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-6.xhtml#L60).
 
 Occurrences: 1.
 
 <code>James Laurence’;</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;James Laurence&lt;/span&gt;’;</code>.
 
-[Exact patch](../../changes/name-james-laurence-001/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-james-laurence-001/baseline.patch).
 
 Proposed commit:
 
@@ -18,13 +18,13 @@ Mark “James Laurence” as a personal name
 
 ## name-james-laurence-002
 
-Source: [chapter-12.xhtml:51:76](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-12.xhtml#L51).
+Source: [chapter-12.xhtml:51:76](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-12.xhtml#L51).
 
 Occurrences: 80.
 
 <code>Laurence,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Laurence&lt;/span&gt;,</code>.
 
-[Exact patch](../../changes/name-james-laurence-002/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-james-laurence-002/baseline.patch).
 
 Proposed commit:
 

@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>&lt;i epub:type="se:name.publication.magazine"&gt;Sartor Resartus&lt;/i&gt;</code> → <code>&lt;i epub:type="se:name.publication.book"&gt;Sartor Resartus&lt;/i&gt;</code>.
 
-[Exact patch](../../changes/sartor-resartus/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/sartor-resartus/baseline.patch).
 
 Proposed commit:
 

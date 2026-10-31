@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>seed-cakes,</code> → <code>seedcakes,</code>.
 
-[Exact patch](../../changes/seedcakes/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/seedcakes/baseline.patch).
 
 Proposed commit:
 

@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>text-align:</code> → <code>font-variant: normal;&#10;	text-align:</code>.
 
-[Exact patch](../../changes/letter-dateline-normal-case-presentation/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/letter-dateline-normal-case-presentation/baseline.patch).
 
 Proposed commit:
 

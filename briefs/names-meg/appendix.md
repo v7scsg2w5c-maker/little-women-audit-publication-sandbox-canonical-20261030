@@ -2,7 +2,7 @@
 
 ## name-meg-001
 
-Source: [chapter-24.xhtml:28:635](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-24.xhtml#L28).
+Source: [chapter-24.xhtml:28:635](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-24.xhtml#L28).
 
 Confidence: medium.
 
@@ -10,7 +10,7 @@ Occurrences: 7.
 
 <code>Brooke</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Brooke&lt;/span&gt;</code>.
 
-[Exact patch](../../changes/name-meg-001/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-meg-001/baseline.patch).
 
 Proposed commit:
 
@@ -20,7 +20,7 @@ Mark “Brooke” as a personal name
 
 ## name-meg-002
 
-Source: [chapter-9.xhtml:34:698](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-9.xhtml#L34).
+Source: [chapter-9.xhtml:34:698](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-9.xhtml#L34).
 
 Confidence: medium.
 
@@ -28,7 +28,7 @@ Occurrences: 5.
 
 <code>“Daisy,”</code> → <code>“&lt;span epub:type="z3998:personal-name"&gt;Daisy&lt;/span&gt;,”</code>.
 
-[Exact patch](../../changes/name-meg-002/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-meg-002/baseline.patch).
 
 Proposed commit:
 
@@ -38,7 +38,7 @@ Mark “Daisy” as a personal name
 
 ## name-meg-003
 
-Source: [chapter-23.xhtml:99:174](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-23.xhtml#L99).
+Source: [chapter-23.xhtml:99:174](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-23.xhtml#L99).
 
 Confidence: medium.
 
@@ -46,7 +46,7 @@ Occurrences: 2.
 
 <code>John Brooke,”</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;John Brooke&lt;/span&gt;,”</code>.
 
-[Exact patch](../../changes/name-meg-003/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-meg-003/baseline.patch).
 
 Proposed commit:
 
@@ -56,7 +56,7 @@ Mark “John Brooke” as a personal name
 
 ## name-meg-004
 
-Source: [chapter-11.xhtml:43:52](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-11.xhtml#L43).
+Source: [chapter-11.xhtml:43:52](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-11.xhtml#L43).
 
 Confidence: medium.
 
@@ -64,7 +64,7 @@ Occurrences: 21.
 
 <code>Margaret</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Margaret&lt;/span&gt;</code>.
 
-[Exact patch](../../changes/name-meg-004/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-meg-004/baseline.patch).
 
 Proposed commit:
 
@@ -74,7 +74,7 @@ Mark “Margaret” as a personal name
 
 ## name-meg-005
 
-Source: [chapter-1.xhtml:15:45](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-1.xhtml#L15).
+Source: [chapter-1.xhtml:15:45](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-1.xhtml#L15).
 
 Confidence: medium.
 
@@ -82,7 +82,7 @@ Occurrences: 686.
 
 <code>Meg,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Meg&lt;/span&gt;,</code>.
 
-[Exact patch](../../changes/name-meg-005/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-meg-005/baseline.patch).
 
 Proposed commit:
 
@@ -92,7 +92,7 @@ Mark “Meg” as a personal name
 
 ## name-meg-006
 
-Source: [chapter-12.xhtml:16:13](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-12.xhtml#L16).
+Source: [chapter-12.xhtml:16:13](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-12.xhtml#L16).
 
 Confidence: medium.
 
@@ -100,7 +100,7 @@ Occurrences: 1.
 
 <code>Meg March,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Meg March&lt;/span&gt;,</code>.
 
-[Exact patch](../../changes/name-meg-006/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-meg-006/baseline.patch).
 
 Proposed commit:
 
@@ -110,7 +110,7 @@ Mark “Meg March” as a personal name
 
 ## name-meg-007
 
-Source: [chapter-16.xhtml:39:90](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-16.xhtml#L39).
+Source: [chapter-16.xhtml:39:90](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-16.xhtml#L39).
 
 Confidence: medium.
 
@@ -118,7 +118,7 @@ Occurrences: 1.
 
 <code>Meggy;</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Meggy&lt;/span&gt;;</code>.
 
-[Exact patch](../../changes/name-meg-007/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-meg-007/baseline.patch).
 
 Proposed commit:
 
@@ -128,7 +128,7 @@ Mark “Meggy” as a personal name
 
 ## name-meg-008
 
-Source: [chapter-20.xhtml:56:64](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-20.xhtml#L56).
+Source: [chapter-20.xhtml:56:64](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-20.xhtml#L56).
 
 Confidence: medium.
 
@@ -136,7 +136,7 @@ Occurrences: 1.
 
 <code>Peggy,”</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Peggy&lt;/span&gt;,”</code>.
 
-[Exact patch](../../changes/name-meg-008/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-meg-008/baseline.patch).
 
 Proposed commit:
 
@@ -146,7 +146,7 @@ Mark “Peggy” as a personal name
 
 ## name-meg-009
 
-Source: [chapter-10.xhtml:16:70](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-10.xhtml#L16).
+Source: [chapter-10.xhtml:16:70](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-10.xhtml#L16).
 
 Confidence: medium.
 
@@ -154,7 +154,7 @@ Occurrences: 9.
 
 <code>Pickwick</code> → <code>&lt;span epub:type="z3998:persona"&gt;Pickwick&lt;/span&gt;</code>.
 
-[Exact patch](../../changes/name-meg-009/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-meg-009/baseline.patch).
 
 Proposed commit:
 
@@ -164,7 +164,7 @@ Mark “Pickwick” as an assumed role
 
 ## name-meg-010
 
-Source: [chapter-10.xhtml:15:1075](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-10.xhtml#L15).
+Source: [chapter-10.xhtml:15:1075](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-10.xhtml#L15).
 
 Confidence: medium.
 
@@ -172,7 +172,7 @@ Occurrences: 1.
 
 <code>Samuel Pickwick;</code> → <code>&lt;span epub:type="z3998:persona"&gt;Samuel Pickwick&lt;/span&gt;;</code>.
 
-[Exact patch](../../changes/name-meg-010/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-meg-010/baseline.patch).
 
 Proposed commit:
 
@@ -182,7 +182,7 @@ Mark “Samuel Pickwick” as an assumed role
 
 ## name-meg-john-brooke-inscription
 
-Source: [chapter-21.xhtml:137:406](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-21.xhtml#L137).
+Source: [chapter-21.xhtml:137:406](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-21.xhtml#L137).
 
 Confidence: medium.
 
@@ -190,7 +190,7 @@ Occurrences: 1.
 
 <code>John Brooke;”</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;John Brooke&lt;/span&gt;;”</code>.
 
-[Exact patch](../../changes/name-meg-john-brooke-inscription/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-meg-john-brooke-inscription/baseline.patch).
 
 Proposed commit:
 
@@ -200,7 +200,7 @@ Mark “John Brooke” as a personal name
 
 ## name-meg-hagar-performed-role
 
-Source: [chapter-2.xhtml:60:209](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-2.xhtml#L60).
+Source: [chapter-2.xhtml:60:209](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-2.xhtml#L60).
 
 Confidence: medium.
 
@@ -208,7 +208,7 @@ Occurrences: 2.
 
 <code>Hagar,</code> → <code>&lt;span epub:type="z3998:persona"&gt;Hagar&lt;/span&gt;,</code>.
 
-[Exact patch](../../changes/name-meg-hagar-performed-role/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-meg-hagar-performed-role/baseline.patch).
 
 Proposed commit:
 

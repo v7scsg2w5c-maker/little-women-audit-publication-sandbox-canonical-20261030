@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>know,</code> → <code>know</code>.
 
-[Exact patch](../../changes/generic-ch38-remove-subject-predicate-comma/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/generic-ch38-remove-subject-predicate-comma/baseline.patch).
 
 Proposed commit:
 
@@ -24,7 +24,7 @@ Occurrences: 1.
 
 <code>bonnet,</code> → <code>bonnet</code>.
 
-[Exact patch](../../changes/generic-ch46-blue-umbrella-subject-comma/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/generic-ch46-blue-umbrella-subject-comma/baseline.patch).
 
 Proposed commit:
 

@@ -4,10 +4,10 @@ In chapter 31, restore the final s in Champs Élysées, keeping the name in plai
 
 | Location | Current → proposed | Exact patch |
 | --- | --- | --- |
-| [chapter 31, line 58](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-31.xhtml#L58) | <code>Élysée</code> → <code>Élysées</code> | [Patch](../../changes/champs-elysees/baseline.patch) |
+| [chapter 31, line 58](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-31.xhtml#L58) | <code>Élysée</code> → <code>Élysées</code> | [Patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/champs-elysees/baseline.patch) |
 
-[Complete changes and proposed messages](appendix.md).
+[Complete changes and proposed messages](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/audit-evidence/account-copy-v1/briefs/word-champs-elysees/appendix.md).
 
-![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 417 — crop](../../assets/image-0023.png)
+![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 417 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0023.png)
 
-[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 417 — full page](../../assets/image-0024.png).
+[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 417 — full page](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0024.png).

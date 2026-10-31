@@ -2,13 +2,13 @@
 
 ## name-frank-vaughn-001
 
-Source: [chapter-12.xhtml:43:75](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-12.xhtml#L43).
+Source: [chapter-12.xhtml:43:75](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-12.xhtml#L43).
 
 Occurrences: 17.
 
 <code>Frank</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Frank&lt;/span&gt;</code>.
 
-[Exact patch](../../changes/name-frank-vaughn-001/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-frank-vaughn-001/baseline.patch).
 
 Proposed commit:
 
@@ -18,13 +18,13 @@ Mark “Frank” as a personal name
 
 ## name-frank-vaughn-002
 
-Source: [chapter-31.xhtml:48:197](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-31.xhtml#L48).
+Source: [chapter-31.xhtml:48:197](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-31.xhtml#L48).
 
 Occurrences: 1.
 
 <code>Frank Vaughn!</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Frank Vaughn&lt;/span&gt;!</code>.
 
-[Exact patch](../../changes/name-frank-vaughn-002/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-frank-vaughn-002/baseline.patch).
 
 Proposed commit:
 

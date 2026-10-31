@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>&lt;i xml:lang="de"&gt;Jungfrau&lt;/i&gt;” had sent her.&lt;/p&gt;&#10;			&lt;p&gt;“So am I,” added Jo, slapping the pocket wherein reposed the long-desired &lt;i epub:type="se:name.publication.book"&gt;Undine and Sintram&lt;/i&gt;</code> → <code>Jungfrau” had sent her.&lt;/p&gt;&#10;			&lt;p&gt;“So am I,” added Jo, slapping the pocket wherein reposed the long-desired &lt;i epub:type="se:name.publication.book"&gt;Undine and Sintram&lt;/i&gt;</code>.
 
-[Exact patch](../../changes/typed-carrier-parallel-occurrences-recovery-31/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/typed-carrier-parallel-occurrences-recovery-31/baseline.patch).
 
 Proposed commit:
 

@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>pocket-handkerchief</code> → <code>pocket handkerchief</code>.
 
-[Exact patch](../../changes/chapter24-pocket-handkerchief/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/chapter24-pocket-handkerchief/baseline.patch).
 
 Proposed commit:
 
@@ -24,7 +24,7 @@ Occurrences: 1.
 
 <code>pocket-handkerchief,</code> → <code>pocket handkerchief,</code>.
 
-[Exact patch](../../changes/chapter25-pocket-handkerchief/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/chapter25-pocket-handkerchief/baseline.patch).
 
 Proposed commit:
 
@@ -40,7 +40,7 @@ Occurrences: 1.
 
 <code>pocket-handkerchiefs?”&lt;/p&gt;</code> → <code>pocket handkerchiefs?”&lt;/p&gt;</code>.
 
-[Exact patch](../../changes/compound-pocket-handkerchief-chapter-3-byte-7541/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/compound-pocket-handkerchief-chapter-3-byte-7541/baseline.patch).
 
 Proposed commit:
 

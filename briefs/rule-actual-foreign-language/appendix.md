@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>‘Herein!’&lt;/p&gt;</code> → <code>‘&lt;i xml:lang="de"&gt;Herein!&lt;/i&gt;’&lt;/p&gt;</code>.
 
-[Exact patch](../../changes/herein/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/herein/baseline.patch).
 
 Proposed commit:
 
@@ -24,7 +24,7 @@ Occurrences: 1.
 
 <code>‘&lt;i&gt;Route</code> → <code>‘&lt;i xml:lang="fr"&gt;Route</code>.
 
-[Exact patch](../../changes/route-de-roi/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/route-de-roi/baseline.patch).
 
 Proposed commit:
 

@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>you;”</code> → <code>you”;</code>.
 
-[Exact patch](../../changes/semicolon-remembered-words/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-remembered-words/baseline.patch).
 
 Proposed commit:
 
@@ -24,7 +24,7 @@ Occurrences: 1.
 
 <code>Brooke;”</code> → <code>Brooke”;</code>.
 
-[Exact patch](../../changes/semicolon-brooke-inscription/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-brooke-inscription/baseline.patch).
 
 Proposed commit:
 
@@ -40,7 +40,7 @@ Occurrences: 1.
 
 <code>doin’s;”</code> → <code>doin’s”;</code>.
 
-[Exact patch](../../changes/semicolon-jo-doings/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-jo-doings/baseline.patch).
 
 Proposed commit:
 
@@ -56,7 +56,7 @@ Occurrences: 1.
 
 <code>Laurence;”</code> → <code>Laurence”;</code>.
 
-[Exact patch](../../changes/semicolon-procession-designations-site-1/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-procession-designations-site-1/baseline.patch).
 
 Proposed commit:
 
@@ -72,7 +72,7 @@ Occurrences: 1.
 
 <code>son;”</code> → <code>son”;</code>.
 
-[Exact patch](../../changes/semicolon-procession-designations-site-2/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-procession-designations-site-2/baseline.patch).
 
 Proposed commit:
 
@@ -88,7 +88,7 @@ Occurrences: 1.
 
 <code>saw;”</code> → <code>saw”;</code>.
 
-[Exact patch](../../changes/semicolon-sweetest-thing/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-sweetest-thing/baseline.patch).
 
 Proposed commit:
 
@@ -104,7 +104,7 @@ Occurrences: 1.
 
 <code>dear;”</code> → <code>dear”;</code>.
 
-[Exact patch](../../changes/semicolon-the-dear/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-the-dear/baseline.patch).
 
 Proposed commit:
 
@@ -120,7 +120,7 @@ Occurrences: 1.
 
 <code>easily;”</code> → <code>easily”;</code>.
 
-[Exact patch](../../changes/semicolon-tide-metaphor/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-tide-metaphor/baseline.patch).
 
 Proposed commit:
 
@@ -136,7 +136,7 @@ Occurrences: 1.
 
 <code>lie;”</code> → <code>lie”;</code>.
 
-[Exact patch](../../changes/semicolon-washington-allusion/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-washington-allusion/baseline.patch).
 
 Proposed commit:
 
@@ -152,7 +152,7 @@ Occurrences: 1.
 
 <code>girl;’</code> → <code>girl’;</code>.
 
-[Exact patch](../../changes/semicolon-charming-girl/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-charming-girl/baseline.patch).
 
 Proposed commit:
 
@@ -168,7 +168,7 @@ Occurrences: 1.
 
 <code>beste&lt;/i&gt;;’</code> → <code>beste&lt;/i&gt;’;</code>.
 
-[Exact patch](../../changes/semicolon-german-maxim/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-german-maxim/baseline.patch).
 
 Proposed commit:
 
@@ -184,7 +184,7 @@ Occurrences: 1.
 
 <code>busy;’</code> → <code>busy’;</code>.
 
-[Exact patch](../../changes/semicolon-hope-motto/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-hope-motto/baseline.patch).
 
 Proposed commit:
 
@@ -200,7 +200,7 @@ Occurrences: 1.
 
 <code>over;’</code> → <code>over’;</code>.
 
-[Exact patch](../../changes/semicolon-lorded-over/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-lorded-over/baseline.patch).
 
 Proposed commit:
 
@@ -216,7 +216,7 @@ Occurrences: 1.
 
 <code>Pigs;’</code> → <code>Pigs’;</code>.
 
-[Exact patch](../../changes/semicolon-seven-pigs-title/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-seven-pigs-title/baseline.patch).
 
 Proposed commit:
 
@@ -232,7 +232,7 @@ Occurrences: 1.
 
 <code>family;”</code> → <code>family”;</code>.
 
-[Exact patch](../../changes/d42-flower-semicolon/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/d42-flower-semicolon/baseline.patch).
 
 Proposed commit:
 
@@ -248,7 +248,7 @@ Occurrences: 1.
 
 <code>view;’</code> → <code>view’;</code>.
 
-[Exact patch](../../changes/d42-sensible-inner-semicolon/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/d42-sensible-inner-semicolon/baseline.patch).
 
 Proposed commit:
 
@@ -264,7 +264,7 @@ Occurrences: 1.
 
 <code>wound;”</code> → <code>wound”;</code>.
 
-[Exact patch](../../changes/d42-wound-semicolon/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/d42-wound-semicolon/baseline.patch).
 
 Proposed commit:
 
@@ -280,7 +280,7 @@ Occurrences: 1.
 
 <code>them;”</code> → <code>them”;</code>.
 
-[Exact patch](../../changes/quotation195-a-079/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/quotation195-a-079/baseline.patch).
 
 Proposed commit:
 
@@ -296,7 +296,7 @@ Occurrences: 1.
 
 <code>it”;</code> → <code>it;”</code>.
 
-[Exact patch](../../changes/quotation195-a-022/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/quotation195-a-022/baseline.patch).
 
 Proposed commit:
 
@@ -312,7 +312,7 @@ Occurrences: 1.
 
 <code>door”;</code> → <code>door;”</code>.
 
-[Exact patch](../../changes/quotation195-a-038/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/quotation195-a-038/baseline.patch).
 
 Proposed commit:
 
@@ -328,7 +328,7 @@ Occurrences: 1.
 
 <code>hard”;</code> → <code>hard;”</code>.
 
-[Exact patch](../../changes/quotation195-a-044/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/quotation195-a-044/baseline.patch).
 
 Proposed commit:
 
@@ -344,7 +344,7 @@ Occurrences: 1.
 
 <code>fault”;</code> → <code>fault;”</code>.
 
-[Exact patch](../../changes/ended-dialogue-semicolon8/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/ended-dialogue-semicolon8/baseline.patch).
 
 Proposed commit:
 
@@ -360,7 +360,7 @@ Occurrences: 1.
 
 <code>all”;</code> → <code>all;”</code>.
 
-[Exact patch](../../changes/ch3-dialogue-thats-all-semicolon/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/ch3-dialogue-thats-all-semicolon/baseline.patch).
 
 Proposed commit:
 
@@ -376,7 +376,7 @@ Occurrences: 1.
 
 <code>it”;</code> → <code>it;”</code>.
 
-[Exact patch](../../changes/semicolon-quotation-ownership-chapter-3-byte-12340/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-quotation-ownership-chapter-3-byte-12340/baseline.patch).
 
 Proposed commit:
 
@@ -392,7 +392,7 @@ Occurrences: 1.
 
 <code>worried;”</code> → <code>worried”;</code>.
 
-[Exact patch](../../changes/semicolon-quotation-ownership-chapter-34-byte-27153/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-quotation-ownership-chapter-34-byte-27153/baseline.patch).
 
 Proposed commit:
 
@@ -408,7 +408,7 @@ Occurrences: 1.
 
 <code>you;”</code> → <code>you”;</code>.
 
-[Exact patch](../../changes/semicolon-quotation-ownership-chapter-41-byte-13113/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/semicolon-quotation-ownership-chapter-41-byte-13113/baseline.patch).
 
 Proposed commit:
 
@@ -416,30 +416,30 @@ Proposed commit:
 Change “you;”” to “you”;” (chapter 41)
 ```
 
-![Standard Ebooks digital text — Ebook context render — chapter 45 — crop](../../assets/image-0080.png)
+![Standard Ebooks digital text — Ebook context render — chapter 45 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0080.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 45 — full context render](../../assets/image-0081.png).
+[Standard Ebooks digital text — Ebook context render — chapter 45 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0081.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 7 — crop](../../assets/image-0261.png)
+![Standard Ebooks digital text — Ebook context render — chapter 7 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0261.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 7 — full context render](../../assets/image-0262.png).
+[Standard Ebooks digital text — Ebook context render — chapter 7 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0262.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 2 — crop](../../assets/image-0255.png)
+![Standard Ebooks digital text — Ebook context render — chapter 2 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0255.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 2 — full context render](../../assets/image-0256.png).
+[Standard Ebooks digital text — Ebook context render — chapter 2 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0256.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 3 — crop](../../assets/image-0257.png)
+![Standard Ebooks digital text — Ebook context render — chapter 3 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0257.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 3 — full context render](../../assets/image-0258.png).
+[Standard Ebooks digital text — Ebook context render — chapter 3 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0258.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 3 — crop](../../assets/image-0259.png)
+![Standard Ebooks digital text — Ebook context render — chapter 3 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0259.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 3 — full context render](../../assets/image-0260.png).
+[Standard Ebooks digital text — Ebook context render — chapter 3 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0260.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 8 — crop](../../assets/image-0090.png)
+![Standard Ebooks digital text — Ebook context render — chapter 8 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0090.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 8 — full context render](../../assets/image-0091.png).
+[Standard Ebooks digital text — Ebook context render — chapter 8 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0091.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 3 — crop](../../assets/image-0021.png)
+![Standard Ebooks digital text — Ebook context render — chapter 3 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0021.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 3 — full context render](../../assets/image-0022.png).
+[Standard Ebooks digital text — Ebook context render — chapter 3 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0022.png).

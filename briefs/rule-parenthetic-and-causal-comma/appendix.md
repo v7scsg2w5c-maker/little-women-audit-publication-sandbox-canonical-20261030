@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>which</code> → <code>which,</code>.
 
-[Exact patch](../../changes/opening-parenthetical-comma/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/opening-parenthetical-comma/baseline.patch).
 
 Proposed commit:
 
@@ -24,7 +24,7 @@ Occurrences: 1.
 
 <code>sausage”</code> → <code>sausage,”</code>.
 
-[Exact patch](../../changes/v4-group-04/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/v4-group-04/baseline.patch).
 
 Proposed commit:
 
@@ -40,7 +40,7 @@ Occurrences: 1.
 
 <code>line</code> → <code>line,</code>.
 
-[Exact patch](../../changes/collation-ch33-line-for-comma/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/collation-ch33-line-for-comma/baseline.patch).
 
 Proposed commit:
 
@@ -56,7 +56,7 @@ Occurrences: 1.
 
 <code>work</code> → <code>work,</code>.
 
-[Exact patch](../../changes/generic-ch34-close-work-parenthesis/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/generic-ch34-close-work-parenthesis/baseline.patch).
 
 Proposed commit:
 
@@ -64,6 +64,6 @@ Proposed commit:
 [Editorial] Change “work” to “work,” (chapter 34, line 16)
 ```
 
-![Standard Ebooks digital text — Ebook context render — chapter 34 — crop](../../assets/image-0112.png)
+![Standard Ebooks digital text — Ebook context render — chapter 34 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0112.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 34 — full context render](../../assets/image-0061.png).
+[Standard Ebooks digital text — Ebook context render — chapter 34 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0061.png).

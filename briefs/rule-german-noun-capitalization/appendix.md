@@ -10,7 +10,7 @@ Occurrences: 1.
 
 <code>&lt;i xml:lang="de"&gt;bübchen&lt;/i&gt;?”</code> → <code>&lt;i xml:lang="de"&gt;Bübchen&lt;/i&gt;?”</code>.
 
-[Exact patch](../../changes/bubchen/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/bubchen/baseline.patch).
 
 Proposed commit:
 
@@ -28,7 +28,7 @@ Occurrences: 1.
 
 <code>Engel-kinder!&lt;/i&gt;”</code> → <code>Engel-Kinder!&lt;/i&gt;”</code>.
 
-[Exact patch](../../changes/engel-kinder/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/engel-kinder/baseline.patch).
 
 Proposed commit:
 
@@ -46,7 +46,7 @@ Occurrences: 1.
 
 <code>&lt;i xml:lang="de"&gt;heimweh&lt;/i&gt;,</code> → <code>&lt;i xml:lang="de"&gt;Heimweh&lt;/i&gt;,</code>.
 
-[Exact patch](../../changes/heimweh/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/heimweh/baseline.patch).
 
 Proposed commit:
 
@@ -64,7 +64,7 @@ Occurrences: 1.
 
 <code>&lt;i xml:lang="de"&gt;mannling&lt;/i&gt;;”</code> → <code>&lt;i xml:lang="de"&gt;Mannling&lt;/i&gt;;”</code>.
 
-[Exact patch](../../changes/mannling/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/mannling/baseline.patch).
 
 Proposed commit:
 
@@ -82,7 +82,7 @@ Occurrences: 1.
 
 <code>land&lt;/i&gt;”</code> → <code>Land&lt;/i&gt;”</code>.
 
-[Exact patch](../../changes/das-land-chapter43/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/das-land-chapter43/baseline.patch).
 
 Proposed commit:
 
@@ -100,7 +100,7 @@ Occurrences: 1.
 
 <code>land&lt;/i&gt;,’&lt;/p&gt;</code> → <code>Land&lt;/i&gt;,’&lt;/p&gt;</code>.
 
-[Exact patch](../../changes/v4-group-77/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/v4-group-77/baseline.patch).
 
 Proposed commit:
 
@@ -108,18 +108,18 @@ Proposed commit:
 [Editorial] Capitalize “Land” (chapter 33, line 33)
 ```
 
-![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 473 — crop](../../assets/image-0200.png)
+![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 473 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0200.png)
 
-[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 473 — full page](../../assets/image-0201.png).
+[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 473 — full page](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0201.png).
 
-![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 612 — crop](../../assets/image-0228.png)
+![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 612 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0228.png)
 
-[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 612 — full page](../../assets/image-0016.png).
+[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 612 — full page](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0016.png).
 
-![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 597 — crop](../../assets/image-0082.png)
+![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 597 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0082.png)
 
-[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 597 — full page](../../assets/image-0083.png).
+[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations), physical page 597 — full page](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0083.png).
 
-![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — crop](../../assets/image-0327.png)
+![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0327.png)
 
-[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — full page](../../assets/image-0328.png).
+[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — full page](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0328.png).

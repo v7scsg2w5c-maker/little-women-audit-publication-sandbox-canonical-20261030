@@ -4,11 +4,11 @@ In chapter 2, replace the comma after “Is it fairies?” asked Amy with a peri
 
 | Location | Current → proposed | Exact patch |
 | --- | --- | --- |
-| [chapter 2, line 107](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-2.xhtml#L107) | <code>Amy,&lt;/p&gt;</code> → <code>Amy.&lt;/p&gt;</code> | [Patch](../changes/v3-group-55/baseline.patch) |
+| [chapter 2, line 107](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-2.xhtml#L107) | <code>Amy,&lt;/p&gt;</code> → <code>Amy.&lt;/p&gt;</code> | [Patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/v3-group-55/baseline.patch) |
 
-[Complete changes and proposed messages](../briefs/word-speech-attribution-boundary/appendix.md).
+[Complete changes and proposed messages](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/audit-evidence/account-copy-v1/briefs/word-speech-attribution-boundary/appendix.md).
 
-![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — crop](../assets/image-0313.png)
+![1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0313.png)
 
-[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — full page](../assets/image-0314.png).
+[1915 Little, Brown (Smith illustrations) — 1915 Little, Brown (Smith illustrations) — full page](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0314.png).
 

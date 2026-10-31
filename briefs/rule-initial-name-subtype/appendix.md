@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;J. M.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:personal-name"&gt;J. M.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/jm-personal-name-semantics/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/jm-personal-name-semantics/baseline.patch).
 
 Proposed commit:
 
@@ -24,7 +24,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;K.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:surname"&gt;K.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/kirke-surname-initials-byte-12507/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/kirke-surname-initials-byte-12507/baseline.patch).
 
 Proposed commit:
 
@@ -40,7 +40,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;K.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:surname"&gt;K.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/kirke-surname-initials-byte-20124/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/kirke-surname-initials-byte-20124/baseline.patch).
 
 Proposed commit:
 
@@ -56,7 +56,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;L.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:surname"&gt;L.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/laurence-surname-initial/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/laurence-surname-initial/baseline.patch).
 
 Proposed commit:
 
@@ -72,7 +72,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;M. M.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:personal-name"&gt;M. M.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/mm-personal-name/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/mm-personal-name/baseline.patch).
 
 Proposed commit:
 
@@ -88,7 +88,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;A. S.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:personal-name"&gt;A. S.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/chapter-10-personal-name-1/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/chapter-10-personal-name-1/baseline.patch).
 
 Proposed commit:
 
@@ -104,7 +104,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;S. P.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:personal-name"&gt;S. P.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/chapter-10-personal-name-2/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/chapter-10-personal-name-2/baseline.patch).
 
 Proposed commit:
 
@@ -120,7 +120,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;A. S.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:personal-name"&gt;A. S.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/chapter-10-personal-name-3/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/chapter-10-personal-name-3/baseline.patch).
 
 Proposed commit:
 
@@ -136,7 +136,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;T. T.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:personal-name"&gt;T. T.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/chapter-10-personal-name-4/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/chapter-10-personal-name-4/baseline.patch).
 
 Proposed commit:
 
@@ -152,7 +152,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;N. W.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:personal-name"&gt;N. W.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/chapter-10-personal-name-5/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/chapter-10-personal-name-5/baseline.patch).
 
 Proposed commit:
 
@@ -168,7 +168,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;M.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:surname"&gt;M.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/git-10-current-m-surname.change-01/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/git-10-current-m-surname.change-01/baseline.patch).
 
 Proposed commit:
 
@@ -184,7 +184,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;M.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:surname"&gt;M.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/git-10-current-m-surname.change-02/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/git-10-current-m-surname.change-02/baseline.patch).
 
 Proposed commit:
 
@@ -200,7 +200,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;K.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:surname"&gt;K.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/git-11-surname-initial-01/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/git-11-surname-initial-01/baseline.patch).
 
 Proposed commit:
 
@@ -216,7 +216,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;K.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:surname"&gt;K.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/git-11-surname-initial-02/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/git-11-surname-initial-02/baseline.patch).
 
 Proposed commit:
 
@@ -232,7 +232,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;K.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:surname"&gt;K.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/git-11-surname-initial-03.change-01/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/git-11-surname-initial-03.change-01/baseline.patch).
 
 Proposed commit:
 
@@ -248,7 +248,7 @@ Occurrences: 1.
 
 <code>&lt;abbr epub:type="z3998:given-name"&gt;K.&lt;/abbr&gt;</code> → <code>&lt;abbr epub:type="z3998:surname"&gt;K.&lt;/abbr&gt;</code>.
 
-[Exact patch](../../changes/git-11-surname-initial-03.change-02/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/git-11-surname-initial-03.change-02/baseline.patch).
 
 Proposed commit:
 
@@ -256,22 +256,22 @@ Proposed commit:
 Update “K.” markup (chapter 33, line 26)
 ```
 
-![Standard Ebooks digital text — Ebook context render — chapter 10 — crop](../../assets/image-0029.png)
+![Standard Ebooks digital text — Ebook context render — chapter 10 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0029.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 10 — full context render](../../assets/image-0028.png).
+[Standard Ebooks digital text — Ebook context render — chapter 10 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0028.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 9 — crop](../../assets/image-0182.png)
+![Standard Ebooks digital text — Ebook context render — chapter 9 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0182.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 9 — full context render](../../assets/image-0183.png).
+[Standard Ebooks digital text — Ebook context render — chapter 9 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0183.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 33 — crop](../../assets/image-0184.png)
+![Standard Ebooks digital text — Ebook context render — chapter 33 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0184.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 33 — full context render](../../assets/image-0185.png).
+[Standard Ebooks digital text — Ebook context render — chapter 33 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0185.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 33 — crop](../../assets/image-0186.png)
+![Standard Ebooks digital text — Ebook context render — chapter 33 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0186.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 33 — full context render](../../assets/image-0187.png).
+[Standard Ebooks digital text — Ebook context render — chapter 33 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0187.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 33 — crop](../../assets/image-0188.png)
+![Standard Ebooks digital text — Ebook context render — chapter 33 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0188.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 33 — full context render](../../assets/image-0189.png).
+[Standard Ebooks digital text — Ebook context render — chapter 33 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0189.png).

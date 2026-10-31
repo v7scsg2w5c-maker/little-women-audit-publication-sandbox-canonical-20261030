@@ -2,13 +2,13 @@
 
 ## name-ned-moffat-001
 
-Source: [chapter-12.xhtml:60:387](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-12.xhtml#L60).
+Source: [chapter-12.xhtml:60:387](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-12.xhtml#L60).
 
 Occurrences: 19.
 
 <code>Ned’s</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Ned&lt;/span&gt;’s</code>.
 
-[Exact patch](../../changes/name-ned-moffat-001/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-ned-moffat-001/baseline.patch).
 
 Proposed commit:
 
@@ -18,13 +18,13 @@ Mark “Ned” as a personal name
 
 ## name-ned-moffat-002
 
-Source: [chapter-12.xhtml:55:554](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-12.xhtml#L55).
+Source: [chapter-12.xhtml:55:554](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/text/chapter-12.xhtml#L55).
 
 Occurrences: 5.
 
 <code>Ned Moffat,</code> → <code>&lt;span epub:type="z3998:personal-name"&gt;Ned Moffat&lt;/span&gt;,</code>.
 
-[Exact patch](../../changes/name-ned-moffat-002/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/name-ned-moffat-002/baseline.patch).
 
 Proposed commit:
 

@@ -4,6 +4,6 @@ Keep letter datelines in normal case by adding font-variant: normal to the exist
 
 | Location | Current → proposed | Exact patch |
 | --- | --- | --- |
-| [local.css](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/css/local.css) | <code>text-align:</code> → <code>font-variant: normal;&#10;	text-align:</code> | [Patch](../../changes/letter-dateline-normal-case-presentation/baseline.patch) |
+| [local.css](https://github.com/standardebooks/louisa-may-alcott_little-women/blob/38695106591f6060142dd1ad4da1d2aeded8ab8f/src/epub/css/local.css) | <code>text-align:</code> → <code>font-variant: normal;&#10;	text-align:</code> | [Patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/letter-dateline-normal-case-presentation/baseline.patch) |
 
-[Complete changes and proposed messages](appendix.md).
+[Complete changes and proposed messages](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/audit-evidence/account-copy-v1/briefs/rule-letter-dateline-normal-case-presentation/appendix.md).

@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>there</code> → <code>There</code>.
 
-[Exact patch](../../changes/editorial-there-after-question/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/editorial-there-after-question/baseline.patch).
 
 Proposed commit:
 
@@ -24,7 +24,7 @@ Occurrences: 1.
 
 <code>the</code> → <code>The</code>.
 
-[Exact patch](../../changes/generic-ch3-The-burn-sentence-capitalization/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/generic-ch3-The-burn-sentence-capitalization/baseline.patch).
 
 Proposed commit:
 
@@ -40,7 +40,7 @@ Occurrences: 1.
 
 <code>half</code> → <code>Half</code>.
 
-[Exact patch](../../changes/transcription-source-adjacent-half30-after-exclamation/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/transcription-source-adjacent-half30-after-exclamation/baseline.patch).
 
 Proposed commit:
 
@@ -56,7 +56,7 @@ Occurrences: 1.
 
 <code>she’s</code> → <code>She’s</code>.
 
-[Exact patch](../../changes/transcription-source-adjacent-she36-after-exclamation/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/transcription-source-adjacent-she36-after-exclamation/baseline.patch).
 
 Proposed commit:
 
@@ -72,7 +72,7 @@ Occurrences: 1.
 
 <code>she</code> → <code>She</code>.
 
-[Exact patch](../../changes/transcription-source-adjacent-she44-after-exclamation/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/transcription-source-adjacent-she44-after-exclamation/baseline.patch).
 
 Proposed commit:
 
@@ -80,10 +80,10 @@ Proposed commit:
 [Editorial] Capitalize “She” (chapter 44, line 48)
 ```
 
-![Standard Ebooks digital text — Ebook context render — chapter 36 — crop](../../assets/image-0287.png)
+![Standard Ebooks digital text — Ebook context render — chapter 36 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0287.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 36 — full context render](../../assets/image-0288.png).
+[Standard Ebooks digital text — Ebook context render — chapter 36 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0288.png).
 
-![Standard Ebooks digital text — Ebook context render — chapter 44 — crop](../../assets/image-0289.png)
+![Standard Ebooks digital text — Ebook context render — chapter 44 — crop](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0289.png)
 
-[Standard Ebooks digital text — Ebook context render — chapter 44 — full context render](../../assets/image-0290.png).
+[Standard Ebooks digital text — Ebook context render — chapter 44 — full context render](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/raw/c97210078bab885768f4f915fa218a8712f58b3d/assets/image-0290.png).

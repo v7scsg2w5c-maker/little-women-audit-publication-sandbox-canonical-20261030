@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>time.&lt;/p&gt;</code> → <code>time&lt;/p&gt;</code>.
 
-[Exact patch](../../changes/generic-ch10-school-time-period/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/generic-ch10-school-time-period/baseline.patch).
 
 Proposed commit:
 

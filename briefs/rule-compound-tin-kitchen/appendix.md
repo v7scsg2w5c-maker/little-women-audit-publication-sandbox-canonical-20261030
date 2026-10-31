@@ -8,7 +8,7 @@ Occurrences: 1.
 
 <code>tin-kitchen</code> → <code>tin kitchen</code>.
 
-[Exact patch](../../changes/tin-kitchen32/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/tin-kitchen32/baseline.patch).
 
 Proposed commit:
 
@@ -24,7 +24,7 @@ Occurrences: 1.
 
 <code>tin-kitchen</code> → <code>tin kitchen</code>.
 
-[Exact patch](../../changes/chapter27-tin-kitchen/baseline.patch).
+[Exact patch](https://github.com/v7scsg2w5c-maker/little-women-audit-publication-sandbox-canonical-20261030/blob/c97210078bab885768f4f915fa218a8712f58b3d/changes/chapter27-tin-kitchen/baseline.patch).
 
 Proposed commit:
 
