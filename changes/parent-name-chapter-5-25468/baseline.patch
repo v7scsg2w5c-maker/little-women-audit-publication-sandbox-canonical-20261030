@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-5.xhtml b/src/epub/text/chapter-5.xhtml
+index 6c82f39e47ca500743ebb83215182d9eb24f32df..f72b188988c919bd2e4d5c4a5c54023435cd36ba 100644
+--- a/src/epub/text/chapter-5.xhtml
++++ b/src/epub/text/chapter-5.xhtml
+@@ -132,7 +132,7 @@
+ 			<p>“How silly!” said Jo. “Let him be a musician, if he wants to, and not plague his life out sending him to college, when he hates to go.”</p>
+ 			<p>“That’s why he has such handsome black eyes and pretty manners, I suppose. Italians are always nice,” said Meg, who was a little sentimental.</p>
+ 			<p>“What do you know about his eyes and his manners? You never spoke to him, hardly,” cried Jo, who was <em>not</em> sentimental.</p>
+-			<p>“I saw him at the party, and what you tell shows that he knows how to behave. That was a nice little speech about the medicine mother sent him.”</p>
++			<p>“I saw him at the party, and what you tell shows that he knows how to behave. That was a nice little speech about the medicine Mother sent him.”</p>
+ 			<p>“He meant the blancmange, I suppose.”</p>
+ 			<p>“How stupid you are, child! He meant you, of course.”</p>
+ 			<p>“Did he?” and Jo opened her eyes as if it had never occurred to her before.</p>

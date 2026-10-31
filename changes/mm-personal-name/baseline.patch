@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-2.xhtml b/src/epub/text/chapter-2.xhtml
+index 66878f1db042a942d23b330581f4213268d3c83c..207c5bde8a1d343889d766a6dfae41770cb7a50a 100644
+--- a/src/epub/text/chapter-2.xhtml
++++ b/src/epub/text/chapter-2.xhtml
+@@ -23,7 +23,7 @@
+ 			<p>“She took it out a minute ago, and went off with it to put a ribbon on it, or some such notion,” replied Jo, dancing about the room to take the first stiffness off the new army-slippers.</p>
+ 			<p>“How nice my handkerchiefs look, don’t they? Hannah washed and ironed them for me, and I marked them all myself,” said Beth, looking proudly at the somewhat uneven letters which had cost her such labor.</p>
+ 			<p>“Bless the child! she’s gone and put ‘Mother’ on them instead of ‘<abbr epub:type="z3998:given-name">M.</abbr> March.’ How funny!” cried Jo, taking up one.</p>
+-			<p>“Isn’t it right? I thought it was better to do it so, because Meg’s initials are ‘<abbr epub:type="z3998:given-name">M. M.</abbr>,’ and I don’t want anyone to use these but Marmee,” said Beth, looking troubled.</p>
++			<p>“Isn’t it right? I thought it was better to do it so, because Meg’s initials are ‘<abbr epub:type="z3998:personal-name">M. M.</abbr>,’ and I don’t want anyone to use these but Marmee,” said Beth, looking troubled.</p>
+ 			<p>“It’s all right, dear, and a very pretty idea⁠—quite sensible, too, for no one can ever mistake now. It will please her very much, I know,” said Meg, with a frown for Jo and a smile for Beth.</p>
+ 			<p>“There’s mother. Hide the basket, quick!” cried Jo, as a door slammed, and steps sounded in the hall.</p>
+ 			<p>Amy came in hastily, and looked rather abashed when she saw her sisters all waiting for her.</p>

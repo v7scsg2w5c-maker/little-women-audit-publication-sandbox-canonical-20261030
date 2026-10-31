@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-4.xhtml b/src/epub/text/chapter-4.xhtml
+index 3353f7f2dbbe742dff52e34ea3092b4feaef7d23..ea6e3a4919e16e15013740ed32436f850a7cb488 100644
+--- a/src/epub/text/chapter-4.xhtml
++++ b/src/epub/text/chapter-4.xhtml
+@@ -27,7 +27,7 @@
+ 			<p>“Cuddle your cats, and get over your headache, Bethy. Goodbye, Marmee; we are a set of rascals this morning, but we’ll come home regular angels. Now then, Meg!” and Jo tramped away, feeling that the pilgrims were not setting out as they ought to do.</p>
+ 			<p>They always looked back before turning the corner, for their mother was always at the window, to nod and smile, and wave her hand to them. Somehow it seemed as if they couldn’t have got through the day without that; for, whatever their mood might be, the last glimpse of that motherly face was sure to affect them like sunshine.</p>
+ 			<p>“If Marmee shook her fist instead of kissing her hand to us, it would serve us right, for more ungrateful wretches than we are were never seen,” cried Jo, taking a remorseful satisfaction in the snowy walk and bitter wind.</p>
+-			<p>“Don’t use such dreadful expressions,” said Meg, from the depths of the vail in which she had shrouded herself like a nun sick of the world.</p>
++			<p>“Don’t use such dreadful expressions,” said Meg, from the depths of the veil in which she had shrouded herself like a nun sick of the world.</p>
+ 			<p>“I like good strong words, that mean something,” replied Jo, catching her hat as it took a leap off her head, preparatory to flying away altogether.</p>
+ 			<p>“Call yourself any names you like; but <em>I</em> am neither a rascal nor a wretch, and I don’t choose to be called so.”</p>
+ 			<p>“You’re a blighted being, and decidedly cross today because you can’t sit in the lap of luxury all the time. Poor dear, just wait till I make my fortune, and you shall revel in carriages and ice-cream and high-heeled slippers and posies and redheaded boys to dance with.”</p>

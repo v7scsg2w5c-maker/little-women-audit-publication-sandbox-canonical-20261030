@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-6.xhtml b/src/epub/text/chapter-6.xhtml
+index 7f7487de782e5a97468aa46c3eb42cfb20b2fc37..fc5518cdef3cc0a09bf51c67e6797275d015ff83 100644
+--- a/src/epub/text/chapter-6.xhtml
++++ b/src/epub/text/chapter-6.xhtml
+@@ -43,7 +43,7 @@
+ 			<p>Jo opened the paper, and began to laugh, for the first words she saw were⁠—</p>
+ 			<blockquote epub:type="z3998:letter">
+ 				<header role="presentation">
+-					<p>“<b>Miss March</b>:</p>
++					<p>“<b epub:type="z3998:recipient">Miss March</b>:</p>
+ 					<p epub:type="z3998:salutation">“<i>Dear Madam</i>⁠—”</p>
+ 				</header>
+ 			</blockquote>

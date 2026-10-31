@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-10.xhtml b/src/epub/text/chapter-10.xhtml
+index 7941a3598cdbf104fb92a5e705aaa2b54f23d4b7..b6929e141e00ff3512119735a8807a0f2394247c 100644
+--- a/src/epub/text/chapter-10.xhtml
++++ b/src/epub/text/chapter-10.xhtml
+@@ -260,7 +260,7 @@
+ 					</header>
+ 					<ul>
+ 						<li>
+-							<p><b>Miss Oranthy Bluggage</b>, the accomplished Strong-Minded Lecturer, will deliver her famous Lecture on “<b>Woman and Her Position</b>,” at Pickwick Hall, next Saturday Evening, after the usual performances.</p>
++							<p><b>Miss <span epub:type="z3998:personal-name">Oranthy Bluggage</span></b>, the accomplished Strong-Minded Lecturer, will deliver her famous Lecture on “<b>Woman and Her Position</b>,” at Pickwick Hall, next Saturday Evening, after the usual performances.</p>
+ 						</li>
+ 						<li>
+ 							<p><b>A Weekly Meeting</b> will be held at Kitchen Place, to teach young ladies how to cook. Hannah Brown will preside; and all are invited to attend.</p>

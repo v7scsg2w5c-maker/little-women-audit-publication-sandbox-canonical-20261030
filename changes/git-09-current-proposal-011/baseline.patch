@@ -1,0 +1,15 @@
+diff --git a/src/epub/text/chapter-16.xhtml b/src/epub/text/chapter-16.xhtml
+index 74f2738e450d3819c3f01b2b1c1cb707f70f5040..b491860d1c9878d18ecfc2fb63022ad917e4d738 100644
+--- a/src/epub/text/chapter-16.xhtml
++++ b/src/epub/text/chapter-16.xhtml
+@@ -130,7 +130,9 @@
+ 			<blockquote epub:type="z3998:letter">
+ 				<p epub:type="z3998:salutation">“Head Nurse of Ward <abbr>No.</abbr> 2⁠—</p>
+ 				<p>“All serene on the Rappahannock, troops in fine condition, commissary department well conducted, the Home Guard under Colonel Teddy always on duty, Commander-in-chief General Laurence reviews the army daily, Quartermaster Mullett keeps order in camp, and Major Lion does picket duty at night. A salute of twenty-four guns was fired on receipt of good news from Washington, and a dress parade took place at headquarters. Commander-in-chief sends best wishes, in which he is heartily joined by</p>
+-				<p epub:type="z3998:signature">“Colonel Teddy.”</p>
++				<footer role="presentation">
++					<p epub:type="z3998:signature">“Colonel Teddy.”</p>
++				</footer>
+ 			</blockquote>
+ 			<blockquote epub:type="z3998:letter">
+ 				<p epub:type="z3998:salutation">“Dear Madam⁠—</p>

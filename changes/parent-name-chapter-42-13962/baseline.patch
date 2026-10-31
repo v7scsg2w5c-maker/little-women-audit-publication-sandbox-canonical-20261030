@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-42.xhtml b/src/epub/text/chapter-42.xhtml
+index 1a910f849ffb8e7f3cbc74bbe0f8b8c157281415..6c80a9b1163b8fc9a826c7524e5cea263e511aac 100644
+--- a/src/epub/text/chapter-42.xhtml
++++ b/src/epub/text/chapter-42.xhtml
+@@ -45,7 +45,7 @@
+ 			<p>“So you are, dear, and I should have made you mine, only I fancied it might pain you to learn that your Teddy loved anyone else.”</p>
+ 			<p>“Now, mother, did you really think I could be so silly and selfish, after I’d refused his love, when it was freshest, if not best?”</p>
+ 			<p>“I knew you were sincere then, Jo, but lately I have thought that if he came back, and asked again, you might, perhaps, feel like giving another answer. Forgive me, dear, I can’t help seeing that you are very lonely, and sometimes there is a hungry look in your eyes that goes to my heart; so I fancied that your boy might fill the empty place if he tried now.”</p>
+-			<p>“No, mother, it is better as it is, and I’m glad Amy has learned to love him. But you are right in one thing: I <em>am</em> lonely, and perhaps if Teddy had tried again, I might have said ‘Yes,’ not because I love him any more, but because I care more to be loved than when he went away.”</p>
++			<p>“No, Mother, it is better as it is, and I’m glad Amy has learned to love him. But you are right in one thing: I <em>am</em> lonely, and perhaps if Teddy had tried again, I might have said ‘Yes,’ not because I love him any more, but because I care more to be loved than when he went away.”</p>
+ 			<p>“I’m glad of that, Jo, for it shows that you are getting on. There are plenty to love you, so try to be satisfied with father and mother, sisters and brothers, friends and babies, till the best lover of all comes to give you your reward.”</p>
+ 			<p>“Mothers are the <em>best</em> lovers in the world; but I don’t mind whispering to Marmee that I’d like to try all kinds. It’s very curious, but the more I try to satisfy myself with all sorts of natural affections, the more I seem to want. I’d no idea hearts could take in so many; mine is so elastic, it never seems full now, and I used to be quite contented with my family. I don’t understand it.”</p>
+ 			<p>“I do;” and <abbr epub:type="z3998:name-title">Mrs.</abbr> March smiled her wise smile, as Jo turned back the leaves to read what Amy said of Laurie.</p>

@@ -1,0 +1,19 @@
+diff --git a/src/epub/text/chapter-12.xhtml b/src/epub/text/chapter-12.xhtml
+index d357ca056b6502f278a729a362c45caa1d820a5e..8f41b200dbc3b6c20a37c02674a089f21ac8a866 100644
+--- a/src/epub/text/chapter-12.xhtml
++++ b/src/epub/text/chapter-12.xhtml
+@@ -33,9 +33,11 @@
+ 				<p epub:type="z3998:salutation">“Dear Jo,</p>
+ 				<p>“What ho!</p>
+ 				<p>“Some English girls and boys are coming to see me tomorrow and I want to have a jolly time. If it’s fine, I’m going to pitch my tent in Longmeadow, and row up the whole crew to lunch and croquet⁠—have a fire, make messes, gypsy fashion, and all sorts of larks. They are nice people, and like such things. Brooke will go, to keep us boys steady, and Kate Vaughn will play propriety for the girls. I want you all to come; can’t let Beth off, at any price, and nobody shall worry her. Don’t bother about rations⁠—I’ll see to that, and everything else⁠—only do come, there’s a good fellow!</p>
+-				<p epub:type="z3998:valediction">“In a tearing hurry,</p>
+-				<p epub:type="z3998:valediction">“Yours ever,</p>
+-				<p epub:type="z3998:signature">“Laurie.”</p>
++				<footer role="presentation">
++					<p epub:type="z3998:valediction">“In a tearing hurry,<br/>
++					Yours ever,<br/>
++					<span epub:type="z3998:signature">Laurie.</span>”</p>
++				</footer>
+ 			</blockquote>
+ 			<p>“Here’s richness!” cried Jo, flying in to tell the news to Meg.</p>
+ 			<p>“Of course we can go, mother? it will be such a help to Laurie, for I can row, and Meg see to the lunch, and the children be useful in some way.”</p>

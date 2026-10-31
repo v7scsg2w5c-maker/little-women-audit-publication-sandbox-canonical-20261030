@@ -1,0 +1,22 @@
+diff --git a/src/epub/text/chapter-9.xhtml b/src/epub/text/chapter-9.xhtml
+index a7250df49a45e628539106f96c257dc05203ce96..4f9614ab6e7273fb07b0400097c94fb81be5f75d 100644
+--- a/src/epub/text/chapter-9.xhtml
++++ b/src/epub/text/chapter-9.xhtml
+@@ -58,7 +58,7 @@
+ 			<p>“Nearly seventy, I believe,” answered Meg, counting stitches, to hide the merriment in her eyes.</p>
+ 			<p>“You sly creature! Of course we meant the young man,” exclaimed Miss Belle, laughing.</p>
+ 			<p>“There isn’t any; Laurie is only a little boy,” and Meg laughed also at the queer look which the sisters exchanged as she thus described her supposed lover.</p>
+-			<p>“About your age,” Nan said.</p>
++			<p>“About your age,” <span epub:type="z3998:personal-name">Nan</span> said.</p>
+ 			<p>“Nearer my sister Jo’s; <em>I</em> am seventeen in August,” returned Meg, tossing her head.</p>
+ 			<p>“It’s very nice of him to send you flowers, isn’t it?” said Annie, looking wise about nothing.</p>
+ 			<p>“Yes, he often does, to all of us; for their house is full, and we are so fond of them. My mother and old <abbr epub:type="z3998:name-title">Mr.</abbr> Laurence are friends, you know, so it is quite natural that we children should play together;” and Meg hoped they would say no more.</p>
+@@ -80,7 +80,7 @@
+ 			<p>“Mademoiselle is <i xml:lang="fr">charmante, très jolie</i>, is she not?” cried Hortense, clasping her hands in an affected rapture.</p>
+ 			<p>“Come and show yourself,” said Miss Belle, leading the way to the room where the others were waiting.</p>
+ 			<p>As Meg went rustling after, with her long skirts trailing, her earrings tinkling, her curls waving, and her heart beating, she felt as if her “fun” had really begun at last, for the mirror had plainly told her that she <em>was</em> “a little beauty.” Her friends repeated the pleasing phrase enthusiastically; and, for several minutes, she stood, like the jackdaw in the fable, enjoying her borrowed plumes, while the rest chattered like a party of magpies.</p>
+-			<p>“While I dress, do you drill her, Nan, in the management of her skirt, and those French heels, or she will trip herself up. Take your silver butterfly, and catch up that long curl on the left side of her head, Clara, and don’t any of you disturb the charming work of my hands,” said Belle, as she hurried away, looking well pleased with her success.</p>
++			<p>“While I dress, do you drill her, <span epub:type="z3998:personal-name">Nan</span>, in the management of her skirt, and those French heels, or she will trip herself up. Take your silver butterfly, and catch up that long curl on the left side of her head, Clara, and don’t any of you disturb the charming work of my hands,” said Belle, as she hurried away, looking well pleased with her success.</p>
+ 			<p>“I’m afraid to go down, I feel so queer and stiff and half-dressed,” said Meg to Sallie, as the bell rang, and <abbr epub:type="z3998:name-title">Mrs.</abbr> Moffat sent to ask the young ladies to appear at once.</p>
+ 			<p>“You don’t look a bit like yourself, but you are very nice. I’m nowhere beside you, for Belle has heaps of taste, and you’re quite French, I assure you. Let your flowers hang; don’t be so careful of them, and be sure you don’t trip,” returned Sallie, trying not to care that Meg was prettier than herself.</p>
+ 			<p>Keeping that warning carefully in mind, Margaret got safely downstairs, and sailed into the drawing-rooms, where the Moffats and a few early guests were assembled. She very soon discovered that there is a charm about fine clothes which attracts a certain class of people, and secures their respect. Several young ladies, who had taken no notice of her before, were very affectionate all of a sudden; several young gentlemen, who had only stared at her at the other party, now not only stared, but asked to be introduced, and said all manner of foolish but agreeable things to her; and several old ladies, who sat on sofas, and criticised the rest of the party, inquired who she was, with an air of interest. She heard <abbr epub:type="z3998:name-title">Mrs.</abbr> Moffat reply to one of them⁠—</p>

@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-33.xhtml b/src/epub/text/chapter-33.xhtml
+index 6330f921905ec2485d5096cce1b33e5591f74147..ed8e363f45f5b7bfe5a1c9ee9f65c13262a4cf83 100644
+--- a/src/epub/text/chapter-33.xhtml
++++ b/src/epub/text/chapter-33.xhtml
+@@ -66,7 +66,7 @@
+ 			<blockquote epub:type="z3998:letter">
+ 				<p epub:type="se:letter.dateline">“Saturday.</p>
+ 				<p>“Nothing has happened to write about, except a call on Miss Norton, who has a room full of lovely things, and who was very charming, for she showed me all her treasures, and asked me if I would sometimes go with her to lectures and concerts, as her escort⁠—if I enjoyed them. She put it as a favor, but I’m sure <abbr epub:type="z3998:name-title">Mrs.</abbr> Kirke has told her about us, and she does it out of kindness to me. I’m as proud as Lucifer, but such favors from such people don’t burden me, and I accepted gratefully.</p>
+-				<p>“When I got back to the nursery there was such an uproar in the parlor that I looked in; and there was <abbr epub:type="z3998:name-title">Mr.</abbr> Bhaer down on his hands and knees, with Tina on his back, Kitty leading him with a jump-rope, and Minnie feeding two small boys with seed-cakes, as they roared and ramped in cages built of chairs.</p>
++				<p>“When I got back to the nursery there was such an uproar in the parlor that I looked in; and there was <abbr epub:type="z3998:name-title">Mr.</abbr> Bhaer down on his hands and knees, with Tina on his back, Kitty leading him with a jump-rope, and Minnie feeding two small boys with seedcakes, as they roared and ramped in cages built of chairs.</p>
+ 				<p>“ ‘We are playing Nargerie,’ explained Kitty.</p>
+ 				<p>“ ‘Dis is mine effalunt!’ added Tina, holding on by the Professor’s hair.</p>
+ 				<p>“ ‘Mamma always allows us to do what we like Saturday afternoon, when Franz and Emil come, doesn’t she, <abbr epub:type="z3998:name-title">Mr.</abbr> Bhaer?’ said Minnie.</p>

@@ -1,0 +1,28 @@
+diff --git a/src/epub/text/chapter-24.xhtml b/src/epub/text/chapter-24.xhtml
+index 318e58bbb7c9d1785c4b71802c4cb83ccba6ccf9..b3dc1476b9317d3b0ec538f31314f883c874ce91 100644
+--- a/src/epub/text/chapter-24.xhtml
++++ b/src/epub/text/chapter-24.xhtml
+@@ -87,8 +87,8 @@
+ 			<p>“Don’t lecture any more, there’s a good soul! I have enough all through the week, and like to enjoy myself when I come home. I’ll get myself up regardless of expense, tomorrow, and be a satisfaction to my friends.”</p>
+ 			<p>“I’ll leave you in peace if you’ll <em>only</em> let your hair grow. I’m not aristocratic, but I do object to being seen with a person who looks like a young prizefighter,” observed Jo severely.</p>
+ 			<p>“This unassuming style promotes study; that’s why we adopt it,” returned Laurie, who certainly could not be accused of vanity, having voluntarily sacrificed a handsome curly crop to the demand for quarter-of-an-inch-long stubble.</p>
+-			<p>“By the way, Jo, I think that little Parker is really getting desperate about Amy. He talks of her constantly, writes poetry, and moons about in a most suspicious manner. He’d better nip his little passion in the bud, hadn’t he?” added Laurie, in a confidential, elder-brotherly tone, after a minute’s silence.</p>
+-			<p>“Of course he had; we don’t want any more marrying in this family for years to come. Mercy on us, what <em>are</em> the children thinking of?” and Jo looked as much scandalized as if Amy and little Parker were not yet in their teens.</p>
++			<p>“By the way, Jo, I think that little <span epub:type="z3998:personal-name">Parker</span> is really getting desperate about Amy. He talks of her constantly, writes poetry, and moons about in a most suspicious manner. He’d better nip his little passion in the bud, hadn’t he?” added Laurie, in a confidential, elder-brotherly tone, after a minute’s silence.</p>
++			<p>“Of course he had; we don’t want any more marrying in this family for years to come. Mercy on us, what <em>are</em> the children thinking of?” and Jo looked as much scandalized as if Amy and little <span epub:type="z3998:personal-name">Parker</span> were not yet in their teens.</p>
+ 			<p>“It’s a fast age, and I don’t know what we are coming to, ma’am. You are a mere infant, but you’ll go next, Jo, and we’ll be left lamenting,” said Laurie, shaking his head over the degeneracy of the times.</p>
+ 			<p>“Don’t be alarmed; I’m not one of the agreeable sort. Nobody will want me, and it’s a mercy, for there should always be one old maid in a family.”</p>
+ 			<p>“You won’t give anyone a chance,” said Laurie, with a sidelong glance, and a little more color than before in his sunburnt face. “You won’t show the soft side of your character; and if a fellow gets a peep at it by accident, and can’t help showing that he likes it, you treat him as <abbr epub:type="z3998:name-title">Mrs.</abbr> Gummidge did her sweetheart⁠—throw cold water over him⁠—and get so thorny no one dares touch or look at you.”</p>
+diff --git a/src/epub/text/chapter-30.xhtml b/src/epub/text/chapter-30.xhtml
+index 0adad85319adb5b1524675e456586eff548b0374..fd50b89090f322051d43ede2c3aa6fcacc609fb7 100644
+--- a/src/epub/text/chapter-30.xhtml
++++ b/src/epub/text/chapter-30.xhtml
+@@ -65,7 +65,7 @@
+ 			<p>Much gratified, Jo rushed back to tell the good news; and Amy looked both touched and surprised by the report of May’s words and manner.</p>
+ 			<p>“Now, gentlemen, I want you to go and do your duty by the other tables as generously as you have by mine⁠—especially the art-table,” she said, ordering out “Teddy’s Own,” as the girls called the college friends.</p>
+ 			<p>“ ‘Charge, Chester, charge!’ is the motto for that table; but do your duty like men, and you’ll get your money’s worth of <em>art</em> in every sense of the word,” said the irrepressible Jo, as the devoted phalanx prepared to take the field.</p>
+-			<p>“To hear is to obey, but March is fairer far than May,” said little Parker, making a frantic effort to be both witty and tender, and getting promptly quenched by Laurie, who said, “Very well, my son, for a small boy!” and walked him off, with a paternal pat on the head.</p>
++			<p>“To hear is to obey, but March is fairer far than May,” said little <span epub:type="z3998:personal-name">Parker</span>, making a frantic effort to be both witty and tender, and getting promptly quenched by Laurie, who said, “Very well, my son, for a small boy!” and walked him off, with a paternal pat on the head.</p>
+ 			<p>“Buy the vases,” whispered Amy to Laurie, as a final heaping of coals of fire on her enemy’s head.</p>
+ 			<p>To May’s great delight, <abbr epub:type="z3998:name-title">Mr.</abbr> Laurence not only bought the vases, but pervaded the hall with one under each arm. The other gentlemen speculated with equal rashness in all sorts of frail trifles, and wandered helplessly about afterward, burdened with wax flowers, painted fans, filigree portfolios, and other useful and appropriate purchases.</p>
+ 			<p>Aunt Carrol was there, heard the story, looked pleased, and said something to <abbr epub:type="z3998:name-title">Mrs.</abbr> March in a corner, which made the latter lady beam with satisfaction, and watch Amy with a face full of mingled pride and anxiety, though she did not betray the cause of her pleasure till several days later.</p>

@@ -1,0 +1,8 @@
+# parenthetic and causal comma
+
+| Change | Proposed commit subject | Exact changes | Commit | Patch | Message |
+| --- | --- | ---: | --- | --- | --- |
+| `generic-ch34-close-work-parenthesis` | [Editorial] Change “work” to “work,” (chapter 34, line 16) | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/ab34356477e1c94cfde41b6e420e2a4de4a7e09a) | [Patch](../../changes/generic-ch34-close-work-parenthesis/baseline.patch) | [Message](../../changes/generic-ch34-close-work-parenthesis/commit-message.txt) |
+| `collation-ch33-line-for-comma` | [Editorial] Change “line” to “line,” (chapter 33, line 102) | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/c52134f39015b60b751695c07d42946ac0b0f9c5) | [Patch](../../changes/collation-ch33-line-for-comma/baseline.patch) | [Message](../../changes/collation-ch33-line-for-comma/commit-message.txt) |
+| `opening-parenthetical-comma` | [Editorial] Change “which” to “which,” (chapter 4, line 37) | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/70157e309f2213e120f0cba198c0e4550ae5822c) | [Patch](../../changes/opening-parenthetical-comma/baseline.patch) | [Message](../../changes/opening-parenthetical-comma/commit-message.txt) |
+| `v4-group-04` | [Editorial] Change “sausage”” to “sausage,”” (chapter 32, line 43) | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/d4eb63f37ef4bfcf246bb45290ca49d2305cc123) | [Patch](../../changes/v4-group-04/baseline.patch) | [Message](../../changes/v4-group-04/commit-message.txt) |

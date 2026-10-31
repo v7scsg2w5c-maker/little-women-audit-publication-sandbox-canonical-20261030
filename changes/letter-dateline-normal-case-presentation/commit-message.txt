@@ -1,0 +1,1 @@
+Change “text-align” to “font-variant: normal; text-align” (local.css)

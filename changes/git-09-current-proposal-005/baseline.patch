@@ -1,0 +1,17 @@
+diff --git a/src/epub/text/chapter-15.xhtml b/src/epub/text/chapter-15.xhtml
+index db1d183dacf7c577bc57e08bf19b95f3e1db36b3..0d252b069f54eaaad97af58a5fa554980a868cdb 100644
+--- a/src/epub/text/chapter-15.xhtml
++++ b/src/epub/text/chapter-15.xhtml
+@@ -32,8 +32,10 @@
+ 			<blockquote epub:type="z3998:letter">
+ 				<p epub:type="z3998:salutation">“<abbr epub:type="z3998:name-title">Mrs.</abbr> March:</p>
+ 				<p>“Your husband is very ill. Come at once.</p>
+-				<p epub:type="z3998:signature">“<abbr epub:type="z3998:given-name">S.</abbr> Hale,</p>
+-				<p epub:type="z3998:signature">“Blank Hospital, Washington”</p>
++				<footer role="presentation">
++					<p epub:type="z3998:signature">“<abbr epub:type="z3998:given-name">S.</abbr> Hale,</p>
++					<p epub:type="z3998:signature">“Blank Hospital, Washington”</p>
++				</footer>
+ 			</blockquote>
+ 			<p>How still the room was as they listened breathlessly, how strangely the day darkened outside, and how suddenly the whole world seemed to change, as the girls gathered about their mother, feeling as if all the happiness and support of their lives was about to be taken from them. <abbr epub:type="z3998:name-title">Mrs.</abbr> March was herself again directly; read the message over, and stretched out her arms to her daughters, saying, in a tone they never forgot, “I shall go at once, but it may be too late. O children, children, help me to bear it!”</p>
+ 			<p>For several minutes there was nothing but the sound of sobbing in the room, mingled with broken words of comfort, tender assurances of help, and hopeful whispers that died away in tears. Poor Hannah was the first to recover, and with unconscious wisdom she set all the rest a good example; for, with her, work was the panacea for most afflictions.</p>

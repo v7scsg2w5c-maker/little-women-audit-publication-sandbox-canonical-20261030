@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-32.xhtml b/src/epub/text/chapter-32.xhtml
+index bc1c5f97d57f50bc30d4ef7fc19bbbb107a04c59..455920f64ea8cb650320d9f12caf56c5ad369b04 100644
+--- a/src/epub/text/chapter-32.xhtml
++++ b/src/epub/text/chapter-32.xhtml
+@@ -19,7 +19,7 @@
+ 			<p>“Have you asked her about it?”</p>
+ 			<p>“I have tried once or twice; but she either evaded my questions, or looked so distressed that I stopped. I never force my children’s confidence, and I seldom have to wait for it long.”</p>
+ 			<p><abbr epub:type="z3998:name-title">Mrs.</abbr> March glanced at Jo as she spoke, but the face opposite seemed quite unconscious of any secret disquietude but Beth’s; and, after sewing thoughtfully for a minute, Jo said⁠—</p>
+-			<p>“I think she is growing up, and so begins to dream dreams, and have hopes and fears and fidgets, without knowing why, or being able to explain them. Why, mother, Beth’s eighteen, but we don’t realize it, and treat her like a child, forgetting she’s a woman.”</p>
++			<p>“I think she is growing up, and so begins to dream dreams, and have hopes and fears and fidgets, without knowing why, or being able to explain them. Why, Mother, Beth’s eighteen, but we don’t realize it, and treat her like a child, forgetting she’s a woman.”</p>
+ 			<p>“So she is. Dear heart, how fast you do grow up,” returned her mother, with a sigh and a smile.</p>
+ 			<p>“Can’t be helped, Marmee, so you must resign yourself to all sorts of worries, and let your birds hop out of the nest, one by one. I promise never to hop very far, if that is any comfort to you.”</p>
+ 			<p>“It is a great comfort, Jo; I always feel strong when you are at home, now Meg is gone. Beth is too feeble and Amy too young to depend upon; but when the tug comes, you are always ready.”</p>

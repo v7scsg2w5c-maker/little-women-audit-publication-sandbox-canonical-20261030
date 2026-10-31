@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-29.xhtml b/src/epub/text/chapter-29.xhtml
+index 144cab8447c78b88f5fcf10b5b23f4ea29a73ac6..11aac0cf320b36c75449f7616148c7897a0c9e0a 100644
+--- a/src/epub/text/chapter-29.xhtml
++++ b/src/epub/text/chapter-29.xhtml
+@@ -68,7 +68,7 @@
+ 			<p>“Capital boys, aren’t they? I feel quite young and brisk again after that,” said Jo, strolling along with her hands behind her, partly from habit, partly to conceal the bespattered parasol.</p>
+ 			<p>“Why do you always avoid <abbr epub:type="z3998:name-title">Mr.</abbr> Tudor?” asked Amy, wisely refraining from any comment upon Jo’s dilapidated appearance.</p>
+ 			<p>“Don’t like him; he puts on airs, snubs his sisters, worries his father, and doesn’t speak respectfully of his mother. Laurie says he is fast, and <em>I</em> don’t consider him a desirable acquaintance; so I let him alone.”</p>
+-			<p>“You might treat him civilly, at least. You gave him a cool nod; and just now you bowed and smiled in the politest way to Tommy Chamberlain, whose father keeps a grocery store. If you had just reversed the nod and the bow, it would have been right,” said Amy reprovingly.</p>
++			<p>“You might treat him civilly, at least. You gave him a cool nod; and just now you bowed and smiled in the politest way to <span epub:type="z3998:personal-name">Tommy Chamberlain</span>, whose father keeps a grocery store. If you had just reversed the nod and the bow, it would have been right,” said Amy reprovingly.</p>
+ 			<p>“No, it wouldn’t,” returned perverse Jo; “I neither like, respect, nor admire Tudor, though his grandfather’s uncle’s nephew’s niece <em>was</em> third cousin to a lord. Tommy is poor and bashful and good and very clever; I think well of him, and like to show that I do, for he <em>is</em> a gentleman in spite of the brown-paper parcels.”</p>
+ 			<p>“It’s no use trying to argue with you,” began Amy.</p>
+ 			<p>“Not the least, my dear,” interrupted Jo; “so let us look amiable, and drop a card here, as the Kings are evidently out, for which I’m deeply grateful.”</p>

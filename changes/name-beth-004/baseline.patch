@@ -1,0 +1,74 @@
+diff --git a/src/epub/text/chapter-11.xhtml b/src/epub/text/chapter-11.xhtml
+index 7e863e927a208bb65c105d6890ca9b00381f0fb2..78d5ce51681a58ad206b41c0ee604f03ae9c490a 100644
+--- a/src/epub/text/chapter-11.xhtml
++++ b/src/epub/text/chapter-11.xhtml
+@@ -55,7 +55,7 @@
+ 			<p>Jo peeped into his half-open eye, felt his little heart, and finding him stiff and cold, shook her head, and offered her domino-box for a coffin.</p>
+ 			<p>“Put him in the oven, and maybe he will get warm and revive,” said Amy hopefully.</p>
+ 			<p>“He’s been starved, and he shan’t be baked, now he’s dead. I’ll make him a shroud, and he shall be buried in the garden; and I’ll never have another bird, never, my Pip! for I am too bad to own one,” murmured Beth, sitting on the floor with her pet folded in her hands.</p>
+-			<p>“The funeral shall be this afternoon, and we will all go. Now, don’t cry, Bethy; it’s a pity, but nothing goes right this week, and Pip has had the worst of the experiment. Make the shroud, and lay him in my box; and, after the dinner-party, we’ll have a nice little funeral,” said Jo, beginning to feel as if she had undertaken a good deal.</p>
++			<p>“The funeral shall be this afternoon, and we will all go. Now, don’t cry, <span epub:type="z3998:personal-name">Bethy</span>; it’s a pity, but nothing goes right this week, and Pip has had the worst of the experiment. Make the shroud, and lay him in my box; and, after the dinner-party, we’ll have a nice little funeral,” said Jo, beginning to feel as if she had undertaken a good deal.</p>
+ 			<p>Leaving the others to console Beth, she departed to the kitchen, which was in a most discouraging state of confusion. Putting on a big apron, she fell to work, and got the dishes piled up ready for washing, when she discovered that the fire was out.</p>
+ 			<p>“Here’s a sweet prospect!” muttered Jo, slamming the stove-door open, and poking vigorously among the cinders.</p>
+ 			<p>Having rekindled the fire, she thought she would go to market while the water heated. The walk revived her spirits; and, flattering herself that she had made good bargains, she trudged home again, after buying a very young lobster, some very old asparagus, and two boxes of acid strawberries. By the time she got cleared up, the dinner arrived, and the stove was red-hot. Hannah had left a pan of bread to rise, Meg had worked it up early, set it on the hearth for a second rising, and forgotten it. Meg was entertaining Sallie Gardiner in the parlor, when the door flew open, and a floury, crocky, flushed, and dishevelled figure appeared, demanding tartly⁠—</p>
+diff --git a/src/epub/text/chapter-12.xhtml b/src/epub/text/chapter-12.xhtml
+index d357ca056b6502f278a729a362c45caa1d820a5e..b5efc8358b3b9177f1fc50ccc0f7c33bdba39ab4 100644
+--- a/src/epub/text/chapter-12.xhtml
++++ b/src/epub/text/chapter-12.xhtml
+@@ -42,7 +42,7 @@
+ 			<p>“I hope the Vaughns are not fine, grown-up people. Do you know anything about them, Jo?” asked Meg.</p>
+ 			<p>“Only that there are four of them. Kate is older than you, Fred and Frank (twins) about my age, and a little girl (Grace), who is nine or ten. Laurie knew them abroad, and liked the boys; I fancied, from the way he primmed up his mouth in speaking of her, that he didn’t admire Kate much.”</p>
+ 			<p>“I’m so glad my French print is clean; it’s just the thing, and so becoming!” observed Meg complacently. “Have you anything decent, Jo?”</p>
+-			<p>“Scarlet and gray boating suit, good enough for me. I shall row and tramp about, so I don’t want any starch to think of. You’ll come, Bethy?”</p>
++			<p>“Scarlet and gray boating suit, good enough for me. I shall row and tramp about, so I don’t want any starch to think of. You’ll come, <span epub:type="z3998:personal-name">Bethy</span>?”</p>
+ 			<p>“If you won’t let any of the boys talk to me.”</p>
+ 			<p>“Not a boy!”</p>
+ 			<p>“I like to please Laurie; and I’m not afraid of <abbr epub:type="z3998:name-title">Mr.</abbr> Brooke, he is so kind; but I don’t want to play, or sing, or say anything. I’ll work hard, and not trouble anyone; and you’ll take care of me, Jo, so I’ll go.”</p>
+diff --git a/src/epub/text/chapter-18.xhtml b/src/epub/text/chapter-18.xhtml
+index e4648d274306c7016c2ad44ba678950ff5078dd2..2a3c410c70755117e009e6c681b37cbd4a5f2437 100644
+--- a/src/epub/text/chapter-18.xhtml
++++ b/src/epub/text/chapter-18.xhtml
+@@ -30,7 +30,7 @@
+ 			<p>“Keep hoping for the best; that will help you, Jo. Soon your mother will be here, and then everything will be right.”</p>
+ 			<p>“I’m so glad father is better; now she won’t feel so bad about leaving him. Oh, me! it does seem as if all the troubles came in a heap, and I got the heaviest part on my shoulders,” sighed Jo, spreading her wet handkerchief over her knees to dry.</p>
+ 			<p>“Doesn’t Meg pull fair?” asked Laurie, looking indignant.</p>
+-			<p>“Oh, yes; she tries to, but she can’t love Bethy as I do; and she won’t miss her as I shall. Beth is my conscience, and I <em>can’t</em> give her up. I can’t! I can’t!”</p>
++			<p>“Oh, yes; she tries to, but she can’t love <span epub:type="z3998:personal-name">Bethy</span> as I do; and she won’t miss her as I shall. Beth is my conscience, and I <em>can’t</em> give her up. I can’t! I can’t!”</p>
+ 			<p>Down went Jo’s face into the wet handkerchief, and she cried despairingly; for she had kept up bravely till now, and never shed a tear. Laurie drew his hand across his eyes, but could not speak till he had subdued the choky feeling in his throat and steadied his lips. It might be unmanly, but he couldn’t help it, and I am glad of it. Presently, as Jo’s sobs quieted, he said hopefully, “I don’t think she will die; she’s so good, and we all love her so much, I don’t believe God will take her away yet.”</p>
+ 			<p>“The good and dear people always do die,” groaned Jo, but she stopped crying, for her friend’s words cheered her up, in spite of her own doubts and fears.</p>
+ 			<p>“Poor girl, you’re worn out. It isn’t like you to be forlorn. Stop a bit; I’ll hearten you up in a jiffy.”</p>
+diff --git a/src/epub/text/chapter-32.xhtml b/src/epub/text/chapter-32.xhtml
+index bc1c5f97d57f50bc30d4ef7fc19bbbb107a04c59..0f92792a9205b4aa7baa80bac7f4ff45f453e95c 100644
+--- a/src/epub/text/chapter-32.xhtml
++++ b/src/epub/text/chapter-32.xhtml
+@@ -27,7 +27,7 @@
+ 			<p>“I leave Beth to your hands, then, for she will open her tender little heart to her Jo sooner than to anyone else. Be very kind, and don’t let her think anyone watches or talks about her. If she only would get quite strong and cheerful again, I shouldn’t have a wish in the world.”</p>
+ 			<p>“Happy woman! I’ve got heaps.”</p>
+ 			<p>“My dear, what are they?”</p>
+-			<p>“I’ll settle Bethy’s troubles, and then I’ll tell you mine. They are not very wearing, so they’ll keep;” and Jo stitched away, with a wise nod which set her mother’s heart at rest about her, for the present at least.</p>
++			<p>“I’ll settle <span epub:type="z3998:personal-name">Bethy</span>’s troubles, and then I’ll tell you mine. They are not very wearing, so they’ll keep;” and Jo stitched away, with a wise nod which set her mother’s heart at rest about her, for the present at least.</p>
+ 			<p>While apparently absorbed in her own affairs, Jo watched Beth; and, after many conflicting conjectures, finally settled upon one which seemed to explain the change in her. A slight incident gave Jo the clue to the mystery, she thought, and lively fancy, loving heart did the rest. She was affecting to write busily one Saturday afternoon, when she and Beth were alone together; yet as she scribbled, she kept her eye on her sister, who seemed unusually quiet. Sitting at the window, Beth’s work often dropped into her lap, and she leaned her head upon her hand, in a dejected attitude, while her eyes rested on the dull, autumnal landscape. Suddenly someone passed below, whistling like an operatic blackbird, and a voice called out⁠—</p>
+ 			<p>“All serene! Coming in tonight.”</p>
+ 			<p>Beth started, leaned forward, smiled and nodded, watched the passerby till his quick tramp died away, then said softly, as if to herself⁠—</p>
+@@ -88,7 +88,7 @@
+ 			<p>“Yes, Jo,” after a long pause.</p>
+ 			<p>“Wouldn’t it comfort you to tell me what it is?”</p>
+ 			<p>“Not now, not yet.”</p>
+-			<p>“Then I won’t ask; but remember, Bethy, that mother and Jo are always glad to hear and help you, if they can.”</p>
++			<p>“Then I won’t ask; but remember, <span epub:type="z3998:personal-name">Bethy</span>, that mother and Jo are always glad to hear and help you, if they can.”</p>
+ 			<p>“I know it. I’ll tell you by and by.”</p>
+ 			<p>“Is the pain better now?”</p>
+ 			<p>“Oh, yes, much better; you are so comfortable, Jo!”</p>
+diff --git a/src/epub/text/chapter-4.xhtml b/src/epub/text/chapter-4.xhtml
+index 3353f7f2dbbe742dff52e34ea3092b4feaef7d23..94eb9934fa721c2b5b2c1eae99006204b8e9ce4c 100644
+--- a/src/epub/text/chapter-4.xhtml
++++ b/src/epub/text/chapter-4.xhtml
+@@ -24,7 +24,7 @@
+ 			<p>Jo laughed, Meg scolded, Beth implored, and Amy wailed, because she couldn’t remember how much nine times twelve was.</p>
+ 			<p>“Girls, girls, do be quiet one minute! I <em>must</em> get this off by the early mail, and you drive me distracted with your worry,” cried <abbr epub:type="z3998:name-title">Mrs.</abbr> March, crossing out the third spoilt sentence in her letter.</p>
+ 			<p>There was a momentary lull, broken by Hannah, who stalked in, laid two hot turnovers on the table, and stalked out again. These turnovers were an institution; and the girls called them “muffs,” for they had no others, and found the hot pies very comforting to their hands on cold mornings. Hannah never forgot to make them, no matter how busy or grumpy she might be, for the walk was long and bleak; the poor things got no other lunch, and were seldom home before two.</p>
+-			<p>“Cuddle your cats, and get over your headache, Bethy. Goodbye, Marmee; we are a set of rascals this morning, but we’ll come home regular angels. Now then, Meg!” and Jo tramped away, feeling that the pilgrims were not setting out as they ought to do.</p>
++			<p>“Cuddle your cats, and get over your headache, <span epub:type="z3998:personal-name">Bethy</span>. Goodbye, Marmee; we are a set of rascals this morning, but we’ll come home regular angels. Now then, Meg!” and Jo tramped away, feeling that the pilgrims were not setting out as they ought to do.</p>
+ 			<p>They always looked back before turning the corner, for their mother was always at the window, to nod and smile, and wave her hand to them. Somehow it seemed as if they couldn’t have got through the day without that; for, whatever their mood might be, the last glimpse of that motherly face was sure to affect them like sunshine.</p>
+ 			<p>“If Marmee shook her fist instead of kissing her hand to us, it would serve us right, for more ungrateful wretches than we are were never seen,” cried Jo, taking a remorseful satisfaction in the snowy walk and bitter wind.</p>
+ 			<p>“Don’t use such dreadful expressions,” said Meg, from the depths of the vail in which she had shrouded herself like a nun sick of the world.</p>

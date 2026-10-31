@@ -1,0 +1,10 @@
+# Sallie Gardiner / Moffat — optional personal-name annotations
+
+| Change | Proposed commit subject | Exact changes | Commit | Patch | Message |
+| --- | --- | ---: | --- | --- | --- |
+| `name-sallie-001` | Mark “Gardiner” as a personal name | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/7338a79ee90e416584621e15af0142f463ac541b) | [Patch](../../changes/name-sallie-001/baseline.patch) | [Message](../../changes/name-sallie-001/commit-message.txt) |
+| `name-sallie-002` | Mark “Moffat” as a personal name | 3 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/46fb70bb1e295b69787d426573dae73bab2f7aec) | [Patch](../../changes/name-sallie-002/baseline.patch) | [Message](../../changes/name-sallie-002/commit-message.txt) |
+| `name-sallie-003` | Mark “Sallie” as a personal name | 45 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/f71e1786efeb51fb4211b4e5874260db9d0fc8b2) | [Patch](../../changes/name-sallie-003/baseline.patch) | [Message](../../changes/name-sallie-003/commit-message.txt) |
+| `name-sallie-004` | Mark “Sallie Gardiner” as a personal name | 2 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/ae94196cd79e709c877d5955732aea6936212832) | [Patch](../../changes/name-sallie-004/baseline.patch) | [Message](../../changes/name-sallie-004/commit-message.txt) |
+| `name-sallie-005` | Mark “Sallie Moffat” as a personal name | 3 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/ea76b24b33a2f6b70253b865fcb275e04b14cdd7) | [Patch](../../changes/name-sallie-005/baseline.patch) | [Message](../../changes/name-sallie-005/commit-message.txt) |
+| `name-sallie-006` | Mark “Sallie Moffatt” as a personal name | 1 | [Commit](https://github.com/chmod007/little-women-audit-publication-sandbox-canonical-20261030/commit/8f8d7d1de841d38c9f5a333cd88381a0f1d0611d) | [Patch](../../changes/name-sallie-006/baseline.patch) | [Message](../../changes/name-sallie-006/commit-message.txt) |

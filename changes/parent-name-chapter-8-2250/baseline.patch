@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-8.xhtml b/src/epub/text/chapter-8.xhtml
+index 957af3a01d805c77c291b07dbbbc795d5514669a..4598254a574d9eaa16588e94c7c925597f8aec7b 100644
+--- a/src/epub/text/chapter-8.xhtml
++++ b/src/epub/text/chapter-8.xhtml
+@@ -18,7 +18,7 @@
+ 			<p>“You are going somewhere with Laurie, I know you are; you were whispering and laughing together, on the sofa, last night, and you stopped when I came in. Aren’t you going with him?”</p>
+ 			<p>“Yes, we are; now do be still, and stop bothering.”</p>
+ 			<p>Amy held her tongue, but used her eyes, and saw Meg slip a fan into her pocket.</p>
+-			<p>“I know! I know! you’re going to the theatre to see the <i epub:type="se:name.publication.play">Seven Castles</i>!” she cried; adding resolutely, “and I <em>shall</em> go, for mother said I might see it; and I’ve got my rag-money, and it was mean not to tell me in time.”</p>
++			<p>“I know! I know! you’re going to the theatre to see the <i epub:type="se:name.publication.play">Seven Castles</i>!” she cried; adding resolutely, “and I <em>shall</em> go, for Mother said I might see it; and I’ve got my rag-money, and it was mean not to tell me in time.”</p>
+ 			<p>“Just listen to me a minute, and be a good child,” said Meg soothingly. “Mother doesn’t wish you to go this week, because your eyes are not well enough yet to bear the light of this fairy piece. Next week you can go with Beth and Hannah, and have a nice time.”</p>
+ 			<p>“I don’t like that half as well as going with you and Laurie. Please let me; I’ve been sick with this cold so long, and shut up, I’m dying for some fun. Do, Meg! I’ll be ever so good,” pleaded Amy, looking as pathetic as she could.</p>
+ 			<p>“Suppose we take her. I don’t believe mother would mind, if we bundle her up well,” began Meg.</p>

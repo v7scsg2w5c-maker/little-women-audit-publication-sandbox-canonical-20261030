@@ -1,0 +1,3 @@
+Set “garçons” in roman type (chapter 37, line 85)
+
+Set established dictionary loanwords in roman type under the rule for Merriam-Webster basic search results, while retaining the required italics exception where an opening word could be confused with English. Five selected cases are required technical corrections. Château en Espagne is a discretionary technical recommendation with medium confidence: its contextual sense supports roman treatment, but qualification as a basic search result remains inferential. This exception does not assert a mandatory defect or require editorial disclosure.

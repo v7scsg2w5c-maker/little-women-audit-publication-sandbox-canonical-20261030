@@ -1,0 +1,17 @@
+diff --git a/src/epub/text/chapter-16.xhtml b/src/epub/text/chapter-16.xhtml
+index 74f2738e450d3819c3f01b2b1c1cb707f70f5040..2dec14051bdb6b08566f1d5861daeda0dcae6fe2 100644
+--- a/src/epub/text/chapter-16.xhtml
++++ b/src/epub/text/chapter-16.xhtml
+@@ -124,8 +124,10 @@
+ 			<blockquote epub:type="z3998:letter">
+ 				<p epub:type="z3998:salutation">“Dear Mis March⁠—</p>
+ 				<p>“I jes drop a line to say we git on fust rate. The girls is clever and fly round right smart. Miss Meg is going to make a proper good housekeeper; she hes the liking for it, and gits the hang of things surprisin quick. Jo doos beat all for goin ahead, but she don’t stop to cal’k’late fust, and you never know where she’s like to bring up. She done out a tub of clothes on Monday, but she starched ’em afore they was wrenched, and blued a pink calico dress till I thought I should a died a laughin. Beth is the best of little creeters, and a sight of help to me, bein so forehanded and dependable. She tries to learn everything, and really goes to market beyond her years; likewise keeps accounts, with my help, quite wonderful. We have got on very economical so fur; I don’t let the girls hev coffee only once a week, accordin to your wish, and keep em on plain wholesome vittles. Amy does well about frettin, wearin her best clothes and eatin sweet stuff. <abbr epub:type="z3998:name-title">Mr.</abbr> Laurie is as full of didoes as usual, and turns the house upside down frequent; but he heartens up the girls, and so I let em hev full swing. The old gentleman sends heaps of things, and is rather wearin, but means wal, and it aint my place to say nothin. My bread is riz, so no more at this time. I send my duty to <abbr epub:type="z3998:name-title">Mr.</abbr> March, and hope he’s seen the last of his Pewmonia.</p>
+-				<p epub:type="z3998:valediction">“Yours Respectful,</p>
+-				<p epub:type="z3998:signature">“Hannah Mullet.”</p>
++				<footer role="presentation">
++					<p epub:type="z3998:valediction">“Yours Respectful,</p>
++					<p epub:type="z3998:signature">“Hannah Mullet.”</p>
++				</footer>
+ 			</blockquote>
+ 			<blockquote epub:type="z3998:letter">
+ 				<p epub:type="z3998:salutation">“Head Nurse of Ward <abbr>No.</abbr> 2⁠—</p>

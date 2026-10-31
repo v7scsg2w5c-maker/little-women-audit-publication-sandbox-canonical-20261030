@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-3.xhtml b/src/epub/text/chapter-3.xhtml
+index ed35e8942f1be0c4eb901048313119f8147d79f3..4c04d7b3d3e4eb64519b75e2f3569bb9c8896c5a 100644
+--- a/src/epub/text/chapter-3.xhtml
++++ b/src/epub/text/chapter-3.xhtml
+@@ -42,7 +42,7 @@
+ 			<p>“So do I, it was so smooth and pretty. But it will soon grow out again,” said Beth, coming to kiss and comfort the shorn sheep.</p>
+ 			<p>After various lesser mishaps, Meg was finished at last, and by the united exertions of the family Jo’s hair was got up and her dress on. They looked very well in their simple suits⁠—Meg in silvery drab, with a blue velvet snood, lace frills, and the pearl pin; Jo in maroon, with a stiff, gentlemanly linen collar, and a white chrysanthemum or two for her only ornament. Each put on one nice light glove, and carried one soiled one, and all pronounced the effect “quite easy and fine.” Meg’s high-heeled slippers were very tight, and hurt her, though she would not own it, and Jo’s nineteen hairpins all seemed stuck straight into her head, which was not exactly comfortable; but, dear me, let us be elegant or die!</p>
+ 			<p>“Have a good time, dearies!” said <abbr epub:type="z3998:name-title">Mrs.</abbr> March, as the sisters went daintily down the walk. “Don’t eat much supper, and come away at eleven, when I send Hannah for you.” As the gate clashed behind them, a voice cried from a window⁠—</p>
+-			<p>“Girls, girls! <em>have</em> you both got nice pocket-handkerchiefs?”</p>
++			<p>“Girls, girls! <em>have</em> you both got nice pocket handkerchiefs?”</p>
+ 			<p>“Yes, yes, spandy nice, and Meg has cologne on hers,” cried Jo, adding, with a laugh, as they went on, “I do believe Marmee would ask that if we were all running away from an earthquake.”</p>
+ 			<p>“It is one of her aristocratic tastes, and quite proper, for a real lady is always known by neat boots, gloves, and handkerchief,” replied Meg, who had a good many little “aristocratic tastes” of her own.</p>
+ 			<p>“Now don’t forget to keep the bad breadth out of sight, Jo. Is my sash right? and does my hair look <em>very</em> bad?” said Meg, as she turned from the glass in <abbr epub:type="z3998:name-title">Mrs.</abbr> Gardiner’s dressing-room, after a prolonged prink.</p>

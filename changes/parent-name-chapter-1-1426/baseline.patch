@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-1.xhtml b/src/epub/text/chapter-1.xhtml
+index 99a3196e0457428ff24f89d8e277638d6adbf830..dabf069213254445ce420ce40011506ea1f3d1e8 100644
+--- a/src/epub/text/chapter-1.xhtml
++++ b/src/epub/text/chapter-1.xhtml
+@@ -16,7 +16,7 @@
+ 			<p>“I don’t think it’s fair for some girls to have plenty of pretty things, and other girls nothing at all,” added little Amy, with an injured sniff.</p>
+ 			<p>“We’ve got father and mother and each other,” said Beth contentedly, from her corner.</p>
+ 			<p>The four young faces on which the firelight shone brightened at the cheerful words, but darkened again as Jo said sadly⁠—</p>
+-			<p>“We haven’t got father, and shall not have him for a long time.” She didn’t say “perhaps never,” but each silently added it, thinking of father far away, where the fighting was.</p>
++			<p>“We haven’t got father, and shall not have him for a long time.” She didn’t say “perhaps never,” but each silently added it, thinking of Father far away, where the fighting was.</p>
+ 			<p>Nobody spoke for a minute; then Meg said in an altered tone⁠—</p>
+ 			<p>“You know the reason mother proposed not having any presents this Christmas was because it is going to be a hard winter for everyone; and she thinks we ought not to spend money for pleasure, when our men are suffering so in the army. We can’t do much, but we can make our little sacrifices, and ought to do it gladly. But I am afraid I don’t;” and Meg shook her head, as she thought regretfully of all the pretty things she wanted.</p>
+ 			<p>“But I don’t think the little we should spend would do any good. We’ve each got a dollar, and the army wouldn’t be much helped by our giving that. I agree not to expect anything from mother or you, but I do want to buy <i epub:type="se:name.publication.book">Undine and Sintram</i> for myself; I’ve wanted it <em>so</em> long,” said Jo, who was a bookworm.</p>

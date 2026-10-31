@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-20.xhtml b/src/epub/text/chapter-20.xhtml
+index caf8a9da5110616362e8114a45b9c5a6df3a828b..76ff7e8159445d6c355f91d2b994cb4b016f2048 100644
+--- a/src/epub/text/chapter-20.xhtml
++++ b/src/epub/text/chapter-20.xhtml
+@@ -27,7 +27,7 @@
+ 			<p>“Yes; but I have more faith in the corner of the big closet. Wear your ring, dear, and do your best; I think you will prosper, for the sincere wish to be good is half the battle. Now I must go back to Beth. Keep up your heart, little daughter, and we will soon have you home again.”</p>
+ 			<p>That evening, while Meg was writing to her father, to report the traveller’s safe arrival, Jo slipped upstairs into Beth’s room, and, finding her mother in her usual place, stood a minute twisting her fingers in her hair, with a worried gesture and an undecided look.</p>
+ 			<p>“What is it, deary?” asked <abbr epub:type="z3998:name-title">Mrs.</abbr> March, holding out her hand, with a face which invited confidence.</p>
+-			<p>“I want to tell you something, mother.”</p>
++			<p>“I want to tell you something, Mother.”</p>
+ 			<p>“About Meg?”</p>
+ 			<p>“How quickly you guessed! Yes, it’s about her, and though it’s a little thing, it fidgets me.”</p>
+ 			<p>“Beth is asleep; speak low, and tell me all about it. That Moffat hasn’t been here, I hope?” asked <abbr epub:type="z3998:name-title">Mrs.</abbr> March rather sharply.</p>

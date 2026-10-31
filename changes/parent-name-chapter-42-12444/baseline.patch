@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-42.xhtml b/src/epub/text/chapter-42.xhtml
+index 1a910f849ffb8e7f3cbc74bbe0f8b8c157281415..2cc4fd8b47894f922f39a175e6e8cc618ad27c9d 100644
+--- a/src/epub/text/chapter-42.xhtml
++++ b/src/epub/text/chapter-42.xhtml
+@@ -37,7 +37,7 @@
+ 			<p>“If there <em>is</em> anything good or true in what I write, it isn’t mine; I owe it all to you and mother and to Beth,” said Jo, more touched by her father’s words than by any amount of praise from the world.</p>
+ 			<p>So, taught by love and sorrow, Jo wrote her little stories, and sent them away to make friends for themselves and her, finding it a very charitable world to such humble wanderers; for they were kindly welcomed, and sent home comfortable tokens to their mother, like dutiful children whom good fortune overtakes.</p>
+ 			<p>When Amy and Laurie wrote of their engagement, <abbr epub:type="z3998:name-title">Mrs.</abbr> March feared that Jo would find it difficult to rejoice over it, but her fears were soon set at rest; for, though Jo looked grave at first, she took it very quietly, and was full of hopes and plans for “the children” before she read the letter twice. It was a sort of written duet, wherein each glorified the other in lover-like fashion, very pleasant to read and satisfactory to think of, for no one had any objection to make.</p>
+-			<p>“You like it, mother?” said Jo, as they laid down the closely written sheets, and looked at one another.</p>
++			<p>“You like it, Mother?” said Jo, as they laid down the closely written sheets, and looked at one another.</p>
+ 			<p>“Yes, I hoped it would be so, ever since Amy wrote that she had refused Fred. I felt sure then that something better than what you call the ‘mercenary spirit’ had come over her, and a hint here and there in her letters made me suspect that love and Laurie would win the day.”</p>
+ 			<p>“How sharp you are, Marmee, and how silent! You never said a word to me.”</p>
+ 			<p>“Mothers have need of sharp eyes and discreet tongues when they have girls to manage. I was half afraid to put the idea into your head, lest you should write and congratulate them before the thing was settled.”</p>

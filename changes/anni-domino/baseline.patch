@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-19.xhtml b/src/epub/text/chapter-19.xhtml
+index c0dde28225c589814196f3cc00cac5eaf557713c..aaa91d9bdfe629044cfa92ca56f12f4490505b2a 100644
+--- a/src/epub/text/chapter-19.xhtml
++++ b/src/epub/text/chapter-19.xhtml
+@@ -56,7 +56,7 @@
+ 				<p>“I wish my favorite playmate Kitty Bryant to have the blue silk apron and my gold-bead ring with a kiss.</p>
+ 				<p>“To Hannah I give the bandbox she wanted and all the patch work I leave hoping she ‘will remember me, when it you see.’</p>
+ 				<p>“And now having disposed of my most valuable property I hope all will be satisfied and not blame the dead. I forgive everyone, and trust we may all meet when the trump shall sound. Amen.</p>
+-				<p>“To this will and testiment I set my hand and seal on this 20th day of <abbr>Nov.</abbr> Anni Domino 1861.</p>
++				<p>“To this will and testiment I set my hand and seal on this 20th day of <abbr>Nov.</abbr> <i xml:lang="la">Anni Domino</i> 1861.</p>
+ 				<p epub:type="z3998:signature">“Amy Curtis March.</p>
+ 			</blockquote>
+ 			<table>

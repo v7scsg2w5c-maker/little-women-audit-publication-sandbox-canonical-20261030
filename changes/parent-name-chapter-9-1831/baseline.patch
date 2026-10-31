@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-9.xhtml b/src/epub/text/chapter-9.xhtml
+index a7250df49a45e628539106f96c257dc05203ce96..0c029f7060e8b339cb5241852e4e57529b777c5e 100644
+--- a/src/epub/text/chapter-9.xhtml
++++ b/src/epub/text/chapter-9.xhtml
+@@ -16,7 +16,7 @@
+ 			<p>“And such lovely weather; I’m so glad of that,” added Beth, tidily sorting neck and hair ribbons in her best box, lent for the great occasion.</p>
+ 			<p>“I wish I was going to have a fine time, and wear all these nice things,” said Amy, with her mouth full of pins, as she artistically replenished her sister’s cushion.</p>
+ 			<p>“I wish you were all going; but, as you can’t, I shall keep my adventures to tell you when I come back. I’m sure it’s the least I can do, when you have been so kind, lending me things, and helping me get ready,” said Meg, glancing round the room at the very simple outfit, which seemed nearly perfect in their eyes.</p>
+-			<p>“What did mother give you out of the treasure-box?” asked Amy, who had not been present at the opening of a certain cedar chest, in which <abbr epub:type="z3998:name-title">Mrs.</abbr> March kept a few relics of past splendor, as gifts for her girls when the proper time came.</p>
++			<p>“What did Mother give you out of the treasure-box?” asked Amy, who had not been present at the opening of a certain cedar chest, in which <abbr epub:type="z3998:name-title">Mrs.</abbr> March kept a few relics of past splendor, as gifts for her girls when the proper time came.</p>
+ 			<p>“A pair of silk stockings, that pretty carved fan, and a lovely blue sash. I wanted the violet silk; but there isn’t time to make it over, so I must be contented with my old tarlatan.”</p>
+ 			<p>“It will look nicely over my new muslin skirt, and the sash will set it off beautifully. I wish I hadn’t smashed my coral bracelet, for you might have had it,” said Jo, who loved to give and lend, but whose possessions were usually too dilapidated to be of much use.</p>
+ 			<p>“There is a lovely old-fashioned pearl set in the treasure-box; but mother said real flowers were the prettiest ornament for a young girl, and Laurie promised to send me all I want,” replied Meg. “Now, let me see; there’s my new gray walking-suit⁠—just curl up the feather in my hat, Beth⁠—then my poplin, for Sunday, and the small party⁠—it looks heavy for spring, doesn’t it? The violet silk would be so nice; oh, dear!”</p>

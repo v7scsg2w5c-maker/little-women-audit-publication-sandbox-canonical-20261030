@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-22.xhtml b/src/epub/text/chapter-22.xhtml
+index 04b8d76c0ab340c26038f935bf4be9c861790f60..e920491685aa5e77ef6ebb3b3a3f4645bb371fd4 100644
+--- a/src/epub/text/chapter-22.xhtml
++++ b/src/epub/text/chapter-22.xhtml
+@@ -19,7 +19,7 @@
+ 					<p>“The Jungfrau to Beth.</p>
+ 				</header>
+ 				<p>
+-					<span>“God bless you, dear Queen Bess!</span>
++					<span>“God bless you, dear Queen <span epub:type="z3998:personal-name">Bess</span>!</span>
+ 					<br/>
+ 					<span class="i1">May nothing you dismay,</span>
+ 					<br/>

@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-38.xhtml b/src/epub/text/chapter-38.xhtml
+index 1bca2ad371acfe0214a81d308f7f2239bf12adf1..d566c3bb4b56f7fa6ddfb1d4926314a38b3b4f54 100644
+--- a/src/epub/text/chapter-38.xhtml
++++ b/src/epub/text/chapter-38.xhtml
+@@ -25,7 +25,7 @@
+ 			<p>“So are women; don’t blame John till you see where you are wrong yourself.”</p>
+ 			<p>“But it can’t be right for him to neglect me.”</p>
+ 			<p>“Don’t you neglect him?”</p>
+-			<p>“Why, mother, I thought you’d take my part!”</p>
++			<p>“Why, Mother, I thought you’d take my part!”</p>
+ 			<p>“So I do, as far as sympathizing goes; but I think the fault is yours, Meg.”</p>
+ 			<p>“I don’t see how.”</p>
+ 			<p>“Let me show you. Did John ever neglect you, as you call it, while you made it a point to give him your society of an evening, his only leisure time?”</p>

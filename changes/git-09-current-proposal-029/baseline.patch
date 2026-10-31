@@ -1,0 +1,17 @@
+diff --git a/src/epub/text/chapter-33.xhtml b/src/epub/text/chapter-33.xhtml
+index 6330f921905ec2485d5096cce1b33e5591f74147..994283ba004a7fe368dfde3a94f88a04fc3f3f1c 100644
+--- a/src/epub/text/chapter-33.xhtml
++++ b/src/epub/text/chapter-33.xhtml
+@@ -74,8 +74,10 @@
+ 				<p>“ ‘I gif you my wort it is so. If we make too large a noise you shall say “Hush!” to us, and we go more softly.’</p>
+ 				<p>“I promised to do so, but left the door open, and enjoyed the fun as much as they did⁠—for a more glorious frolic I never witnessed. They played tag and soldiers, danced and sung, and when it began to grow dark they all piled on to the sofa about the Professor, while he told charming fairy stories of the storks on the chimney-tops, and the little ‘kobolds,’ who ride the snowflakes as they fall. I wish Americans were as simple and natural as Germans, don’t you?</p>
+ 				<p>“I’m so fond of writing, I should go spinning on forever if motives of economy didn’t stop me, for though I’ve used thin paper and written fine, I tremble to think of the stamps this long letter will need. Pray forward Amy’s as soon as you can spare them. My small news will sound very flat after her splendors, but you will like them, I know. Is Teddy studying so hard that he can’t find time to write to his friends? Take good care of him for me, Beth, and tell me all about the babies, and give heaps of love to everyone.</p>
+-				<p epub:type="z3998:valediction">“From your faithful <span epub:type="z3998:signature">Jo</span>.</p>
+-				<p epub:type="z3998:postscript">“<abbr epub:type="z3998:initialism">P.S.</abbr> On reading over my letter it strikes me as rather Bhaery; but I am always interested in odd people, and I really had nothing else to write about. Bless you!”</p>
++				<footer role="presentation">
++					<p epub:type="z3998:valediction">“From your faithful <span epub:type="z3998:signature">Jo</span>.</p>
++					<p epub:type="z3998:postscript">“<abbr epub:type="z3998:initialism">P.S.</abbr> On reading over my letter it strikes me as rather Bhaery; but I am always interested in odd people, and I really had nothing else to write about. Bless you!”</p>
++				</footer>
+ 			</blockquote>
+ 			<blockquote>
+ 				<p epub:type="se:letter.dateline">“December.</p>

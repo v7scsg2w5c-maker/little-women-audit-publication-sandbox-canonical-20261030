@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-3.xhtml b/src/epub/text/chapter-3.xhtml
+index ed35e8942f1be0c4eb901048313119f8147d79f3..a26b893401070f93ed3e7560378f005c91fc316c 100644
+--- a/src/epub/text/chapter-3.xhtml
++++ b/src/epub/text/chapter-3.xhtml
+@@ -17,7 +17,7 @@
+ 			<p>“ ‘<abbr epub:type="z3998:name-title">Mrs.</abbr> Gardiner would be happy to see Miss March and Miss Josephine at a little dance on New-Year’s Eve.’ Marmee is willing we should go; now what <em>shall</em> we wear?”</p>
+ 			<p>“What’s the use of asking that, when you know we shall wear our poplins, because we haven’t got anything else?” answered Jo, with her mouth full.</p>
+ 			<p>“If I only had a silk!” sighed Meg. “Mother says I may when I’m eighteen, perhaps; but two years is an everlasting time to wait.”</p>
+-			<p>“I’m sure our pops look like silk, and they are nice enough for us. Yours is as good as new, but I forgot the burn and the tear in mine. Whatever shall I do? the burn shows badly, and I can’t take any out.”</p>
++			<p>“I’m sure our pops look like silk, and they are nice enough for us. Yours is as good as new, but I forgot the burn and the tear in mine. Whatever shall I do? The burn shows badly, and I can’t take any out.”</p>
+ 			<p>“You must sit still all you can, and keep your back out of sight; the front is all right. I shall have a new ribbon for my hair, and Marmee will lend me her little pearl pin, and my new slippers are lovely, and my gloves will do, though they aren’t as nice as I’d like.”</p>
+ 			<p>“Mine are spoilt with lemonade, and I can’t get any new ones, so I shall have to go without,” said Jo, who never troubled herself much about dress.</p>
+ 			<p>“You <em>must</em> have gloves, or I won’t go,” cried Meg decidedly. “Gloves are more important than anything else; you can’t dance without them, and if you don’t I should be <em>so</em> mortified.”</p>

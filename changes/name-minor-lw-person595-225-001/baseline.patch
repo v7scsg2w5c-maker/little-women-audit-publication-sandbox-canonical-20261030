@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-24.xhtml b/src/epub/text/chapter-24.xhtml
+index 318e58bbb7c9d1785c4b71802c4cb83ccba6ccf9..b6195db9cd9bfa04884b2b01305e129f1808a689 100644
+--- a/src/epub/text/chapter-24.xhtml
++++ b/src/epub/text/chapter-24.xhtml
+@@ -80,7 +80,7 @@
+ 			<p>“Then don’t go and be suspicious; I only want some money,” said Laurie, walking on again, appeased by her hearty tone.</p>
+ 			<p>“You spend a great deal, Teddy.”</p>
+ 			<p>“Bless you, <em>I</em> don’t spend it; it spends itself, somehow, and is gone before I know it.”</p>
+-			<p>“You are so generous and kindhearted that you let people borrow, and can’t say ‘No’ to anyone. We heard about Henshaw, and all you did for him. If you always spent money in that way, no one would blame you,” said Jo warmly.</p>
++			<p>“You are so generous and kindhearted that you let people borrow, and can’t say ‘No’ to anyone. We heard about <span epub:type="z3998:personal-name">Henshaw</span>, and all you did for him. If you always spent money in that way, no one would blame you,” said Jo warmly.</p>
+ 			<p>“Oh, he made a mountain out of a molehill. You wouldn’t have me let that fine fellow work himself to death, just for the want of a little help, when he is worth a dozen of us lazy chaps, would you?”</p>
+ 			<p>“Of course not; but I don’t see the use of your having seventeen waistcoats, endless neckties, and a new hat every time you come home. I thought you’d got over the dandy period; but every now and then it breaks out in a new spot. Just now it’s the fashion to be hideous⁠—to make your head look like a scrubbing-brush, wear a straitjacket, orange gloves, and clumping, square-toed boots. If it was cheap ugliness, I’d say nothing; but it costs as much as the other, and I don’t get any satisfaction out of it.”</p>
+ 			<p>Laurie threw back his head, and laughed so heartily at this attack, that the felt-basin fell off, and Jo walked on it, which insult only afforded him an opportunity for expatiating on the advantages of a rough-and-ready costume, as he folded up the maltreated hat, and stuffed it into his pocket.</p>

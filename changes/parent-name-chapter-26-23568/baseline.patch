@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-26.xhtml b/src/epub/text/chapter-26.xhtml
+index 3ed4f34f65e6df0eeed53e5416e95e3109ca268a..1a80171a6aa72f017b51240836e56f457fa0ea0e 100644
+--- a/src/epub/text/chapter-26.xhtml
++++ b/src/epub/text/chapter-26.xhtml
+@@ -78,7 +78,7 @@
+ 			<p>“It’s a pity Laurie isn’t here to help us,” began Jo, as they sat down to ice-cream and salad for the second time in two days.</p>
+ 			<p>A warning look from her mother checked any further remarks, and the whole family ate in heroic silence, till <abbr epub:type="z3998:name-title">Mr.</abbr> March mildly observed, “Salad was one of the favorite dishes of the ancients, and Evelyn”⁠—here a general explosion of laughter cut short the “history of sallets,” to the great surprise of the learned gentleman.</p>
+ 			<p>“Bundle everything into a basket and send it to the Hummels: Germans like messes. I’m sick of the sight of this; and there’s no reason you should all die of a surfeit because I’ve been a fool,” cried Amy, wiping her eyes.</p>
+-			<p>“I thought I <em>should</em> have died when I saw you two girls rattling about in the what-you-call-it, like two little kernels in a very big nutshell, and mother waiting in state to receive the throng,” sighed Jo, quite spent with laughter.</p>
++			<p>“I thought I <em>should</em> have died when I saw you two girls rattling about in the what-you-call-it, like two little kernels in a very big nutshell, and Mother waiting in state to receive the throng,” sighed Jo, quite spent with laughter.</p>
+ 			<p>“I’m very sorry you were disappointed, dear, but we all did our best to satisfy you,” said <abbr epub:type="z3998:name-title">Mrs.</abbr> March, in a tone full of motherly regret.</p>
+ 			<p>“I <em>am</em> satisfied; I’ve done what I undertook, and it’s not my fault that it failed; I comfort myself with that,” said Amy, with a little quiver in her voice. “I thank you all very much for helping me, and I’ll thank you still more if you won’t allude to it for a month, at least.”</p>
+ 			<p>No one did for several months; but the word “fête” always produced a general smile, and Laurie’s birthday gift to Amy was a tiny coral lobster in the shape of a charm for her watch-guard.</p>

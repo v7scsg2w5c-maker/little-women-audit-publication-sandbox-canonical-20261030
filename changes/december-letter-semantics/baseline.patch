@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-33.xhtml b/src/epub/text/chapter-33.xhtml
+index 6330f921905ec2485d5096cce1b33e5591f74147..423e50fd25193020cbf378b3cdda47b794993d10 100644
+--- a/src/epub/text/chapter-33.xhtml
++++ b/src/epub/text/chapter-33.xhtml
+@@ -77,7 +77,7 @@
+ 				<p epub:type="z3998:valediction">“From your faithful <span epub:type="z3998:signature">Jo</span>.</p>
+ 				<p epub:type="z3998:postscript">“<abbr epub:type="z3998:initialism">P.S.</abbr> On reading over my letter it strikes me as rather Bhaery; but I am always interested in odd people, and I really had nothing else to write about. Bless you!”</p>
+ 			</blockquote>
+-			<blockquote>
++			<blockquote epub:type="z3998:letter">
+ 				<p epub:type="se:letter.dateline">“December.</p>
+ 				<p epub:type="z3998:salutation">“My Precious Betsey⁠—</p>
+ 				<p>“As this is to be a scribble-scrabble letter, I direct it to you, for it may amuse you, and give you some idea of my goings on; for, though quiet, they are rather amusing, for which, oh, be joyful! After what Amy would call Herculaneum efforts, in the way of mental and moral agriculture, my young ideas begin to shoot and my little twigs to bend as I could wish. They are not so interesting to me as Tina and the boys, but I do my duty by them, and they are fond of me. Franz and Emil are jolly little lads, quite after my own heart; for the mixture of German and American spirit in them produces a constant state of effervescence. Saturday afternoons are riotous times, whether spent in the house or out; for on pleasant days they all go to walk, like a seminary, with the Professor and myself to keep order; and then such fun!</p>

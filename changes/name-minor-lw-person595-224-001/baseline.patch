@@ -1,0 +1,41 @@
+diff --git a/src/epub/text/chapter-24.xhtml b/src/epub/text/chapter-24.xhtml
+index 318e58bbb7c9d1785c4b71802c4cb83ccba6ccf9..d4d777c302a04a9748cbf9845da3b069bb9d70ac 100644
+--- a/src/epub/text/chapter-24.xhtml
++++ b/src/epub/text/chapter-24.xhtml
+@@ -53,7 +53,7 @@
+ 			<p>“Stopped to get the license for tomorrow, ma’am.”</p>
+ 			<p>“Which side won the last match, Teddy?” inquired Jo, who persisted in feeling an interest in manly sports, despite her nineteen years.</p>
+ 			<p>“Ours, of course. Wish you’d been there to see.”</p>
+-			<p>“How is the lovely Miss Randal?” asked Amy, with a significant smile.</p>
++			<p>“How is the lovely Miss <span epub:type="z3998:personal-name">Randal</span>?” asked Amy, with a significant smile.</p>
+ 			<p>“More cruel than ever; don’t you see how I’m pining away?” and Laurie gave his broad chest a sounding slap and heaved a melodramatic sigh.</p>
+ 			<p>“What’s the last joke? Undo the bundle and see, Meg,” said Beth, eying the knobby parcel with curiosity.</p>
+ 			<p>“It’s a useful thing to have in the house in case of fire or thieves,” observed Laurie, as a watchman’s rattle appeared, amid the laughter of the girls.</p>
+diff --git a/src/epub/text/chapter-32.xhtml b/src/epub/text/chapter-32.xhtml
+index bc1c5f97d57f50bc30d4ef7fc19bbbb107a04c59..84d611c810cd883bbc715e3dad86d4d371b40011 100644
+--- a/src/epub/text/chapter-32.xhtml
++++ b/src/epub/text/chapter-32.xhtml
+@@ -47,7 +47,7 @@
+ 			<p>“Beth will pet you; I’m busy.”</p>
+ 			<p>“No, she’s not to be bothered with me; but you like that sort of thing, unless you’ve suddenly lost your taste for it. Have you? Do you hate your boy, and want to fire pillows at him?”</p>
+ 			<p>Anything more wheedlesome than that touching appeal was seldom heard, but Jo quenched “her boy” by turning on him with the stern query⁠—</p>
+-			<p>“How many bouquets have you sent Miss Randal this week?”</p>
++			<p>“How many bouquets have you sent Miss <span epub:type="z3998:personal-name">Randal</span> this week?”</p>
+ 			<p>“Not one, upon my word. She’s engaged. Now then.”</p>
+ 			<p>“I’m glad of it; that’s one of your foolish extravagances⁠—sending flowers and things to girls for whom you don’t care two pins,” continued Jo reprovingly.</p>
+ 			<p>“Sensible girls, for whom I do care whole papers of pins, won’t let me send them ‘flowers and things,’ so what can I do? My feelings must have a <i xml:lang="x-onglish">went</i>.”</p>
+diff --git a/src/epub/text/chapter-39.xhtml b/src/epub/text/chapter-39.xhtml
+index b3e7c68e5182a1bd380c583a5f8661d42a4f994a..601dcecfed663546fc0098540ecc656ae0801d87 100644
+--- a/src/epub/text/chapter-39.xhtml
++++ b/src/epub/text/chapter-39.xhtml
+@@ -118,8 +118,8 @@
+ 			<p>The hand vanished as suddenly as it came, and there was energy enough in the echo of her wish to suit even Amy. She glanced down at him with a new thought in her mind; but he was lying with his hat half over his face, as if for shade, and his mustache hid his mouth. She only saw his chest rise and fall, with a long breath that might have been a sigh, and the hand that wore the ring nestled down into the grass, as if to hide something too precious or too tender to be spoken of. All in a minute various hints and trifles assumed shape and significance in Amy’s mind, and told her what her sister never had confided to her. She remembered that Laurie never spoke voluntarily of Jo; she recalled the shadow on his face just now, the change in his character, and the wearing of the little old ring, which was no ornament to a handsome hand. Girls are quick to read such signs and feel their eloquence. Amy had fancied that perhaps a love trouble was at the bottom of the alteration, and now she was sure of it. Her keen eyes filled, and, when she spoke again, it was in a voice that could be beautifully soft and kind when she chose to make it so.</p>
+ 			<p>“I know I have no right to talk so to you, Laurie; and if you weren’t the sweetest-tempered fellow in the world, you’d be very angry with me. But we are all so fond and proud of you, I couldn’t bear to think they should be disappointed in you at home as I have been, though, perhaps, they would understand the change better than I do.”</p>
+ 			<p>“I think they would,” came from under the hat, in a grim tone, quite as touching as a broken one.</p>
+-			<p>“They ought to have told me, and not let me go blundering and scolding, when I should have been more kind and patient than ever. I never did like that Miss Randal, and now I hate her!” said artful Amy, wishing to be sure of her facts this time.</p>
+-			<p>“Hang Miss Randal!” and Laurie knocked the hat off his face with a look that left no doubt of his sentiments toward that young lady.</p>
++			<p>“They ought to have told me, and not let me go blundering and scolding, when I should have been more kind and patient than ever. I never did like that Miss <span epub:type="z3998:personal-name">Randal</span>, and now I hate her!” said artful Amy, wishing to be sure of her facts this time.</p>
++			<p>“Hang Miss <span epub:type="z3998:personal-name">Randal</span>!” and Laurie knocked the hat off his face with a look that left no doubt of his sentiments toward that young lady.</p>
+ 			<p>“I beg pardon; I thought⁠—” and there she paused diplomatically.</p>
+ 			<p>“No, you didn’t; you knew perfectly well I never cared for anyone but Jo.” Laurie said that in his old, impetuous tone, and turned his face away as he spoke.</p>
+ 			<p>“I did think so; but as they never said anything about it, and you came away, I supposed I was mistaken. And Jo wouldn’t be kind to you? Why, I was sure she loved you dearly.”</p>

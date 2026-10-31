@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-19.xhtml b/src/epub/text/chapter-19.xhtml
+index c0dde28225c589814196f3cc00cac5eaf557713c..372afb4eb43b29c2c2dcd631f7036f883ac98ce6 100644
+--- a/src/epub/text/chapter-19.xhtml
++++ b/src/epub/text/chapter-19.xhtml
+@@ -63,7 +63,7 @@
+ 				<tbody>
+ 					<tr>
+ 						<td rowspan="2">“Witnesses: <span>{</span></td>
+-						<td>Estelle Valnor</td>
++						<td>Estelle <span epub:type="z3998:personal-name">Valnor</span></td>
+ 					</tr>
+ 					<tr>
+ 						<td>Theodore Laurence.”</td>

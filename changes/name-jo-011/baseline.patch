@@ -1,0 +1,64 @@
+diff --git a/src/epub/text/chapter-10.xhtml b/src/epub/text/chapter-10.xhtml
+index 7941a3598cdbf104fb92a5e705aaa2b54f23d4b7..454c1b5492af159bed4b0a57178f6a6073ee0513 100644
+--- a/src/epub/text/chapter-10.xhtml
++++ b/src/epub/text/chapter-10.xhtml
+@@ -13,7 +13,7 @@
+ 			</hgroup>
+ 			<p>As spring came on, a new set of amusements became the fashion, and the lengthening days gave long afternoons for work and play of all sorts. The garden had to be put in order, and each sister had a quarter of the little plot to do what she liked with. Hannah used to say, “I’d know which each of them gardings belonged to, ef I see ’em in Chiny;” and so she might, for the girls’ tastes differed as much as their characters. Meg’s had roses and heliotrope, myrtle, and a little orange-tree in it. Jo’s bed was never alike two seasons, for she was always trying experiments; this year it was to be a plantation of sunflowers, the seeds of which cheerful and aspiring plant were to feed “Aunt Cockle-top” and her family of chicks. Beth had old-fashioned, fragrant flowers in her garden⁠—sweet peas and mignonette, larkspur, pinks, pansies, and southernwood, with chickweed for the bird, and catnip for the pussies. Amy had a bower in hers⁠—rather small and earwiggy, but very pretty to look at⁠—with honeysuckles and morning-glories hanging their colored horns and bells in graceful wreaths all over it; tall, white lilies, delicate ferns, and as many brilliant, picturesque plants as would consent to blossom there.</p>
+ 			<p>Gardening, walks, rows on the river, and flower-hunts employed the fine days; and for rainy ones, they had house diversions⁠—some old, some new⁠—all more or less original. One of these was the “<abbr epub:type="z3998:initialism">P.C.</abbr>”; for, as secret societies were the fashion, it was thought proper to have one; and, as all of the girls admired Dickens, they called themselves the Pickwick Club. With a few interruptions, they had kept this up for a year, and met every Saturday evening in the big garret, on which occasions the ceremonies were as follows: Three chairs were arranged in a row before a table, on which was a lamp, also four white badges, with a big “<abbr epub:type="z3998:initialism">P.C.</abbr>” in different colors on each, and the weekly newspaper, called “The Pickwick Portfolio,” to which all contributed something; while Jo, who revelled in pens and ink, was the editor. At seven o’clock, the four members ascended to the clubroom, tied their badges round their heads, and took their seats with great solemnity. Meg, as the eldest, was Samuel Pickwick; Jo, being of a literary turn, Augustus Snodgrass; Beth, because she was round and rosy, Tracy Tupman, and Amy, who was always trying to do what she couldn’t, was Nathaniel Winkle. Pickwick, the president, read the paper, which was filled with original tales, poetry, local news, funny advertisements, and hints, in which they good-naturedly reminded each other of their faults and shortcomings.</p>
+-			<p>On one occasion, <abbr epub:type="z3998:name-title">Mr.</abbr> Pickwick put on a pair of spectacles without any glasses, rapped upon the table, hemmed, and, having stared hard at <abbr epub:type="z3998:name-title">Mr.</abbr> Snodgrass, who was tilting back in his chair, till he arranged himself properly, began to read:⁠—</p>
++			<p>On one occasion, <abbr epub:type="z3998:name-title">Mr.</abbr> Pickwick put on a pair of spectacles without any glasses, rapped upon the table, hemmed, and, having stared hard at <abbr epub:type="z3998:name-title">Mr.</abbr> <span epub:type="z3998:persona">Snodgrass</span>, who was tilting back in his chair, till he arranged himself properly, began to read:⁠—</p>
+ 			<blockquote>
+ 				<header role="presentation">
+ 					<p class="title">The Pickwick Portfolio</p>
+@@ -62,7 +62,7 @@
+ 							<span class="i1">In spite of croak or squeak.</span>
+ 						</p>
+ 						<p>
+-							<span>Old six-foot Snodgrass looms on high,</span>
++							<span>Old six-foot <span epub:type="z3998:persona">Snodgrass</span> looms on high,</span>
+ 							<br/>
+ 							<span class="i1">With elephantine grace,</span>
+ 							<br/>
+@@ -116,7 +116,7 @@
+ 							<span class="i1">On the useful, gay “<abbr class="eoc" epub:type="z3998:initialism">P.C.</abbr>”</span>
+ 						</p>
+ 						<footer role="presentation">
+-							<p epub:type="z3998:signature"><abbr epub:type="z3998:given-name">A.</abbr> Snodgrass</p>
++							<p epub:type="z3998:signature"><abbr epub:type="z3998:given-name">A.</abbr> <span epub:type="z3998:persona">Snodgrass</span></p>
+ 						</footer>
+ 					</blockquote>
+ 				</div>
+@@ -304,25 +304,25 @@
+ 					</ul>
+ 				</div>
+ 			</blockquote>
+-			<p>As the President finished reading the paper (which I beg leave to assure my readers is a bona fide copy of one written by bona fide girls once upon a time), a round of applause followed, and then <abbr epub:type="z3998:name-title">Mr.</abbr> Snodgrass rose to make a proposition.</p>
++			<p>As the President finished reading the paper (which I beg leave to assure my readers is a bona fide copy of one written by bona fide girls once upon a time), a round of applause followed, and then <abbr epub:type="z3998:name-title">Mr.</abbr> <span epub:type="z3998:persona">Snodgrass</span> rose to make a proposition.</p>
+ 			<p>“<abbr epub:type="z3998:name-title">Mr.</abbr> President and gentlemen,” he began, assuming a parliamentary attitude and tone, “I wish to propose the admission of a new member⁠—one who highly deserves the honor, would be deeply grateful for it, and would add immensely to the spirit of the club, the literary value of the paper, and be no end jolly and nice. I propose <abbr epub:type="z3998:name-title">Mr.</abbr> Theodore Laurence as an honorary member of the <abbr class="eoc" epub:type="z3998:initialism">P.C.</abbr> Come now, do have him.”</p>
+-			<p>Jo’s sudden change of tone made the girls laugh; but all looked rather anxious, and no one said a word, as Snodgrass took his seat.</p>
++			<p>Jo’s sudden change of tone made the girls laugh; but all looked rather anxious, and no one said a word, as <span epub:type="z3998:persona">Snodgrass</span> took his seat.</p>
+ 			<p>“We’ll put it to vote,” said the President. “All in favor of this motion please to manifest it by saying ‘Ay.’ ”</p>
+-			<p>A loud response from Snodgrass, followed, to everybody’s surprise, by a timid one from Beth.</p>
++			<p>A loud response from <span epub:type="z3998:persona">Snodgrass</span>, followed, to everybody’s surprise, by a timid one from Beth.</p>
+ 			<p>“Contrary minded say ‘No.’ ”</p>
+ 			<p>Meg and Amy were contrary minded; and <abbr epub:type="z3998:name-title">Mr.</abbr> Winkle rose to say, with great elegance, “We don’t wish any boys; they only joke and bounce about. This is a ladies’ club, and we wish to be private and proper.”</p>
+ 			<p>“I’m afraid he’ll laugh at our paper, and make fun of us afterward,” observed Pickwick, pulling the little curl on her forehead, as she always did when doubtful.</p>
+-			<p>Up rose Snodgrass, very much in earnest. “Sir, I give you my word as a gentleman, Laurie won’t do anything of the sort. He likes to write, and he’ll give a tone to our contributions, and keep us from being sentimental, don’t you see? We can do so little for him, and he does so much for us, I think the least we can do is to offer him a place here, and make him welcome if he comes.”</p>
++			<p>Up rose <span epub:type="z3998:persona">Snodgrass</span>, very much in earnest. “Sir, I give you my word as a gentleman, Laurie won’t do anything of the sort. He likes to write, and he’ll give a tone to our contributions, and keep us from being sentimental, don’t you see? We can do so little for him, and he does so much for us, I think the least we can do is to offer him a place here, and make him welcome if he comes.”</p>
+ 			<p>This artful allusion to benefits conferred brought Tupman to his feet, looking as if he had quite made up his mind.</p>
+ 			<p>“Yes, we ought to do it, even if we <em>are</em> afraid. I say he <em>may</em> come, and his grandpa, too, if he likes.”</p>
+-			<p>This spirited burst from Beth electrified the club, and Jo left her seat to shake hands approvingly. “Now then, vote again. Everybody remember it’s our Laurie, and say ‘Ay!’ ” cried Snodgrass excitedly.</p>
++			<p>This spirited burst from Beth electrified the club, and Jo left her seat to shake hands approvingly. “Now then, vote again. Everybody remember it’s our Laurie, and say ‘Ay!’ ” cried <span epub:type="z3998:persona">Snodgrass</span> excitedly.</p>
+ 			<p>“Ay! ay! ay!” replied three voices at once.</p>
+ 			<p>“Good! Bless you! Now, as there’s nothing like ‘taking time by the <em>fetlock</em>,’ as Winkle characteristically observes, allow me to present the new member;” and, to the dismay of the rest of the club, Jo threw open the door of the closet, and displayed Laurie sitting on a ragbag, flushed and twinkling with suppressed laughter.</p>
+-			<p>“You rogue! you traitor! Jo, how could you?” cried the three girls, as Snodgrass led her friend triumphantly forth; and, producing both a chair and a badge, installed him in a jiffy.</p>
++			<p>“You rogue! you traitor! Jo, how could you?” cried the three girls, as <span epub:type="z3998:persona">Snodgrass</span> led her friend triumphantly forth; and, producing both a chair and a badge, installed him in a jiffy.</p>
+ 			<p>“The coolness of you two rascals is amazing,” began <abbr epub:type="z3998:name-title">Mr.</abbr> Pickwick, trying to get up an awful frown, and only succeeding in producing an amiable smile. But the new member was equal to the occasion; and, rising, with a grateful salutation to the Chair, said, in the most engaging manner, “<abbr epub:type="z3998:name-title">Mr.</abbr> President and ladies⁠—I beg pardon, gentlemen⁠—allow me to introduce myself as Sam Weller, the very humble servant of the club.”</p>
+ 			<p>“Good! good!” cried Jo, pounding with the handle of the old warming-pan on which she leaned.</p>
+ 			<p>“My faithful friend and noble patron,” continued Laurie, with a wave of the hand, “who has so flatteringly presented me, is not to be blamed for the base stratagem of tonight. I planned it, and she only gave in after lots of teasing.”</p>
+-			<p>“Come now, don’t lay it all on yourself; you know I proposed the cupboard,” broke in Snodgrass, who was enjoying the joke amazingly.</p>
++			<p>“Come now, don’t lay it all on yourself; you know I proposed the cupboard,” broke in <span epub:type="z3998:persona">Snodgrass</span>, who was enjoying the joke amazingly.</p>
+ 			<p>“Never you mind what she says. I’m the wretch that did it, sir,” said the new member, with a Welleresque nod to <abbr epub:type="z3998:name-title">Mr.</abbr> Pickwick. “But on my honor, I never will do so again, and henceforth <i xml:lang="x-onglish">dewote</i> myself to the interest of this immortal club.”</p>
+ 			<p>“Hear! hear!” cried Jo, clashing the lid of the warming-pan like a cymbal.</p>
+ 			<p>“Go on, go on!” added Winkle and Tupman, while the President bowed benignly.</p>

@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-20.xhtml b/src/epub/text/chapter-20.xhtml
+index caf8a9da5110616362e8114a45b9c5a6df3a828b..beada94950c8d9065b02f797e42845457afb6e5c 100644
+--- a/src/epub/text/chapter-20.xhtml
++++ b/src/epub/text/chapter-20.xhtml
+@@ -53,7 +53,7 @@
+ 			<p>“I’m afraid Laurie is hardly grown up enough for Meg, and altogether too much of a weathercock, just now, for anyone to depend on. Don’t make plans, Jo; but let time and their own hearts mate your friends. We can’t meddle safely in such matters, and had better not get ‘romantic rubbish,’ as you call it, into our heads, lest it spoil our friendship.”</p>
+ 			<p>“Well, I won’t; but I hate to see things going all crisscross and getting snarled up, when a pull here and a snip there would straighten it out. I wish wearing flatirons on our heads would keep us from growing up. But buds will be roses, and kittens, cats⁠—more’s the pity!”</p>
+ 			<p>“What’s that about flatirons and cats?” asked Meg, as she crept into the room, with the finished letter in her hand.</p>
+-			<p>“Only one of my stupid speeches. I’m going to bed; come, Peggy,” said Jo, unfolding herself, like an animated puzzle.</p>
++			<p>“Only one of my stupid speeches. I’m going to bed; come, <span epub:type="z3998:personal-name">Peggy</span>,” said Jo, unfolding herself, like an animated puzzle.</p>
+ 			<p>“Quite right, and beautifully written. Please add that I send my love to John,” said <abbr epub:type="z3998:name-title">Mrs.</abbr> March, as she glanced over the letter, and gave it back.</p>
+ 			<p>“Do you call him ‘John’?” asked Meg, smiling, with her innocent eyes looking down into her mother’s.</p>
+ 			<p>“Yes; he has been like a son to us, and we are very fond of him,” replied <abbr epub:type="z3998:name-title">Mrs.</abbr> March, returning the look with a keen one.</p>

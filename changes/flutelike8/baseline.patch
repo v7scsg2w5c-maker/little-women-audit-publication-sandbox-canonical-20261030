@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-8.xhtml b/src/epub/text/chapter-8.xhtml
+index 957af3a01d805c77c291b07dbbbc795d5514669a..385ae1ff7940d7f80041e07f171be633d283722a 100644
+--- a/src/epub/text/chapter-8.xhtml
++++ b/src/epub/text/chapter-8.xhtml
+@@ -50,7 +50,7 @@
+ 			<p>When the tea-bell rung, Jo appeared, looking so grim and unapproachable that it took all Amy’s courage to say meekly⁠—</p>
+ 			<p>“Please forgive me, Jo; I’m very, very sorry.”</p>
+ 			<p>“I never shall forgive you,” was Jo’s stern answer; and, from that moment, she ignored Amy entirely.</p>
+-			<p>No one spoke of the great trouble⁠—not even <abbr epub:type="z3998:name-title">Mrs.</abbr> March⁠—for all had learned by experience that when Jo was in that mood words were wasted; and the wisest course was to wait till some little accident, or her own generous nature, softened Jo’s resentment, and healed the breach. It was not a happy evening; for, though they sewed as usual, while their mother read aloud from Bremer, Scott, or Edgeworth, something was wanting, and the sweet home-peace was disturbed. They felt this most when singing-time came; for Beth could only play, Jo stood dumb as a stone, and Amy broke down, so Meg and mother sung alone. But, in spite of their efforts to be as cheery as larks, the flute-like voices did not seem to chord as well as usual, and all felt out of tune.</p>
++			<p>No one spoke of the great trouble⁠—not even <abbr epub:type="z3998:name-title">Mrs.</abbr> March⁠—for all had learned by experience that when Jo was in that mood words were wasted; and the wisest course was to wait till some little accident, or her own generous nature, softened Jo’s resentment, and healed the breach. It was not a happy evening; for, though they sewed as usual, while their mother read aloud from Bremer, Scott, or Edgeworth, something was wanting, and the sweet home-peace was disturbed. They felt this most when singing-time came; for Beth could only play, Jo stood dumb as a stone, and Amy broke down, so Meg and mother sung alone. But, in spite of their efforts to be as cheery as larks, the flutelike voices did not seem to chord as well as usual, and all felt out of tune.</p>
+ 			<p>As Jo received her goodnight kiss, <abbr epub:type="z3998:name-title">Mrs.</abbr> March whispered gently⁠—</p>
+ 			<p>“My dear, don’t let the sun go down upon your anger; forgive each other, help each other, and begin again tomorrow.”</p>
+ 			<p>Jo wanted to lay her head down on that motherly bosom, and cry her grief and anger all away; but tears were an unmanly weakness, and she felt so deeply injured that she really <em>couldn’t</em> quite forgive yet. So she winked hard, shook her head, and said, gruffly because Amy was listening⁠—</p>

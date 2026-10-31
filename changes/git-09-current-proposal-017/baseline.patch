@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-31.xhtml b/src/epub/text/chapter-31.xhtml
+index cf9a25fb782680fe0841e71878e13a7a0638984d..0cf0ac42667e7a41528ec887f3fc6b9428156833 100644
+--- a/src/epub/text/chapter-31.xhtml
++++ b/src/epub/text/chapter-31.xhtml
+@@ -49,7 +49,7 @@
+ 				<p>“Aunt is tapping on the wall for the third time, so I <em>must</em> stop. I really feel like a dissipated London fine lady, writing here so late, with my room full of pretty things, and my head a jumble of parks, theatres, new gowns, and gallant creatures who say ‘Ah!’ and twirl their blond mustaches with the true English lordliness. I long to see you all, and in spite of my nonsense am, as ever, your loving</p>
+ 				<p epub:type="z3998:signature">Amy.”</p>
+ 			</blockquote>
+-			<blockquote>
++			<blockquote epub:type="z3998:letter">
+ 				<p epub:type="se:letter.dateline">“Paris.</p>
+ 				<p epub:type="z3998:salutation">“Dear Girls⁠—</p>
+ 				<p>“In my last I told you about our London visit⁠—how kind the Vaughns were, and what pleasant parties they made for us. I enjoyed the trips to Hampton Court and the Kensington Museum more than anything else⁠—for at Hampton I saw Raphael’s cartoons, and, at the Museum, rooms full of pictures by Turner, Lawrence, Reynolds, Hogarth, and the other great creatures. The day in Richmond Park was charming, for we had a regular English picnic, and I had more splendid oaks and groups of deer than I could copy; also heard a nightingale, and saw larks go up. We ‘did’ London to our hearts’ content, thanks to Fred and Frank, and were sorry to go away; for, though English people are slow to take you in, when they once make up their minds to do it they cannot be outdone in hospitality, <em>I</em> think. The Vaughns hope to meet us in Rome next winter, and I shall be dreadfully disappointed if they don’t, for Grace and I are great friends, and the boys very nice fellows⁠—especially Fred.</p>

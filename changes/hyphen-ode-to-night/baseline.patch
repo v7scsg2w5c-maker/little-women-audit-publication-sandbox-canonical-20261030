@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-10.xhtml b/src/epub/text/chapter-10.xhtml
+index 7941a3598cdbf104fb92a5e705aaa2b54f23d4b7..ee7479a0ca524841d34ef4de62654ba30a65e06a 100644
+--- a/src/epub/text/chapter-10.xhtml
++++ b/src/epub/text/chapter-10.xhtml
+@@ -32,7 +32,7 @@
+ 							<br/>
+ 							<span>Our fifty-second anniversary,</span>
+ 							<br/>
+-							<span class="i1">In Pickwick Hall, tonight.</span>
++							<span class="i1">In Pickwick Hall, to-night.</span>
+ 						</p>
+ 						<p>
+ 							<span>We all are here in perfect health,</span>

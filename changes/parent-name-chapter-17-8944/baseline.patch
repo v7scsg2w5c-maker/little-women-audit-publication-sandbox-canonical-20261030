@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-17.xhtml b/src/epub/text/chapter-17.xhtml
+index 8459c5da7c2d3a272e5b9e1ae72781c49e830ac4..cec3a5ff91c01b43d7c8bb60a2e9dd2ac555a9e1 100644
+--- a/src/epub/text/chapter-17.xhtml
++++ b/src/epub/text/chapter-17.xhtml
+@@ -46,7 +46,7 @@
+ 			<p>The good soul was wide awake in a minute, and took the lead at once, assuring Jo that there was no need to worry; everyone had scarlet fever, and, if rightly treated, nobody died⁠—all of which Jo believed, and felt much relieved as they went up to call Meg.</p>
+ 			<p>“Now I’ll tell you what we’ll do,” said Hannah, when she had examined and questioned Beth; “we will have <abbr epub:type="z3998:name-title">Dr.</abbr> Bangs, just to take a look at you, dear, and see that we start right; then we’ll send Amy off to Aunt March’s, for a spell, to keep her out of harm’s way, and one of you girls can stay at home and amuse Beth for a day or two.”</p>
+ 			<p>“I shall stay, of course; I’m oldest,” began Meg, looking anxious and self-reproachful.</p>
+-			<p>“<em>I</em> shall, because it’s my fault she is sick; I told mother I’d do the errands, and I haven’t,” said Jo decidedly.</p>
++			<p>“<em>I</em> shall, because it’s my fault she is sick; I told Mother I’d do the errands, and I haven’t,” said Jo decidedly.</p>
+ 			<p>“Which will you have, Beth? there ain’t no need of but one,” said Hannah.</p>
+ 			<p>“Jo, please;” and Beth leaned her head against her sister, with a contented look, which effectually settled that point.</p>
+ 			<p>“I’ll go and tell Amy,” said Meg, feeling a little hurt, yet rather relieved, on the whole, for she did not like nursing, and Jo did.</p>

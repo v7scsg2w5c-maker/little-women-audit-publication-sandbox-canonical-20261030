@@ -1,0 +1,26 @@
+diff --git a/src/epub/text/chapter-23.xhtml b/src/epub/text/chapter-23.xhtml
+index 5339e88587f8cc44a4fed7ec82f6685732506283..31adcd5c57dae475acacefda5676dc1b5437df00 100644
+--- a/src/epub/text/chapter-23.xhtml
++++ b/src/epub/text/chapter-23.xhtml
+@@ -96,7 +96,7 @@
+ 			<p>“Doesn’t it seem very long to wait?” asked Amy, who was in a hurry for the wedding.</p>
+ 			<p>“I’ve got so much to learn before I shall be ready, it seems a short time to me,” answered Meg, with a sweet gravity in her face, never seen there before.</p>
+ 			<p>“You have only to wait; <em>I</em> am to do the work,” said John, beginning his labors by picking up Meg’s napkin, with an expression which caused Jo to shake her head, and then say to herself, with an air of relief, as the front door banged, “Here comes Laurie. Now we shall have a little sensible conversation.”</p>
+-			<p>But Jo was mistaken; for Laurie came prancing in, overflowing with spirits, bearing a great bridal-looking bouquet for “<abbr epub:type="z3998:name-title">Mrs.</abbr> John Brooke,” and evidently laboring under the delusion that the whole affair had been brought about by his excellent management.</p>
++			<p>But Jo was mistaken; for Laurie came prancing in, overflowing with spirits, bearing a great bridal-looking bouquet for “<abbr epub:type="z3998:name-title">Mrs.</abbr> <span epub:type="z3998:personal-name">John Brooke</span>,” and evidently laboring under the delusion that the whole affair had been brought about by his excellent management.</p>
+ 			<p>“I knew Brooke would have it all his own way, he always does; for when he makes up his mind to accomplish anything, it’s done, though the sky falls,” said Laurie, when he had presented his offering and his congratulations.</p>
+ 			<p>“Much obliged for that recommendation. I take it as a good omen for the future, and invite you to my wedding on the spot,” answered <abbr epub:type="z3998:name-title">Mr.</abbr> Brooke, who felt at peace with all mankind, even his mischievous pupil.</p>
+ 			<p>“I’ll come if I’m at the ends of the earth; for the sight of Jo’s face alone, on that occasion, would be worth a long journey. You don’t look festive, ma’am; what’s the matter?” asked Laurie, following her into a corner of the parlor, whither all had adjourned to greet <abbr epub:type="z3998:name-title">Mr.</abbr> Laurence.</p>
+diff --git a/src/epub/text/chapter-24.xhtml b/src/epub/text/chapter-24.xhtml
+index 318e58bbb7c9d1785c4b71802c4cb83ccba6ccf9..20c7664ca7176eb291380d2daeb7817c89b68219 100644
+--- a/src/epub/text/chapter-24.xhtml
++++ b/src/epub/text/chapter-24.xhtml
+@@ -47,7 +47,7 @@
+ 			<p>A tall, broad-shouldered young fellow, with a cropped head, a felt-basin of a hat, and a flyaway coat, came tramping down the road at a great pace, walked over the low fence without stopping to open the gate, straight up to <abbr epub:type="z3998:name-title">Mrs.</abbr> March, with both hands out, and a hearty⁠—</p>
+ 			<p>“Here I am, mother! Yes, it’s all right.”</p>
+ 			<p>The last words were in answer to the look the elder lady gave him; a kindly questioning look, which the handsome eyes met so frankly that the little ceremony closed, as usual, with a motherly kiss.</p>
+-			<p>“For <abbr epub:type="z3998:name-title">Mrs.</abbr> John Brooke, with the maker’s congratulations and compliments. Bless you, Beth! What a refreshing spectacle you are, Jo. Amy, you are getting altogether too handsome for a single lady.”</p>
++			<p>“For <abbr epub:type="z3998:name-title">Mrs.</abbr> <span epub:type="z3998:personal-name">John Brooke</span>, with the maker’s congratulations and compliments. Bless you, Beth! What a refreshing spectacle you are, Jo. Amy, you are getting altogether too handsome for a single lady.”</p>
+ 			<p>As Laurie spoke, he delivered a brown paper parcel to Meg, pulled Beth’s hair-ribbon, stared at Jo’s big pinafore, and fell into an attitude of mock rapture before Amy, then shook hands all round, and everyone began to talk.</p>
+ 			<p>“Where is John?” asked Meg anxiously.</p>
+ 			<p>“Stopped to get the license for tomorrow, ma’am.”</p>

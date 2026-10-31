@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/epigraph.xhtml b/src/epub/text/epigraph.xhtml
+index 0c8da0d8538680078506aeca65f9f574c00ac4e9..b1c21b08eae16e55ad5d98b0d3a97bdbb4c0ea6b 100644
+--- a/src/epub/text/epigraph.xhtml
++++ b/src/epub/text/epigraph.xhtml
+@@ -33,7 +33,7 @@
+ 					<br/>
+ 					<span>Along the ways which saintly feet have trod.”</span>
+ 				</p>
+-				<cite>Adapted from John Bunyan</cite>
++				<cite>Adapted from <span epub:type="z3998:personal-name">John Bunyan</span></cite>
+ 			</blockquote>
+ 		</section>
+ 	</body>

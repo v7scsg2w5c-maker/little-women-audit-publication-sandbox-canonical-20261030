@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-10.xhtml b/src/epub/text/chapter-10.xhtml
+index 7941a3598cdbf104fb92a5e705aaa2b54f23d4b7..8199058f445670712429f9c7a585c278b60c588b 100644
+--- a/src/epub/text/chapter-10.xhtml
++++ b/src/epub/text/chapter-10.xhtml
+@@ -269,7 +269,7 @@
+ 							<p><b>The Dustpan Society</b> will meet on Wednesday next, and parade in the upper story of the Club House. All members to appear in uniform and shoulder their brooms at nine precisely.</p>
+ 						</li>
+ 						<li>
+-							<p><b><abbr epub:type="z3998:name-title">Mrs.</abbr> Beth Bouncer</b> will open her new assortment of Doll’s Millinery next week. The latest Paris Fashions have arrived, and orders are respectfully solicited.</p>
++							<p><b><abbr epub:type="z3998:name-title">Mrs.</abbr> <span epub:type="z3998:personal-name">Beth Bouncer</span></b> will open her new assortment of Doll’s Millinery next week. The latest Paris Fashions have arrived, and orders are respectfully solicited.</p>
+ 						</li>
+ 						<li>
+ 							<p><b>A New Play</b> will appear at the Barnville Theatre, in the course of a few weeks, which will surpass anything ever seen on the American stage. “<b>The Greek Slave</b>, or Constantine the Avenger,” is the name of this thrilling drama!!!</p>

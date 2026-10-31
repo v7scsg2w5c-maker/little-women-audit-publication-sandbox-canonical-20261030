@@ -1,0 +1,1 @@
+Change “hard”;” to “hard;”” (chapter 3, line 92)

@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-34.xhtml b/src/epub/text/chapter-34.xhtml
+index 1195c5f12314a5ee38b93876385a3af71cc6ccce..f3d681aa1d8a2c74ffda6e208a4296bfb7ca1fd6 100644
+--- a/src/epub/text/chapter-34.xhtml
++++ b/src/epub/text/chapter-34.xhtml
+@@ -63,7 +63,7 @@
+ 			<p>She said nothing at first, for she liked to hear him laugh out his big, hearty laugh, when anything funny happened, so she left him to discover it for himself, and presently forgot all about it; for to hear a German read Schiller is rather an absorbing occupation. After the reading came the lesson, which was a lively one, for Jo was in a gay mood that night, and the cocked-hat kept her eyes dancing with merriment. The Professor didn’t know what to make of her, and stopped at last, to ask, with an air of mild surprise that was irresistible⁠—</p>
+ 			<p>“Mees Marsch, for what do you laugh in your master’s face? Haf you no respect for me, that you go on so bad?”</p>
+ 			<p>“How can I be respectful, sir, when you forget to take your hat off?” said Jo.</p>
+-			<p>Lifting his hand to his head, the absentminded Professor gravely felt and removed the little cocked-hat, looked at it a minute, and then threw back his head, and laughed like a merry bass-viol.</p>
++			<p>Lifting his hand to his head, the absentminded Professor gravely felt and removed the little cocked hat, looked at it a minute, and then threw back his head, and laughed like a merry bass-viol.</p>
+ 			<p>“Ah! I see him now; it is that imp Tina who makes me a fool with my cap. Well, it is nothing; but see you, if this lesson goes not well, you too shall wear him.”</p>
+ 			<p>But the lesson did not go at all for a few minutes, because <abbr epub:type="z3998:name-title">Mr.</abbr> Bhaer caught sight of a picture on the hat, and, unfolding it, said, with an air of great disgust⁠—</p>
+ 			<p>“I wish these papers did not come in the house; they are not for children to see, nor young people to read. It is not well, and I haf no patience with those who make this harm.”</p>

@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-14.xhtml b/src/epub/text/chapter-14.xhtml
+index f85381c3e7ea87d901ae204032c8dbc64ad30d30..0d26c12356420a7390eb9a5bf94877e60d12e3cb 100644
+--- a/src/epub/text/chapter-14.xhtml
++++ b/src/epub/text/chapter-14.xhtml
+@@ -33,7 +33,7 @@
+ 			<p>“Begging your pardon, ma’am, it wasn’t a billiard saloon, but a gymnasium, and I was taking a lesson in fencing.”</p>
+ 			<p>“I’m glad of that.”</p>
+ 			<p>“Why?”</p>
+-			<p>“You can teach me, and then when we play Hamlet, you can be Laertes, and we’ll make a fine thing of the fencing scene.”</p>
++			<p>“You can teach me, and then when we play Hamlet, you can be <span epub:type="z3998:personal-name">Laertes</span>, and we’ll make a fine thing of the fencing scene.”</p>
+ 			<p>Laurie burst out with a hearty boy’s laugh, which made several passersby smile in spite of themselves.</p>
+ 			<p>“I’ll teach you whether we play Hamlet or not; it’s grand fun, and will straighten you up capitally. But I don’t believe that was your only reason for saying ‘I’m glad,’ in that decided way; was it, now?”</p>
+ 			<p>“No, I was glad that you were not in the saloon, because I hope you never go to such places. Do you?”</p>

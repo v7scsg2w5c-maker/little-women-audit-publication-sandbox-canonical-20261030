@@ -1,0 +1,1 @@
+Change “view;’” to “view’;” (chapter 35, line 62)

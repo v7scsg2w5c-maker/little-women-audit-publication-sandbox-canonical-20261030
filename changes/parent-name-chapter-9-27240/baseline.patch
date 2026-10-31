@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-9.xhtml b/src/epub/text/chapter-9.xhtml
+index a7250df49a45e628539106f96c257dc05203ce96..dfdaa26bac50c6236acb73f6e4e85228cef764d5 100644
+--- a/src/epub/text/chapter-9.xhtml
++++ b/src/epub/text/chapter-9.xhtml
+@@ -114,7 +114,7 @@
+ 			<p>Away they went, fleetly and gracefully; for, having practised at home, they were well matched, and the blithe young couple were a pleasant sight to see, as they twirled merrily round and round, feeling more friendly than ever after their small tiff.</p>
+ 			<p>“Laurie, I want you to do me a favor; will you?” said Meg, as he stood fanning her, when her breath gave out, which it did very soon, though she would not own why.</p>
+ 			<p>“Won’t I!” said Laurie, with alacrity.</p>
+-			<p>“Please don’t tell them at home about my dress tonight. They won’t understand the joke, and it will worry mother.”</p>
++			<p>“Please don’t tell them at home about my dress tonight. They won’t understand the joke, and it will worry Mother.”</p>
+ 			<p>“Then why did you do it?” said Laurie’s eyes, so plainly that Meg hastily added⁠—</p>
+ 			<p>“I shall tell them, myself, all about it, and ’fess to mother how silly I’ve been. But I’d rather do it myself; so you’ll not tell, will you?”</p>
+ 			<p>“I give you my word I won’t; only what shall I say when they ask me?”</p>

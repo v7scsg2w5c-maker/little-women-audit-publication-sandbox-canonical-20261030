@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-22.xhtml b/src/epub/text/chapter-22.xhtml
+index 04b8d76c0ab340c26038f935bf4be9c861790f60..b23ac1737b9bf4e3df2268f9eb635edfd4ca7c39 100644
+--- a/src/epub/text/chapter-22.xhtml
++++ b/src/epub/text/chapter-22.xhtml
+@@ -96,7 +96,7 @@
+ 			<p>After a minute’s silence, he looked down at Amy, who sat on the cricket at his feet, and said, with a caress of the shining hair⁠—</p>
+ 			<p>“I observed that Amy took drumsticks at dinner, ran errands for her mother all the afternoon, gave Meg her place tonight, and has waited on everyone with patience and good-humor. I also observe that she does not fret much nor look in the glass, and has not even mentioned a very pretty ring which she wears; so I conclude that she has learned to think of other people more and of herself less, and has decided to try and mould her character as carefully as she moulds her little clay figures. I am glad of this; for though I should be very proud of a graceful statue made by her, I shall be infinitely prouder of a lovable daughter, with a talent for making life beautiful to herself and others.”</p>
+ 			<p>“What are you thinking of, Beth?” asked Jo, when Amy had thanked her father and told about her ring.</p>
+-			<p>“I read in <i epub:type="se:name.publication.book">Pilgrim’s Progress</i> today, how, after many troubles, Christian and Hopeful came to a pleasant green meadow, where lilies bloomed all the year round, and there they rested happily, as we do now, before they went on to their journey’s end,” answered Beth; adding, as she slipped out of her father’s arms, and went slowly to the instrument, “It’s singing time now, and I want to be in my old place. I’ll try to sing the song of the shepherd-boy which the Pilgrims heard. I made the music for father, because he likes the verses.”</p>
++			<p>“I read in <i epub:type="se:name.publication.book">Pilgrim’s Progress</i> today, how, after many troubles, Christian and Hopeful came to a pleasant green meadow, where lilies bloomed all the year round, and there they rested happily, as we do now, before they went on to their journey’s end,” answered Beth; adding, as she slipped out of her father’s arms, and went slowly to the instrument, “It’s singing time now, and I want to be in my old place. I’ll try to sing the song of the shepherd-boy which the Pilgrims heard. I made the music for Father, because he likes the verses.”</p>
+ 			<p>So, sitting at the dear little piano, Beth softly touched the keys, and, in the sweet voice they had never thought to hear again, sung to her own accompaniment the quaint hymn, which was a singularly fitting song for her:⁠—</p>
+ 			<blockquote epub:type="z3998:poem">
+ 				<p>

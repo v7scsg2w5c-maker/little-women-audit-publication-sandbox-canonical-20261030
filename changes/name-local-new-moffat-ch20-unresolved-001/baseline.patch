@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-20.xhtml b/src/epub/text/chapter-20.xhtml
+index caf8a9da5110616362e8114a45b9c5a6df3a828b..0925c6b199d79ee74d5cadc265ace66cfe7831c0 100644
+--- a/src/epub/text/chapter-20.xhtml
++++ b/src/epub/text/chapter-20.xhtml
+@@ -30,7 +30,7 @@
+ 			<p>“I want to tell you something, mother.”</p>
+ 			<p>“About Meg?”</p>
+ 			<p>“How quickly you guessed! Yes, it’s about her, and though it’s a little thing, it fidgets me.”</p>
+-			<p>“Beth is asleep; speak low, and tell me all about it. That Moffat hasn’t been here, I hope?” asked <abbr epub:type="z3998:name-title">Mrs.</abbr> March rather sharply.</p>
++			<p>“Beth is asleep; speak low, and tell me all about it. That <span epub:type="z3998:personal-name">Moffat</span> hasn’t been here, I hope?” asked <abbr epub:type="z3998:name-title">Mrs.</abbr> March rather sharply.</p>
+ 			<p>“No, I should have shut the door in his face if he had,” said Jo, settling herself on the floor at her mother’s feet. “Last summer Meg left a pair of gloves over at the Laurences’, and only one was returned. We forgot all about it, till Teddy told me that <abbr epub:type="z3998:name-title">Mr.</abbr> Brooke had it. He kept it in his waistcoat pocket, and once it fell out, and Teddy joked him about it, and <abbr epub:type="z3998:name-title">Mr.</abbr> Brooke owned that he liked Meg, but didn’t dare say so, she was so young and he so poor. Now, isn’t it a <em>dread</em>ful state of things?”</p>
+ 			<p>“Do you think Meg cares for him?” asked <abbr epub:type="z3998:name-title">Mrs.</abbr> March, with an anxious look.</p>
+ 			<p>“Mercy me! I don’t know anything about love and such nonsense!” cried Jo, with a funny mixture of interest and contempt. “In novels, the girls show it by starting and blushing, fainting away, growing thin, and acting like fools. Now Meg does not do anything of the sort: she eats and drinks and sleeps, like a sensible creature: she looks straight in my face when I talk about that man, and only blushes a little bit when Teddy jokes about lovers. I forbid him to do it, but he doesn’t mind me as he ought.”</p>

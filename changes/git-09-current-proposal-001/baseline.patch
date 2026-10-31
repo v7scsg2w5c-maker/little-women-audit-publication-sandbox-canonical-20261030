@@ -1,0 +1,25 @@
+diff --git a/src/epub/css/local.css b/src/epub/css/local.css
+index 658b439297ed8033027f44a36c3f8934feab162a..79a90b91e062d84d7289657e1dc2238c9e274640 100644
+--- a/src/epub/css/local.css
++++ b/src/epub/css/local.css
+@@ -155,3 +155,7 @@ section[epub|type~="epigraph"] > *{
+ 	}
+ }
+ /* End full-page epigraphs */
++
++.telegram{
++	font-variant: all-small-caps;
++}
+diff --git a/src/epub/text/chapter-15.xhtml b/src/epub/text/chapter-15.xhtml
+index db1d183dacf7c577bc57e08bf19b95f3e1db36b3..f0bcf07461a15cc3fd8f575761fbf544e5649f45 100644
+--- a/src/epub/text/chapter-15.xhtml
++++ b/src/epub/text/chapter-15.xhtml
+@@ -29,7 +29,7 @@
+ 			<p>A sharp ring interrupted her, and a minute after Hannah came in with a letter.</p>
+ 			<p>“It’s one of them horrid telegraph things, mum,” she said, handing it as if she was afraid it would explode and do some damage.</p>
+ 			<p>At the word “telegraph,” <abbr epub:type="z3998:name-title">Mrs.</abbr> March snatched it, read the two lines it contained, and dropped back into her chair as white as if the little paper had sent a bullet to her heart. Laurie dashed downstairs for water, while Meg and Hannah supported her, and Jo read aloud, in a frightened voice⁠—</p>
+-			<blockquote epub:type="z3998:letter">
++			<blockquote class="telegram" epub:type="z3998:letter">
+ 				<p epub:type="z3998:salutation">“<abbr epub:type="z3998:name-title">Mrs.</abbr> March:</p>
+ 				<p>“Your husband is very ill. Come at once.</p>
+ 				<p epub:type="z3998:signature">“<abbr epub:type="z3998:given-name">S.</abbr> Hale,</p>

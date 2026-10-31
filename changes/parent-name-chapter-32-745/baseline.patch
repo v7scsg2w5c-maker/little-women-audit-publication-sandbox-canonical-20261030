@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-32.xhtml b/src/epub/text/chapter-32.xhtml
+index bc1c5f97d57f50bc30d4ef7fc19bbbb107a04c59..e7d67017f412c83d3e1cf0a9ffee67028eb84f92 100644
+--- a/src/epub/text/chapter-32.xhtml
++++ b/src/epub/text/chapter-32.xhtml
+@@ -12,7 +12,7 @@
+ 				<p epub:type="title">Tender Troubles</p>
+ 			</hgroup>
+ 			<p>“Jo, I’m anxious about Beth.”</p>
+-			<p>“Why, mother, she has seemed unusually well since the babies came.”</p>
++			<p>“Why, Mother, she has seemed unusually well since the babies came.”</p>
+ 			<p>“It’s not her health that troubles me now; it’s her spirits. I’m sure there is something on her mind, and I want you to discover what it is.”</p>
+ 			<p>“What makes you think so, mother?”</p>
+ 			<p>“She sits alone a good deal, and doesn’t talk to her father as much as she used. I found her crying over the babies the other day. When she sings, the songs are always sad ones, and now and then I see a look in her face that I don’t understand. This isn’t like Beth, and it worries me.”</p>

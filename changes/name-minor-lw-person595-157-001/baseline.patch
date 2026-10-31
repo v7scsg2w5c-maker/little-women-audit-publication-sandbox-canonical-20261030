@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-16.xhtml b/src/epub/text/chapter-16.xhtml
+index 74f2738e450d3819c3f01b2b1c1cb707f70f5040..12e446f24bc46a5d44ca5941429977d725b3efc1 100644
+--- a/src/epub/text/chapter-16.xhtml
++++ b/src/epub/text/chapter-16.xhtml
+@@ -117,7 +117,7 @@
+ 			</blockquote>
+ 			<blockquote epub:type="z3998:letter">
+ 				<p epub:type="z3998:salutation">“Ma Chere Mamma⁠—</p>
+-				<p>“We are all well I do my lessons always and never corroberate the girls⁠—Meg says I mean contradick so I put in both words and you can take the properest. Meg is a great comfort to me and lets me have jelly every night at tea its so good for me Jo says because it keeps me sweet tempered. Laurie is not as respeckful as he ought to be now I am almost in my teens, he calls me Chick and hurts my feelings by talking French to me very fast when I say Merci or Bon jour as Hattie King does. The sleeves of my blue dress were all worn out, and Meg put in new ones, but the full front came wrong and they are more blue than the dress. I felt bad but did not fret I bear my troubles well but I do wish Hannah would put more starch in my aprons and have buckwheats every day. Can’t she? Didn’t I make that interrigation point nice? Meg says my punchtuation and spelling are disgraceful and I am mortyfied but dear me I have so many things to do, I can’t stop. Adieu, I send heaps of love to Papa.</p>
++				<p>“We are all well I do my lessons always and never corroberate the girls⁠—Meg says I mean contradick so I put in both words and you can take the properest. Meg is a great comfort to me and lets me have jelly every night at tea its so good for me Jo says because it keeps me sweet tempered. Laurie is not as respeckful as he ought to be now I am almost in my teens, he calls me Chick and hurts my feelings by talking French to me very fast when I say Merci or Bon jour as <span epub:type="z3998:personal-name">Hattie King</span> does. The sleeves of my blue dress were all worn out, and Meg put in new ones, but the full front came wrong and they are more blue than the dress. I felt bad but did not fret I bear my troubles well but I do wish Hannah would put more starch in my aprons and have buckwheats every day. Can’t she? Didn’t I make that interrigation point nice? Meg says my punchtuation and spelling are disgraceful and I am mortyfied but dear me I have so many things to do, I can’t stop. Adieu, I send heaps of love to Papa.</p>
+ 				<p epub:type="z3998:valediction">“Your affectionate daughter,</p>
+ 				<p epub:type="z3998:signature">“Amy Curtis March.”</p>
+ 			</blockquote>

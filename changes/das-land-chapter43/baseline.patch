@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-43.xhtml b/src/epub/text/chapter-43.xhtml
+index c024c2d3531937fc3f62e285e8e96a54149d498c..c79a0ee7c633a58380a7670f4d2cbe3a091b8357 100644
+--- a/src/epub/text/chapter-43.xhtml
++++ b/src/epub/text/chapter-43.xhtml
+@@ -144,7 +144,7 @@
+ 					<span>where the citron blooms,”</span>
+ 				</p>
+ 			</blockquote>
+-			<p class="continued">used to be the Professor’s favorite line, for “<i xml:lang="de">das land</i>” meant Germany to him; but now he seemed to dwell, with peculiar warmth and melody, upon the words⁠—</p>
++			<p class="continued">used to be the Professor’s favorite line, for “<i xml:lang="de">das Land</i>” meant Germany to him; but now he seemed to dwell, with peculiar warmth and melody, upon the words⁠—</p>
+ 			<blockquote epub:type="z3998:song">
+ 				<p>
+ 					<span>“There, oh there, might I with thee,</span>

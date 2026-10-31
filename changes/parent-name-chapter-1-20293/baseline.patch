@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-1.xhtml b/src/epub/text/chapter-1.xhtml
+index 99a3196e0457428ff24f89d8e277638d6adbf830..93fc67c87a7100c89b0b1e0a39d2697752a597c5 100644
+--- a/src/epub/text/chapter-1.xhtml
++++ b/src/epub/text/chapter-1.xhtml
+@@ -92,7 +92,7 @@
+ 			<p>Everybody sniffed when they came to that part; Jo wasn’t ashamed of the great tear that dropped off the end of her nose, and Amy never minded the rumpling of her curls as she hid her face on her mother’s shoulder and sobbed out, “I <em>am</em> a selfish girl! but I’ll truly try to be better, so he mayn’t be disappointed in me by and by.”</p>
+ 			<p>“We all will!” cried Meg. “I think too much of my looks, and hate to work, but won’t any more, if I can help it.”</p>
+ 			<p>“I’ll try and be what he loves to call me, ‘a little woman,’ and not be rough and wild; but do my duty here instead of wanting to be somewhere else,” said Jo, thinking that keeping her temper at home was a much harder task than facing a rebel or two down South.</p>
+-			<p>Beth said nothing, but wiped away her tears with the blue army-sock, and began to knit with all her might, losing no time in doing the duty that lay nearest her, while she resolved in her quiet little soul to be all that father hoped to find her when the year brought round the happy coming home.</p>
++			<p>Beth said nothing, but wiped away her tears with the blue army-sock, and began to knit with all her might, losing no time in doing the duty that lay nearest her, while she resolved in her quiet little soul to be all that Father hoped to find her when the year brought round the happy coming home.</p>
+ 			<p><abbr epub:type="z3998:name-title">Mrs.</abbr> March broke the silence that followed Jo’s words, by saying in her cheery voice, “Do you remember how you used to play ‘Pilgrim’s Progress’ when you were little things? Nothing delighted you more than to have me tie my piece-bags on your backs for burdens, give you hats and sticks and rolls of paper, and let you travel through the house from the cellar, which was the City of Destruction, up, up, to the housetop, where you had all the lovely things you could collect to make a Celestial City.”</p>
+ 			<p>“What fun it was, especially going by the lions, fighting Apollyon, and passing through the Valley where the hobgoblins were!” said Jo.</p>
+ 			<p>“I liked the place where the bundles fell off and tumbled downstairs,” said Meg.</p>

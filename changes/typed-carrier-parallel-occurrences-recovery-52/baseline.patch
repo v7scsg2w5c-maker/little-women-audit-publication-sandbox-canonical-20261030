@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-32.xhtml b/src/epub/text/chapter-32.xhtml
+index bc1c5f97d57f50bc30d4ef7fc19bbbb107a04c59..19b3a7accf8bbd5108d215f388b62ca5fb834516 100644
+--- a/src/epub/text/chapter-32.xhtml
++++ b/src/epub/text/chapter-32.xhtml
+@@ -50,7 +50,7 @@
+ 			<p>“How many bouquets have you sent Miss Randal this week?”</p>
+ 			<p>“Not one, upon my word. She’s engaged. Now then.”</p>
+ 			<p>“I’m glad of it; that’s one of your foolish extravagances⁠—sending flowers and things to girls for whom you don’t care two pins,” continued Jo reprovingly.</p>
+-			<p>“Sensible girls, for whom I do care whole papers of pins, won’t let me send them ‘flowers and things,’ so what can I do? My feelings must have a <i xml:lang="x-onglish">went</i>.”</p>
++			<p>“Sensible girls, for whom I do care whole papers of pins, won’t let me send them ‘flowers and things,’ so what can I do? My feelings must have a <i>went</i>.”</p>
+ 			<p>“Mother doesn’t approve of flirting, even in fun; and you do flirt desperately, Teddy.”</p>
+ 			<p>“I’d give anything if I could answer, ‘So do you.’ As I can’t, I’ll merely say that I don’t see any harm in that pleasant little game, if all parties understand that it’s only play.”</p>
+ 			<p>“Well, it does look pleasant, but I can’t learn how it’s done. I’ve tried, because one feels awkward in company, not to do as everybody else is doing; but I don’t seem to get on,” said Jo, forgetting to play Mentor.</p>

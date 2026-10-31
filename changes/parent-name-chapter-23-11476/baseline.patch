@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-23.xhtml b/src/epub/text/chapter-23.xhtml
+index 5339e88587f8cc44a4fed7ec82f6685732506283..82ad87871501a62f52ce3195316f26732b2944aa 100644
+--- a/src/epub/text/chapter-23.xhtml
++++ b/src/epub/text/chapter-23.xhtml
+@@ -53,7 +53,7 @@
+ 			<p>He was grave and pale now, and looked decidedly more like the novel heroes whom she admired; but he neither slapped his forehead nor tramped about the room, as they did; he just stood looking at her so wistfully, so tenderly, that she found her heart relenting in spite of her. What would have happened next I cannot say, if Aunt March had not come hobbling in at this interesting minute.</p>
+ 			<p>The old lady couldn’t resist her longing to see her nephew; for she had met Laurie as she took her airing, and, hearing of <abbr epub:type="z3998:name-title">Mr.</abbr> March’s arrival, drove straight out to see him. The family were all busy in the back part of the house, and she had made her way quietly in, hoping to surprise them. She did surprise two of them so much that Meg started as if she had seen a ghost, and <abbr epub:type="z3998:name-title">Mr.</abbr> Brooke vanished into the study.</p>
+ 			<p>“Bless me, what’s all this?” cried the old lady, with a rap of her cane, as she glanced from the pale young gentleman to the scarlet young lady.</p>
+-			<p>“It’s father’s friend. I’m <em>so</em> surprised to see you!” stammered Meg, feeling that she was in for a lecture now.</p>
++			<p>“It’s Father’s friend. I’m <em>so</em> surprised to see you!” stammered Meg, feeling that she was in for a lecture now.</p>
+ 			<p>“That’s evident,” returned Aunt March, sitting down. “But what is father’s friend saying to make you look like a peony? There’s mischief going on, and I insist upon knowing what it is,” with another rap.</p>
+ 			<p>“We were merely talking. <abbr epub:type="z3998:name-title">Mr.</abbr> Brooke came for his umbrella,” began Meg, wishing that <abbr epub:type="z3998:name-title">Mr.</abbr> Brooke and the umbrella were safely out of the house.</p>
+ 			<p>“Brooke? That boy’s tutor? Ah! I understand now. I know all about it. Jo blundered into a wrong message in one of your father’s letters, and I made her tell me. You haven’t gone and accepted him, child?” cried Aunt March, looking scandalized.</p>

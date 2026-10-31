@@ -1,0 +1,13 @@
+diff --git a/src/epub/text/chapter-11.xhtml b/src/epub/text/chapter-11.xhtml
+index 7e863e927a208bb65c105d6890ca9b00381f0fb2..157bbbaa5e0538a31a7a3f99ca77976315836e20 100644
+--- a/src/epub/text/chapter-11.xhtml
++++ b/src/epub/text/chapter-11.xhtml
+@@ -22,7 +22,7 @@
+ 			<p>“Don’t say ‘larks!’ ” implored Amy, as a return snub for the “samphire” correction.</p>
+ 			<p>“I’ll say ‘nightingales,’ then, with Laurie; that’s proper and appropriate, since he’s a warbler.”</p>
+ 			<p>“Don’t let us do any lessons, Beth, for a while, but play all the time, and rest, as the girls mean to,” proposed Amy.</p>
+-			<p>“Well, I will, if mother doesn’t mind. I want to learn some new songs, and my children need fitting up for the summer; they are dreadfully out of order, and really suffering for clothes.”</p>
++			<p>“Well, I will, if Mother doesn’t mind. I want to learn some new songs, and my children need fitting up for the summer; they are dreadfully out of order, and really suffering for clothes.”</p>
+ 			<p>“May we, mother?” asked Meg, turning to <abbr epub:type="z3998:name-title">Mrs.</abbr> March, who sat sewing, in what they called “Marmee’s corner.”</p>
+ 			<p>“You may try your experiment for a week, and see how you like it. I think by Saturday night you will find that all play and no work is as bad as all work and no play.”</p>
+ 			<p>“Oh, dear, no! it will be delicious, I’m sure,” said Meg complacently.</p>
